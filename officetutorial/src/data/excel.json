@@ -1,0 +1,130 @@
+[
+	{
+		"kode": 1,
+		"kategori": "excel",
+		"link": "Buku Kerja Baru",
+		"judul": "Membuat buku kerja di Excel",
+		"tutorial": "Membuat buku kerja. Buka Excel. Pilih Buku kerja kosong. Atau tekan Ctrl+N.",
+		"gambar": "https://support.content.office.net/id-id/media/3ba4d1df-9a53-48e9-817e-e8ded5a33671.png"
+	},
+	{
+		"kode": 2,
+		"kategori": "excel",
+		"link": "Memasukkan Data",
+		"judul": "Memasukkan data",
+		"tutorial": "Untuk memasukkan data secara manual: Pilih sel kosong, misalnya A1, lalu ketikkan teks atau angka. Tekan Enter atau Tab untuk berpindah ke sel berikutnya.\n\n Untuk mengisi data dalam seri: Masukkan awal seri dalam dua sel: misalnya Jan dan Feb; atau 2014 dan 2015. Pilih dua sel yang berisi seri, lalu seret gagang isian Gagang Isian melewati atau ke bawah sel.",
+		"gambar": "https://support.content.office.net/id-id/media/ce0b37c8-54cd-4c4d-baea-4e5f64922598.png"
+	},
+	{
+		"kode": 3,
+		"kategori": "excel",
+		"link": "Menyimpan Buku Kerja",
+		"judul": "Menyimpan buku kerja Anda ke OneDrive di Excel",
+		"tutorial": "Menyimpan buku kerja Anda ke OneDrive Simpan buku kerja ke OneDrive untuk mengaksesnya dari berbagai perangkat, serta berbagi dan berkolaborasi dengan orang lain. Pilih File > Simpan Sebagai. Untuk kantor atau sekolah, pilih OneDrive - <Nama perusahaan>. Untuk file pribadi, pilih OneDrive - Pribadi. Masukkan nama file, lalu pilih Simpan.",
+		"gambar": "https://support.content.office.net/id-id/media/690164d6-6476-49af-8b72-ac442a7a3246.png"
+	},
+	{
+		"kode": 4,
+		"kategori": "excel",
+		"link": "Menganalisis dan Memformat",
+		"judul": "Menganalisis dan memformat di Excel",
+		"tutorial": "Mengisi kolom secara otomatis dengan Isi Cepat Misalnya, isi kolom Nama Depan dari kolom Nama Lengkap secara otomatis. Dalam sel di bawah Nama Depan, ketikkan Molly, lalu tekan Enter. Di sel berikutnya, ketikkan beberapa huruf pertama Garret. Saat daftar nilai yang disarankan muncul, tekan Return.  Pilih Opsi Isi Cepat Ikon Opsi Isi Cepat untuk opsi lainnya. Cobalah!    Pilih File > Baru, pilih Ikuti tur, lalu pilih Tab Isian.",
+		"gambar": "https://support.content.office.net/id-id/media/0b333997-8843-44b5-981d-bedf111f1ba2.png"
+	},
+	{
+		"kode": 5,
+		"kategori": "excel",
+		"link": "Menghitung Otomatis",
+		"judul": "Menghitung dengan cepat menggunakan Jumlah Otomatis",
+		"tutorial": "Pilih sel di bawah angka yang ingin Anda tambahkan. Pilih Beranda > Jumlah Otomatis Tombol Jumlah Otomatis (sigma). Tekan Enter. \n E-mail   Untuk penghitungan lainnya, pilih panah bawah di samping Jumlah Otomatis, lalu pilih penghitungan.",
+		"gambar": "https://support.content.office.net/id-id/media/190e7493-ebe9-4b0d-9ddc-c648bcabff2b.png"
+	},
+	{
+		"kode": 6,
+		"kategori": "excel",
+		"link": "Membuat Bagan",
+		"judul": "Membuat Bagan",
+		"tutorial": "Gunakan alat Analisis Cepat untuk memilih bagan yang tepat bagi data Anda. Pilih data yang ingin ditampilkan dalam bagan. Pilih tombol Analisis Cepat gambar tombol di bagian kanan bawah sel yang dipilih. Pilih Bagan, telusuri opsi, lalu pilih bagan yang diinginkan.\n Cobalah!    Pilih File > baru, pilih Ikuti tur, lalu pilih tab bagan.",
+		"gambar": "https://support.content.office.net/id-id/media/808718a4-fac7-4388-9088-96f506e196c0.png"
+	},
+	{
+		"kode": 7,
+		"kategori": "excel",
+		"link": "Menggunakan Pemformatan Bersyarat",
+		"judul": "Menggunakan Pemformatan Bersyarat",
+		"tutorial": "Gunakan Analisis Cepat untuk menyorot data penting atau menampilkan tren data. Pilih data yang akan diberi format bersyarat. Pilih tombol Analisis Cepat gambar tombol di bagian kanan bawah sel yang dipilih. Pilih Pemformatan, telusuri opsi, lalu pilih pemformatan yang diinginkan. Cobalah!    Pilih File > Baru, pilih Ikuti tur, lalu pilih Tab Analisis.",
+		"gambar": "https://support.content.office.net/id-id/media/fc487b6e-a096-48cf-8bef-afaf0d1ac67c.png"
+	},
+	{
+		"kode": 8,
+		"kategori": "excel",
+		"link": "Membekukan baris atas judul",
+		"judul": "Membekukan baris atas judul",
+		"tutorial": "Bekukan baris bagian atas dari judul kolom sehingga hanya data yang dapat digulir. Tekan Enter atau Esc untuk memastikan bahwa Anda sudah selesai mengedit sel. Pilih tampilan > membekukan panel > membekukan baris atas.",
+		"gambar": "https://support.content.office.net/id-id/media/68e17007-b3f4-49d3-a642-3cd55f74ea18.png"
+	},
+	{
+		"kode": 9,
+		"kategori": "excel",
+		"link": "Berbagi buku kerja Anda",
+		"judul": "Berbagi buku kerja Anda dengan orang lain  ",
+		"tutorial": "Pilih Excel BagikanBagikan di pita. Atau, pilih File > Bagikan. Catatan: Jika file belum disimpan ke OneDrive, Anda akan diminta untuk mengunggahnya ke OneDrive agar file dapat dibagikan. Pilih dengan siapa saja Anda ingin berbagi dari menu menurun, atau masukkan nama atau alamat email.Tambahkan pesan (opsional) lalu pilih Kirim.",
+		"gambar": "https://support.content.office.net/id-id/media/4ee93042-54ab-48a4-a3bc-dd55681a7543.png"
+	},
+	{
+		"kode": 10,
+		"kategori": "excel",
+		"link": "Menyiapkan Aplikasi Seluler Excel",
+		"judul": "Menyiapkan aplikasi seluler Excel",
+		"tutorial": "Akses file dari mana saja, di kantor, rumah, atau saat dalam perjalanan. Siapkan aplikasi Office di perangkat seluler Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/81a36616-97ea-4cda-8de7-e13b6c102c35.png"
+	},
+	{
+		"kode": 11,
+		"kategori": "Excel",
+		"link": "Menambahkan Watermark",
+		"judul": "Menambahkan Watermark di Excel",
+		"tutorial": "Pilih Sisipkan > Header & Footer. Ketuk header dan pada tab Elemen Header & Footer di pita, klik Gambar. Pilih salah satu opsi yang tersedia untuk menyisipkan gambar Anda. Di header, Anda akan melihat& [Gambar]. Ketuk di mana saja di luar header untuk melihat cap air.",
+		"gambar": "https://winpoin.com/wp-content/uploads/2013/04/watermark-excel_01.jpeg"
+	},
+	{
+		"kode": 12,
+		"kategori": "excel",
+		"link": "Memformat Gambar Watermark",
+		"judul": "Memformat Gambar Watermark",
+		"tutorial": "Klik header di lembar bentang. Pada tab Elemen & Footer, klik Format Gambar. Dalam kotak dialog Format Gambar, pilih tab Gambar > Warna > memilih opsi.",
+		"gambar": "https://winpoin.com/wp-content/uploads/2013/04/watermark-excel_01.jpeg"
+	},
+	{
+		"kode": 13,
+		"kategori": "excel",
+		"link": "Mengubah Orientasi Teks Dalam Sel",
+		"judul": "Mengubah orientasi teks dalam sel",
+		"tutorial": "Pilih sel, baris, kolom, atau rentang. Pilih Beranda > Orientasi Opsi Orientasi di Excel teks membantu Anda memutar teks dalam sel., lalu pilih opsi. Anda dapat memutar teks ke atas, bawah, searah jarum jam, atau berlawanan arah jarum jam, atau meratakan teks secara vertikal",
+		"gambar": "https://support.content.office.net/id-id/media/6a831995-2a00-4694-b07d-205500705f9c.png"
+	},
+	{
+		"kode": 14,
+		"kategori": "excel",
+		"link": "Memutar teks ke sudut yang tepat",
+		"judul": "Memutar teks ke sudut yang tepat",
+		"tutorial": "Pilih sel, baris, kolom, atau rentang. Pilih Beranda > Orientasi Opsi Orientasi di Excel teks membantu Anda memutar teks dalam sel. > Format Perataan Sel. Di bawah Orientasi di sisi kanan, dalam kotak Derajat, gunakan panah atas atau bawah untuk mengatur angka derajat yang tepat yang Anda inginkan untuk memutar teks sel yang dipilih. Angka positif memutar teks ke atas. Angka negatif memutar teks ke bawah. ",
+		"gambar": "https://support.content.office.net/id-id/media/6a831995-2a00-4694-b07d-205500705f9c.png"
+	},
+	{
+		"kode": 15,
+		"kategori": "excel",
+		"link": "Meratakan kolom atau baris",
+		"judul": "Meratakan kolom atau baris",
+		"tutorial": "Mulai dengan memilih sel atau beberapa sel yang ingin Anda ratakan. Anda dapat meratakan teks dalam satu sel, rentang sel, baris atau baris, kolom atau kolom, atau seluruh lembar kerja. (Gunakan Ctrl+A untuk memilih semua sel.) \n Pilih sel yang ingin Anda ratakan. Pada tab Beranda, di grup Perataan, pilih opsi perataan horizontal. \n Pada tab Beranda, di grup Perataan, pilih opsi perataan vertikal.",
+		"gambar": "https://cdn.ablebits.com/_img-blog/excel-alignment/excel-alignment-options.png"
+	},
+	{
+		"kode": 16,
+		"kategori": "excel",
+		"link": "Menyalin pemformatan sel",
+		"judul": "Menyalin pemformatan sel",
+		"tutorial": "Pilih sel dengan pemformatan yang ingin Anda salin. Pilih Beranda > Pewarna Format. Seret untuk memilih sel atau rentang yang ingin Anda terapkan pemformatannya. Lepaskan tombol mouse dan pemformatan akan diterapkan.",
+		"gambar": "https://cdn.extendoffice.com/images/stories/doc-excel/copy-numbers/doc-copy-without-formulas-1.png"
+	}
+]

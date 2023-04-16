@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "access",
+		"link": "Membuat Database",
+		"judul": "Membuat Database pada Microsoft Office Access",
+		"tutorial": "- Buka Access.\n Jika sudah terbuka, pilih File > Baru.\n Pilih Database kosong atau pilih templat.\n Beri nama database tersebut, pilih lokasi, kemusian pilih buat.\n Jika perlu, pilih aktifkan konten di bilah pesan berwarna kuning saat database terbuka.\n",
+		"gambar": "https://support.content.office.net/id-id/media/a583e33b-496b-47e2-9f00-9b6f46fa5490.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "access",
+		"link": "Mengimpor Data dari Excel",
+		"judul": "Mengimpor Data dari Excel pada Microsoft Office Access",
+		"tutorial": "- Buka buku kerja Excel, pastikan setiap kolom memiliki judul dan tipe data konsisten, kemusian pilih rentang data.\n Pilih Data Eksternal > Excel.\n Pilih Telusuri untuk menemukan file excel, terima nilai defaultnya, lalu klik OK.\n Pilih Apakah barispertama data berisi judul kolom?, kemudian klik Berikutnya.\n Selesaikan semua layar panduan selanjutnya, lalu pilih selesai.",
+		"gambar": "https://support.content.office.net/id-id/media/634ff720-7358-42b5-bd26-71038c19c993.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "access",
+		"link": "Membuat Tabel Baru dalam Database Baru",
+		"judul": "Membuat Tabel Baru dalam Database Baru",
+		"tutorial": "- Klik File > baru, lalu pilih Database desktop kosong.\n Dalam kotak Nama file, ketik nama file untuk database baru.\n Untuk menelusuri lokasi yang berbeda dan menyimpan database, klik ikon folder.\n Klik Buat.\n Database baru terbuka, dan tabel baru yang bernama Tabel1 dibuat dan dibuka dalam tampilan Lembardata.",
+		"gambar": "https://ilmuonline.net/wp-content/uploads/2013/03/database-baru-access-768x400.jpg"
+	},
+	{
+		"kode": "4",
+		"kategori": "access",
+		"link": "Import Tabel Dari Data Eksternal",
+		"judul": "Membuat Tabel Baru dengan Mengimpor atau Menautkan ke Data Eksternal",
+		"tutorial": "- Klik File > Buka.\n Dalam kotak dialog Buka, pilih dan buka database di mana Anda ingin membuat tabel baru.\n Di tab Data Eksternal, dalam grup Impor & Tautkan, klik salah satu sumber data yang tersedia.\n kuti petunjuk dalam kotak dialog yang muncul di setiap langkah.",
+		"gambar": "https://support.content.office.net/id-id/media/c2d7a279-c239-4a55-8de3-357eb6b08b6f.gif"
+	},
+	{
+		"kode": "5",
+		"kategori": "access",
+		"link": "Mengatur Properti Tabel",
+		"judul": "Mengatur Properti Tabel pada Microsoft Access",
+		"tutorial": "- Pilih tabel yang propertinya ingin Anda atur.\n Pada tab Beranda, di grup Tampilan, klik Tampilkan, lalu klik Tampilan Desain.\n Pada tab Desain, dalam grup Perlihatkan/Sembunyikan, klik Lembar Properti.\n Klik kotak di sebelah kiri properti yang ingin diatur, lalu masukkan pengaturan untuk properti.\n Jangan lupa tekan CTRL+S untuk menyimpan perubahan Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/5a5e6a17-05b3-441b-86bf-dcfe7c1cd836.gif"
+	},
+	{
+		"kode": "6",
+		"kategori": "access",
+		"link": "Mengatur atau Mengubah kunci utama",
+		"judul": "Mengatur atau Mengubah kunci utama",
+		"tutorial": "- Pilih tabel yang kunci utamanya ingin Anda atur atau ubah.\n Pada tab Beranda, di grup Tampilan, klik Tampilkan, lalu klik Tampilan Desain.\n Di kisi desain tabel, pilih bidang yang ingin digunakan sebagai kunci utama.\n Untuk memilih satu bidang, klik pemilih baris untuk bidang yang diinginkan.\n Untuk memilih lebih dari satu bidang, tahan CTRL, lalu klik pemilih baris untuk setiap bidang.\n Pada tab Desain, di grup Alat, klik Kunci Utama.\n Indikator penting muncul di sebelah kiri bidang atau bidang yang Anda tentukan sebagai kunci utama.",
+		"gambar": "https://support.content.office.net/id-id/media/23c4fe09-0795-4ada-b32d-8cc8fe09220e.gif"
+	},
+	{
+		"kode": "7",
+		"kategori": "access",
+		"link": "Menghapus kunci utama",
+		"judul": "Menghapus kunci utama",
+		"tutorial": "- Pilih tabel yang kunci utamanya ingin diatur atau diubah.\n Pada tab Beranda, di grup Tampilan, klik Tampilkan, lalu klik Tampilan Desain.\n Klik pemilih baris untuk kunci utama saat ini. Jika kunci utama terdiri dari beberapa bidang, tahan CTRL, kemudian klik pemilih baris untuk setiap bidang.\n Pada tab Desain, di grup Alat, klik Kunci Utama.\n Indikator kunci dihapus dari bidang atau beberapa bidang yang Anda tentukan sebelumnya sebagai kunci utama.",
+		"gambar": "https://support.content.office.net/id-id/media/23c4fe09-0795-4ada-b32d-8cc8fe09220e.gif"
+	},
+	{
+		"kode": "8",
+		"kategori": "access",
+		"link": "Menambahkan bidang",
+		"judul": "Menambahkan bidang dengan memasukkan data",
+		"tutorial": "- Buat atau buka tabel dalam tampilan Lembar Data dengan mengklik kanan tabel yang Anda inginkan di Panel Navigasi, lalu klik tampilan Lembar Data dari menu pintasan.\n Dalam kolom Tambahkan Bidang Baru, masukkan nama bidang yang ingin dibuat.\n Gunakan nama deskriptif agar bidang tersebut mudah untuk diidentifikasi.\n Masukkan data ke dalam bidang baru.",
+		"gambar": "https://support.content.office.net/id-id/media/57ae10c6-dd79-467d-80f8-152171a693e4.gif"
+	},
+	{
+		"kode": "9",
+		"kategori": "access",
+		"link": "Menambahkan bidang menggunakan templat bidang",
+		"judul": "Menambahkan bidang dengan menggunakan templat bidang",
+		"tutorial": "- Pada tab Beranda, di grup Tampilan, klik Tampilkan, lalu klik Tampilan Lembardata.\n Di tab Bidang, dalam grup Tambahkan & Hapus, klik Bidang Lainnya.\n Pilih bidang dalam daftar Bidang Lainnya untuk menyisipkan kolom baru. Access menempatkan bidang di sebelah kanan kolom tempat kursor saat ini berada. Jika memilih salah satu opsi bidang di bawah judul Mulai Cepat, seperti Alamat, Access membuat beberapa bidang dalam tabel Anda yang berisi berbagai bagian alamat.",
+		"gambar": "https://support.content.office.net/id-id/media/feb87ab9-79ef-46f4-b10b-b04f47622152.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "access",
+		"link": "Mengubah tipe data bidang",
+		"judul": "Mengubah tipe data bidang",
+		"tutorial": "- Di Pita, klik tab Bidang.\n Dalam daftar Tipe Data, di grup Pemformatan, pilih tipe data yang Anda inginkan.",
+		"gambar": "https://support.content.office.net/id-id/media/45bf63fe-f634-409d-b806-73a970fc8b40.gif"
+	},
+	{
+		"kode": "11",
+		"kategori": "access",
+		"link": "Menggabungkan bidang",
+		"judul": "Menggabungkan bidang menggunakan Tipe data terhitung",
+		"tutorial": "- Pilih tabel.\n Pilih Klik untuk > Bidang Terhitung, lalu pilih tipe data.\n Masukkan perhitungan untuk bidang, lalu klik OK. Ketikkan ekspresi sendiri, atau pilih elemen ekspresi, bidang, dan nilai untuk meletakkannya ke dalam bidang edit ekspresi.\n Di judul bidang, ketikkan nama untuk bidang terhitung, lalu tekan Enter.",
+		"gambar": "https://support.content.office.net/id-id/media/b4f63fcf-207a-4523-8079-55a27331da81.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "access",
+		"link": "Menambahkan masker input ke bidang tabel",
+		"judul": "Menambahkan masker input ke bidang tabel menggunakan Panduan Masker Input",
+		"tutorial": "- Di Panel Navigasi, klik kanan tabel dan klik Tampilan Desain pada menu pintasan.\n Klik bidang di mana Anda ingin menambahkan masker input.\n Di bawah Properti Bidang, pada tab Umum, klik kotak properti Masker Input.\n Klik tombol Susun Tombol Penyusununtuk memulai Panduan Masker Input.\n Dalam daftar Masker Input, pilih tipe masker yang ingin Anda tambahkan.\n Klik Coba dan masukkan data untuk menguji tampilan masker.\n Untuk mempertahankan masker input tanpa perubahan apa pun, klik Berikutnya.\n Pilih satu opsi untuk cara penyimpanan data yang Anda inginkan.\n Klik Selesai dan simpan perubahan Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/82a36989-53d2-4599-966e-4497b7dbe266.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "access",
+		"link": "Membuat aturan validasi bidang",
+		"judul": "Membuat aturan validasi bidang",
+		"tutorial": "- Pilih bidang yang ingin Anda validasi.\n Pada tab Bidang, di grup Validasi Bidang, klik Validasi, lalu klik Aturan Validasi Bidang.\n Menggunakan Penyusun Ekspresi untuk membuat aturan. ",
+		"gambar": "https://support.content.office.net/id-id/media/d086c7cc-d679-4036-ab55-4b256909bcef.png"
+	},
+	{
+		"kode": "14",
+		"kategori": "access",
+		"link": "Mengatur kunci primer",
+		"judul": "Mengatur kunci primer menggunakan bidang yang telah Anda miliki di Access",
+		"tutorial": "- Buka database yang ingin Anda ubah.\n Dalam Panel Navigasi, klik kanan tabel yang ingin Anda beri kunci utama dan, pada menu pintasan, klik Tampilan Desain.\n Pilih bidang atau beberapa bidang yang ingin Anda gunakan sebagai kunci utama.\n Untuk memilih satu bidang, klik pemilih baris untuk bidang yang Anda inginkan.\n Untuk memilih lebih dari satu bidang guna membuat kunci komposit, tahan CTRL, kemudian klik pemilih baris untuk setiap bidang.\n Pada tab Desain, di grup Alat, klik Kunci Utama.\n Indikator kunci akan ditambahkan ke sebelah kiri bidang atau beberapa bidang yang Anda tentukan sebagai kunci primer.",
+		"gambar": "https://support.content.office.net/id-id/media/23c4fe09-0795-4ada-b32d-8cc8fe09220e.gif"
+	},
+	{
+		"kode": "15",
+		"kategori": "access",
+		"link": "Menghapus kunci primer di Access",
+		"judul": "Menghapus kunci primer di Access",
+		"tutorial": "- Sebelum menghapus kunci primer, Anda harus memastikan bahwa kunci tersebut tidak disertakan dalam hubungan tabel apa pun. Jika Anda mencoba menghapus kunci primer yang merupakan bagian dari satu atau beberapa hubungan, Access akan memperingatkan Anda untuk menghapus hubungannya terlebih dahulu.\n Untuk menghapus hubungan tabel, selesaikan langkah berikut:   Jika tabel yang disertakan dalam hubungan tabel terbuka, tutup tabel tersebut. Anda tidak dapat menghapus hubungan tabel di antara tabel yang terbuka.\n Pada tab Alat Database , dalam grup Hubungan , klik Hubungan.\n Pilih Tambahkan tabel (perlihatkan tabel dalam Access 2013).\n Klik garis hubungan tabel untuk hubungan tabel yang ingin Anda hapus (garis menjadi tebal ketika dipilih), lalu tekan tombol DELETE.\n Pada tab Desain, dalam grup Hubungan, klik Tutup.\n Setelah Anda menghapus hubungan, dalam Panel Navigasi, klik kanan tabel yang ingin dihapus kunci utamanya, lalu klik Tampilan Desain.",
+		"gambar": "https://support.content.office.net/id-id/media/136e7f74-9a47-4d1a-b66c-2708a8cb013c.png"
+	}
+]

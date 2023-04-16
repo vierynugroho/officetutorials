@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "onedrive",
+		"link": "Menggunakan onedrive di browser",
+		"judul": "Menggunakan onedrive di browser",
+		"tutorial": "- Masuk ke office.com,\n Pilih ikon peluncur aplikasi, lalu pilih OneDrive.\n Pilih fole atau folder dengn memilih lingkaran di sudut atas item, lalu pilih perintah di bagian halaman,",
+		"gambar": "https://support.content.office.net/id-id/media/e849df0d-fda7-4ee1-9367-a233fe129ec3.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "onedrive",
+		"link": "Mengunggah  file atau folder",
+		"judul": "Mengunggah  file atau folder ke OneDrive",
+		"tutorial": "- Pilih Uppload > FolderUpload > Folder.\n Pilih file atau folder yang ingin diunggah.\n Pilih Buka atau Pilih Folder.",
+		"gambar": "https://support.content.office.net/id-id/media/8866818a-d50a-459c-87e9-59d2dc333073.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "onedrive",
+		"link": "Menyimpan file",
+		"judul": "Menyimpan file ke OneDrive",
+		"tutorial": "- Pilih File > Simpan Salinan > OneDrive - Pribadi.\n Pilih Masukkan nama file di sini lalu ketikkan nama.\n Jika ingin menyimpan ke folder lain pilih Telusuri lalu pilih folder yang anda inginkan.\n Pilih simpan.",
+		"gambar": "https://support.content.office.net/id-id/media/031ab342-2ff3-4077-aca0-fc5280d96326.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "onedrive",
+		"link": "Mengunggah file menggunakan situs web",
+		"judul": "Mengunggah file menggunakan situs web OneDrive",
+		"tutorial": "- Di situs OneDrive anda, masuk dengan akun microsoft anda, lalu telusuri ke lokasi tempat anda ingin menambahkan file.\n Pilih Unggah.\n Pilih file yang ingin anda unggah, kemuadian pilih Buka.",
+		"gambar": "https://support.content.office.net/id-id/media/4e410f87-e4a0-4bfc-8e13-98bb68e3eca8.png"
+	},
+	{
+		"kode": "5",
+		"kategori": "onedrive",
+		"link": "Membuat dokumen dari OneDrive for Work atau school",
+		"judul": "Membuat dokumen dari OneDrive for Work atau school",
+		"tutorial": "- Klik Baru, lali pilih tipe dokumen yang ingin anda buat, seperti Word, Excel, atau PowerPoint.\n Untuk mengganti nama dokumen, klik nama dokumen di bilah judul, ketikan nama baru yang diinginkan, lalu tekan ENTER.\n Saat anda sudah selesai dan ingin kembali ke tempat file disimpan, klik nama anda di samping nama file.",
+		"gambar": "https://support.content.office.net/id-id/media/f9d066d7-fca1-4a1b-b7a8-0d1866699fc5.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "onedrive",
+		"link": "Membuat dokumen dari aplikasi desktop Office",
+		"judul": "Membuat dokumen dari aplikasi desktop Office",
+		"tutorial": "- Memulai dokumen seperti biasa di aplikasi desktop office (File > Baru, dan pilih satu template).\n Saat anda siap menyimpan dokumen, klik File > Simpan sebagai > OneDrive - YourCompanyName. misalnya, OneDrive - Contoso.\n Beri nama file,dan klik Simpan.",
+		"gambar": "https://support.content.office.net/id-id/media/d405f5b3-750a-42e0-9b1d-69eac5daba9b.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "onedrive",
+		"link": "Menambahkan folder bersama ke Onedrive",
+		"judul": "Menambahkan folder bersama ke Onedrive",
+		"tutorial": "- Masuk untuk OneDrive browser anda dengan akun pribadi microsoft.\n Di panel navigasi kiri, di bawah OneDrive, pilih Dibagikan. FIle dan folder yang dapat ditambahkan ke dokumen OneDrive ditandai dengn Dapat mengedit.\n Temukan folder yang ingin ditambahkan, pilihlingkaran di ubin folder, lalu pilih Tambahkan pintasan ke File saya di menu atas. atau klik  kanan folder dan pilih tambahkan pintasan ke File saya.",
+		"gambar": "https://support.content.office.net/id-id/media/c37c421d-fcf0-4ada-b43f-8a0de6ae284b.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "onedrive",
+		"link": "Menghapus file dan folder bersama",
+		"judul": "Menghapus file bersama dan folder bersama dari folder OneDrive",
+		"tutorial": "- Dalam tampilan File, pilih folder bersama yang ingin dihapus.\n Pilih Hapus pintasan dari file saya (Tindakan ini hanya menghapus folder dari OneDrive Anda, folder masih dapat diakses dari daftar Bersama dan tidak memengaruhi pemilik atau orang lain yang berbagi folder tersebut. Jika Anda menghapusnya, folder akan dihapus dari OneDrive semua orang dan pemilik folder harus memulihkannya).",
+		"gambar": "https://support.content.office.net/id-id/media/54e5a18b-4276-417c-9e92-452bd52973db.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "onedrive",
+		"link": "Berbagi file dan folder",
+		"judul": "Berbagi file dan folder dengan orang tertentu",
+		"tutorial": "- Masuk ke situs web OneDrive dan masuk dengN akum Microsoft atau akun kerja atau sekolah anda.\n Pilih file atau fo;der yang ingin anda bagikan dengan memilih ikon lingkarannya, jika anda menggunakan tampilan daftar, pilih lingkaran di sisi kiri item. Anda jiha dapat memilih beberapa item untuk dibagikan bersama-sama, Jika anda menggunakan tampilan ubin, pilih lingkaran di sudut kanan atas item. Anda juga dapat memilih bebrapa item untuk dibagikan bersama-sama.\n Pilih Bagika di bagian atas halaman.\n Di bawah Kirim tautan, pilih Siapapun yang memiliki tautan dapat mengedit untuk membuka pengaturan tautan.\n Jika anda menggunakan OneDrive untuk kantor atau sekolah, anda bisa mengubah izin tautan. Jika tidak, lewati langkah ini.\n Setelah mengatur semua pengaturan dan izin tautan, pilih Terapkan.\n Dalam bidang Nama, grup, atau email, mulailah mengetik alamat email atau nama kontak orang-orang yang ingin Anda ajak berbagi. Ketika mulai memasukkan info ke dalam kotak, Anda juga dapat memilih kontak dari daftar yang muncul.\n Sertakan pesan di bawah bidang Nama, grup, atau email , jika Anda mau.\n Pilih kirim.",
+		"gambar": "https://support.content.office.net/id-id/media/ae00df0f-de86-4cd4-87ce-b6a6f0423aa3.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "onedrive",
+		"link": "Berbagi menggunakan Tautan",
+		"judul": "Bagikan dengan menggunakan Salin Tautan",
+		"tutorial": "- Masuk ke situs web OneDrive dan masuk dengan akun Microsoft atau akun kerja atau sekolah Anda.\n Pilih file atau folder yang ingin Anda bagikan dengan memilih ikon lingkarannya.\n Pilih bagikan di bagian atas halaman.\n Di bawah Salin Tautan, pilih Siapa pun yang memiliki tautan dapat mengedit untuk membuka pengaturan tautan.\n Untuk mengubah izin tautan, pilih opsi untuk orang yang ingin Anda beri akses dengan tautan.\n Setelah mengatur semua pengaturan dan izin tautan, pilih Terapkan.\n Di bawah Salin tautan, pilih Salin.\n Tempelkan tautan dan kirim tautan ke tempat Anda ingin mengirimkannya, seperti email, pesan, atau postingan.",
+		"gambar": "https://support.content.office.net/id-id/media/ae00df0f-de86-4cd4-87ce-b6a6f0423aa3.png"
+	},
+	{
+		"kode": "11",
+		"kategori": "onedrive",
+		"link": "melihat file bersama yang dibagikan",
+		"judul": "melihat file bersama yang dibagikan",
+		"tutorial": "- Untuk menampilkan daftar file bersama di OneDrive, masuk ke onedrive.com dan masuk.\n Pilih Dibagikan di navigasi untuk melihat daftar semua file yang Anda bagikan, dan file yang dibagikan dengan Anda, memperlihatkan nama siapa yang membagikannya.",
+		"gambar": "https://support.content.office.net/id-id/media/2ed8c4a9-4b7c-47be-af9b-a3e5935540a8.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "onedrive",
+		"link": "Mengelola file bersama",
+		"judul": "Mengelola file bersama",
+		"tutorial": "- Untuk mengelola akses ke file yang telah Anda bagikan, pilih satu item saja. Anda tidak dapat mengelola akses ke lebih dari satu item dalam satu waktu.\n Pilih Info di kanan atas, lalu Kelola akses.",
+		"gambar": "https://support.content.office.net/id-id/media/c1a9afe1-b04e-4e20-8ce7-21ca0378fec8.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "onedrive",
+		"link": "Pemberitauan file bersama",
+		"judul": "Mendapatkan pemberitahuan saat seseorang menampilkan atau mengedit file office bersama",
+		"tutorial": "- Untuk mengelola akses ke file yang telah Anda bagikan, pilih satu item saja. Anda tidak dapat mengelola akses pada lebih dari satu item dalam satu waktu.\n Pilih Info di kanan atas, lalu Kelola akses.\n Lalu pilih/batalkan pilihan ikon bel.",
+		"gambar": "https://support.content.office.net/id-id/media/c1a9afe1-b04e-4e20-8ce7-21ca0378fec8.png"
+	},
+	{
+		"kode": "14",
+		"kategori": "onedrive",
+		"link": "Mengunggah file ke SharePoint",
+		"judul": "Memberi tahu tim setelah mengunggah file ke SharePoint",
+		"tutorial": "- Beri tahu tim Anda saat Mengunggah file ke SharePoint di web.\n Setelah menyeret atau mengunggah file ke SharePoint, Anda akan melihat opsi untuk memberi tahu tim tentang file baru.\n Ketika memilih Beri tahu tim, Anda dapat memilih SharePoint individu atau grup untuk memperingatkan tentang file baru. Masukkan nama secara manual atau pilih dari mereka yang sudah memiliki akses ke folder tempat Anda mengunggah file.\n Setelah selesai, klik Beri Tahu, dan penerima akan menerima tautan yang hanya berfungsi untuk mereka.",
+		"gambar": "https://support.content.office.net/id-id/media/4004b25c-48b8-4c3f-ac37-79dbadc7a929.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "onedrive",
+		"link": "Menggunakan @mention dalam komentar",
+		"judul": "Menggunakan @mention dalam komentar",
+		"tutorial": "- Masuk ke Microsoft 365 dengan akun kerja atau sekolah Anda, lalu buka dokumen yang disimpan di Pustaka SharePoint atau OneDrive untuk kerja atau sekolah.\n Tambahkan komentar dari menu konteks atau dari Tinjau > Komentar Baru.\n Ketik @ dan beberapa huruf pertama nama depan atau belakang orang tersebut, lalu pilih nama yang Anda inginkan (Jika mereka belum memiliki izin untuk membuka dokumen, Anda akan diminta untuk memberikannya).",
+		"gambar": "https://support.content.office.net/id-id/media/073a328b-3281-4ee0-bd52-ac05eeb41726.png"
+	}
+]

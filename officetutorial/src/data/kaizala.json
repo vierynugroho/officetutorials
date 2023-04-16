@@ -1,0 +1,122 @@
+[
+	{
+		"kode": 1,
+		"kategori": "kaizala",
+		"link": "Memulai Kaizala",
+		"judul": "Mengenal Kaizala",
+		"tutorial": "Microsoft Kaizala adalah aplikasi pesan aman dan manajemen kerja yang memungkinkan Anda berkolaborasi dengan orang lain di dalam dan di luar organisasi Anda. Mengirim dan menerima pesan instan, mengkoordinasikan tugas, mengirimkan faktur, dan menggunakan alat khusus untuk berinteraksi dengan tim Anda di mana pun Anda berada. \nKaizala ini untuk individu, organisasi, dan komunitas. Fitur ini saat ini tersedia secara komersialsecara internasional kecuali di beberapa negara , dan telah tersedia di seluruh dunia sebagai aplikasi gratis di semua toko Android dan iOS.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 2,
+		"kategori": "kaizala",
+		"link": "Aplikasi seluler Kaizala",
+		"judul": "Aplikasi seluler Kaizala",
+		"tutorial": "-Mengunduh aplikasi seluler. \n Di perangkat seluler Anda, unduh Microsoft Kaizala dari Google Play Store atau App Store.\n Ketuk Mulai.\n Masukkan nama dan nomor telepon Anda, lalu ketuk Berikutnya.\n Perbolehkan Kaizala untuk memverifikasi nomor telepon Dan mengimpor daftar kontak Anda.\n Anda sudah siap untuk mulai menggunakan Kaizala.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 3,
+		"kategori": "kaizala",
+		"link": "Unduh dan mulai menggunakan",
+		"judul": "Unduh dan mulai menggunakan",
+		"tutorial": "Di perangkat seluler Anda, Unduh Microsoft Kaizala dari Google Play Store. \n Ketuk mulai.\n Masukkan Anda nama dan nomor telepon, dan lalu ketuk berikutnya.\n Perbolehkan Kaizala untuk memverifikasi nomor telepon Anda dan mengimpor daftar kontak Anda.\n Anda sudah siap untuk menyiapkan profil Anda dan mulai menggunakan Kaizala.",
+		"gambar": "https://support.content.office.net/en-us/media/28bd2702-3eb5-48c3-bb52-fd6adbd82a82.png"
+	},
+	{
+		"kode": 4,
+		"kategori": "kaizala",
+		"link": "Menyiapkan profil Anda",
+		"judul": "Menyiapkan profil Anda",
+		"tutorial": "Di bagian bawah layar, ketuk profil Gambar saya tab di Kaizala.\n Ketuk nama Anda atau ikon edit profil untuk menambahkan nama Anda, lokasi, dan alamat email.\n Ketuk ikon kamera untuk memperbarui gambar profil Anda.\n Ketuk ikon edit status untuk memperbarui status Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 5,
+		"kategori": "kaizala",
+		"link": "Memulai obrolan",
+		"judul": "Memulai obrolan",
+		"tutorial": "Ketuk obrolan Gambar tab obrolan di Kaizala > obrolan baru Gambar ikon Tambahkan Kaizala.\n Pilih kontak yang Anda inginkan untuk mengobrol dengan dari daftar untuk mengirim pesan.\n Jika salah satu kontak Anda tidak menggunakan Kaizala , kirimi mereka undangan untuk mereka memulai.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 6,
+		"kategori": "kaizala",
+		"link": "Membuat grup",
+		"judul": "Membuat grup",
+		"tutorial": "Ketuk obrolan Gambar tab obrolan di Kaizala > grup baru Gambar ikon Tambahkan Kaizala. \n Masukkan nama untuk grup Anda, dan lalu ketuk berikutnya.\n Untuk menambahkan kontak atau grup, gulir menelusuri daftar untuk menambahkannya atau mencarinya dalam kotak pencarian.\n Ketuk Berikutnya.\n Pilih ikon grup.\n Ketuk selesai untuk membuat grup Anda dan akan muncul di daftar obrolan Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 7,
+		"kategori": "kaizala",
+		"link": "Menyiapkan rapat",
+		"judul": "Menyiapkan rapat",
+		"tutorial": "Ketuk obrolan Gambar tab obrolan di Kaizala untuk memulai atau buka obrolan.\n Ketuk tindakan Kaizala > Ayo ketemu.\n Masukkan judul Rapat, pilih tanggal dan waktu, dan lalu pilih durasi. \nMasukkan lokasi, atau pilih lokasi Anda saat ini, atau Cari lokasi dan lalu pilih. \nPilih respons hanya terlihat oleh saya, jika Anda lebih suka. \n Ketuk Kirim.\n Pengguna merespons dengan memilih ya, tidak ada, atau mungkin.\n Untuk menampilkan jepretan layar respons, Tindakan Kaizala, pilih Ayo ketemu.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 8,
+		"kategori": "kaizala",
+		"link": "Menampilkan item tindakan Anda",
+		"judul": "Menampilkan item tindakan Anda",
+		"tutorial": "Ketuk profil Gambar saya tab di Kaizala > item tindakan. Pilih tipe tindakan untuk melihat tipe diatur menurut diterima dan dikirim tindakan. Pilih tindakan dari daftar terlibat dalam percakapan itu. Gunakan panah kembali untuk kembali ke daftar tindakan tertunda.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 9,
+		"kategori": "kaizala",
+		"link": "Memperbarui profil",
+		"judul": "Memperbarui profil Anda",
+		"tutorial": "Anda dapat berbagi informasi seperti jabatan, alamat email, dan lokasi Kaizala Anda. Informasi profil Anda dapat dilihat oleh kontak Kaizala dan oleh anggota grup yang menjadi bagiannya.\n Untuk membuat atau mengedit profil Anda:\n Di bagian bawah layar, ketuk Gambar tab saya di Kaizalaprofil.\n Ketuk nama profil Anda atau ikon Edit untuk menambahkan penunjukan, lokasi, dan alamat email Anda.\n Ketuk ikon kamera untuk memperbarui gambar profil Anda.\n Ketuk ikon status Edit untuk memperbarui status Anda.\n Catatan: Jika Anda telah menautkan ke akun kerja Microsoft 365 Anda, informasi ini akan kami Isikan untuk Anda. Anda dapat mengedit informasi dengan cara yang sama.",
+		"gambar": "https://support.content.office.net/id-id/media/d651116e-cb87-4b93-b064-7aa170d47006.jpg"
+	},
+	{
+		"kode": 10,
+		"kategori": "kaizala",
+		"link": "Perbarui status",
+		"judul": "Perbarui status Anda",
+		"tutorial": "Anda dapat menyempurnakan profil dengan mengustomisasi pesan status Anda. Pesan status akan terlihat oleh semua.\n Untuk memperbarui status Kaizala Anda:\n Di bagian bawah layar, ketuk Gambar tab saya di Kaizalaprofil.\n Ketuk nama profil Anda, lalu di bawah status, ketuk ikon Edit.\n Perbarui status Anda, lalu ketuk Simpan.",
+		"gambar": "https://jafarbuaisme.com/berkas//unnamed-1.png"
+	},
+	{
+		"kode": 11,
+		"kategori": "kaizala",
+		"link": "Atur status yang terakhir dilihat",
+		"judul": "Atur status yang terakhir dilihat",
+		"tutorial": "Secara default, setiap orang ngobrol dengan Anda bisa melihat status terlihat Anda terakhir di layar obrolan. Anda bisa membuat terlihat hanya ke kontak Anda, atau untuk tidak ada. \nUntuk mengatur status terlihat terakhir Anda: Ketuk obrolan Gambar tab obrolan di Kaizala > selengkapnya Gambar ikon selengkapnya di Kaizala > pengaturan > Tampilkan terakhir dilihat. \n Pilih semua orang, tak seorang punatau kontak saya.",
+		"gambar": "https://jafarbuaisme.com/berkas//unnamed-1.png"
+	},
+	{
+		"kode": 12,
+		"kategori": "kaizala",
+		"link": "Mengunduh Kaizala data",
+		"judul": "Mengunduh Kaizala data",
+		"tutorial": "Anda dapat mengunduh data Kaizala Anda, termasuk informasi profil, grup dan obrolan informasi, dan kontak Anda.\n Untuk mengunduh data Kaizala Anda:\n Ketuk obrolan Gambar tab obrolan di Kaizala > selengkapnya Gambar ikon selengkapnya di Kaizala > pengaturan > pengaturan akun.\n Ketuk Unduh Kaizala Data Anda.",
+		"gambar": "https://jafarbuaisme.com/berkas//unnamed-1.png"
+	},
+	{
+		"kode": 13,
+		"kategori": "kaizala",
+		"link": "Blokir atau buka blokir kontak",
+		"judul": "Blokir atau buka blokir kontak",
+		"tutorial": "Anda bisa memblokir siapa pun Kapan saja. Orang tersebut diblokir tidak akan diberitahu, dan Anda tidak akan menerima pesan langsung kontaknya di masa mendatang.\n Untuk memblokir atau membuka blokir kontak:\n Buka profil pengguna yang ingin Anda blokir dengan mengetuk pada pengguna avatar Gambar ikon avatar di Kaizala. \nDi sudut kanan atas, ketuk selengkapnya Gambar ikon selengkapnya di Kaizala.\n Pilih blok, dan lalu ketuk OK.\n Pengguna diblokir akan ditambahkan ke daftar Anda telah memblokir pada halaman pengaturan pengguna lain. \nUntuk menampilkan pengguna Anda diblokir:\n Ketuk obrolan Gambar tab obrolan di Kaizala > selengkapnya Gambar ikon selengkapnya di Kaizala > pengaturan > pengaturan akun.\n Ketuk privasi > kontak yang diblokir. \nUntuk membuka blokir kontak yang diblokir:\n Ketuk obrolan Gambar tab obrolan di Kaizala > selengkapnya Gambar ikon selengkapnya di Kaizala > pengaturan > pengaturan akun. Ketuk privasi > kontak yang diblokir. Pilih kontak, dan lalu ketuk buka blokir.",
+		"gambar": "https://jafarbuaisme.com/berkas//unnamed-1.png"
+	},
+	{
+		"kode": 14,
+		"kategori": "kaizala",
+		"link": "Menampilkan pernyataan privasi Kaizala",
+		"judul": "Menampilkan pernyataan privasi Kaizala",
+		"tutorial": "Untuk meninjau kebijakan privasi Kaizala:\n Ketuk obrolan Gambar tab obrolan di Kaizala > selengkapnya Gambar ikon selengkapnya di Kaizala > pengaturan > pengaturan akun. \nKetuk pernyataan privasi.",
+		"gambar": "https://jafarbuaisme.com/berkas//unnamed-1.png"
+	},
+	{
+		"kode": 15,
+		"kategori": "kaizala",
+		"link": "Menghapus akun Kaizala",
+		"judul": "Menghapus akun Kaizala",
+		"tutorial": "Anda dapat menghapus akun Kaizala Anda kapan saja. Berikut yang akan terjadi:\n Data Anda akan mendapatkan dihapus dari app Kaizala, termasuk informasi profil, keanggotaan di grup, kontak, dan data produk dan layanan Kaizala apa pun. Orang lain masih akan bisa melihat pesan Anda sebelumnya.\n Akun Anda dihapus dari Kaizala.\n Anda sedang dihapus dari semua Kaizala grup.\n Riwayat pesan Anda akan dihapus.\n Untuk menghapus akun Kaizala Anda:\n Ketuk obrolan Gambar tab obrolan di Kaizala > selengkapnya Gambar ikon selengkapnya di Kaizala > pengaturan > pengaturan akun. \nKetuk Hapus akun. \nUntuk alasan keamanan, Anda akan diminta memasukkan nomor telepon seluler Anda. Setelah dihapus, Anda akan melihat layar selamat datang untuk Kaizala.",
+		"gambar": "https://jafarbuaisme.com/berkas//unnamed-1.png"
+	}
+]

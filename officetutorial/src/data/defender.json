@@ -1,0 +1,42 @@
+[
+	{
+		"kode": 1,
+		"kategori": "defender",
+		"link": "Anti Malware",
+		"judul": "Anti Malware",
+		"tutorial": "Malware adalah software mal icious yang dapat mencuri atau merusak data pribadi Anda seperti file, foto, atau pesan. Ini juga dapat melacak atau memata-matai Anda, mencuri uang Anda, atau menggunakan perangkat Anda untuk menyebabkan kerusakan lain seperti menyerang orang lain. Di Windows, Mac, dan Android Pertahanan Microsoftdapat memeriksa file atau aplikasi yang Anda unduh dan instal, serta menjalankan pemindaian file yang sudah ada di sistem Anda untuk menemukan malware apa pun yang mungkin mengancam perangkat Anda.  Jika Anda menginstal produk antimalware non-Microsoft, seperti Norton atau BitDefender,Pertahanan Microsoft dapat bekerja bersamanya.",
+		"gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Windows-defender.svg/1200px-Windows-defender.svg.png"
+	},
+	{
+		"kode": 2,
+		"kategori": "defender",
+		"link": "Pemantauan pencurian identitas",
+		"judul": "Pemantauan pencurian identitas",
+		"tutorial": "Kami telah bermitra dengan Experian® untuk menghadirkan pemantauan pencurian identitas kelas dunia ke Microsoft Defender. Fitur ini memungkinkan Anda untuk memantau detail identitas Anda sendiri, serta keluarga Anda, untuk pelanggaran di internet publik dan web gelap. \n Jika kami melihat detail pribadi Anda dalam pelanggaran, Anda akan menerima pemberitahuan dan laporan pelanggaran mendetail yang memberi tahu Anda data apa yang ditemukan dan di mana. Anda akan mendapatkan rekomendasi tentang apa yang harus segera dilakukan untuk mengatasi situasi, detail tentang bagaimana hal ini mungkin terjadi, informasi tentang kemungkinan risiko, dan tips tentang cara mengurangi kemungkinan itu terjadi lagi.\n Anda juga mendapatkan akses telepon 24/7 ke tim profesional pencurian identitas yang sangat terampil yang dapat memandu Anda melalui proses mengatasi detail yang dilanggar atau menyediakan layanan pemulihan identitas layanan penuh jika pencuri identitas menggunakan detail pribadi Anda untuk melakukan penipuan.",
+		"gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Windows-defender.svg/1200px-Windows-defender.svg.png"
+	},
+	{
+		"kode": 3,
+		"kategori": "defender",
+		"link": "Menambahkan perangkat lain",
+		"judul": "Menambahkan perangkat lain",
+		"tutorial": "Anda dapat menambahkan hingga 4 perangkat tambahan (total 5 per orang) ke akunPertahanan MicrosoftDengan menginstal aplikasi di perangkat lain dan masuk menggunakan akun Microsoft pribadi yang sama. Perangkat ini akan muncul di dasbor Pertahanan Microsoft Sehingga Anda dapat melihat status keamanan semua perangkat di satu tempat.",
+		"gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Windows-defender.svg/1200px-Windows-defender.svg.png"
+	},
+	{
+		"kode": 4,
+		"kategori": "defender",
+		"link": "Membantu melindungi seluruh keluarga",
+		"judul": "Membantu melindungi seluruh keluarga",
+		"tutorial": "Jika Anda pelanggan Microsoft 365 Family, orang-orang yang memiliki peran Pengelola Keluarga dapat membantu melindungi perangkat semua orang dalam keluarga. Saat anggota keluarga lain menginstalPertahanan Microsoftdan memilih untuk berbagi status pemantauan keamanan perangkat atau identitas mereka, pengelola keluarga akan melihat status tersebut di dasborPertahanan Microsoftmereka.",
+		"gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Windows-defender.svg/1200px-Windows-defender.svg.png"
+	},
+	{
+		"kode": 5,
+		"kategori": "defender",
+		"link": "Feedback",
+		"judul": "Kami sangat ingin mendengarnya dari Anda!",
+		"tutorial": "Umpan balik Anda adalah kunci untuk membuat produk kami lebih baik, jadi jika ada hal-hal yang Anda sukai tentangPertahanan Microsoft, dan terutama jika ada sesuatu yang tidak Anda sukai, beri tahu kami! Anda dapat mengirimkan umpan balik dalam aplikasi dengan masuk ke menu Bantuan dan umpan balik . Di Windows atau Mac, pilih tombol Tombol Bantuan di dekat kanan atas jendela. Di Android atau iOS, ketuk avatar akun Anda di bagian kiri atas untuk menemukan Bantuan dan umpan balik.",
+		"gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Windows-defender.svg/1200px-Windows-defender.svg.png"
+	}
+]

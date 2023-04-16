@@ -1,0 +1,214 @@
+* {
+	scroll-behavior: smooth;
+}
+
+.navbar {
+	position: fixed;
+	z-index: 2;
+	width: 100vw;
+}
+
+.navbar-container {
+	background-color: rgb(206, 205, 205);
+	margin-top: -10px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
+
+.navbar-nav a {
+	font-size: 1.2em;
+	margin-right: 8px;
+	color: #5e17eb;
+	font-weight: bold;
+}
+
+.navbar-nav a:hover {
+	cursor: pointer;
+	color: #310884;
+}
+
+main {
+	width: 100%;
+	height: auto;
+}
+
+.search-area {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 99;
+	margin-top: -130px;
+}
+
+.search-bar {
+	width: 60%;
+	padding: 15px;
+	border-radius: 50px;
+	background-color: rgb(206, 205, 205);
+}
+
+.btn-search {
+	background-color: #5e17eb;
+	border-radius: 50px;
+	color: white;
+	padding: 10px 13px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: 0.2s ease-in-out all;
+}
+
+.btn-search:hover {
+	background-color: #5e17eb;
+	border-radius: 50px;
+	color: white;
+	padding: 10px 13px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transform: rotate(10deg);
+}
+
+.showAllAppsArea {
+	display: flex;
+	justify-content: flex-start;
+	width: 70%;
+}
+
+button.btn.btn-semuaAplikasi {
+	background-color: #5e17eb;
+	color: white;
+	font-weight: bold;
+	font-size: 8px;
+	margin-left: 15px;
+}
+
+.semuaAplikasi {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.apps-area {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.app p {
+	font-size: 8px;
+}
+
+.apps {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.chatBox {
+	display: none;
+}
+
+.chatBox {
+	cursor: pointer;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin-top: 200px;
+	background-color: #5e17eb;
+	padding: 20px;
+	padding-left: 90px;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-left: -55px;
+	transition: all ease-in-out 0.2s;
+	display: flex;
+	align-items: flex-end;
+}
+
+.chatBox:hover {
+	margin-left: -30px;
+}
+
+.wave {
+	z-index: -99;
+	position: absolute;
+	bottom: 0;
+}
+
+.wave img {
+	width: 100vw;
+}
+
+.modal-body {
+	height: 50vh;
+	overflow: auto;
+}
+
+/*css3 design scrollbar*/
+::-webkit-scrollbar {
+	padding: 3px;
+	width: 6px;
+}
+
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: #5e17eb;
+}
+
+::-webkit-scrollbar-corner {
+	border-radius: 30%;
+}
+
+.display-none {
+	display: none !important;
+}
+
+/* ========= REPONSIVE BREAKPOINT ============= */
+
+@media screen and (max-width: 786px) {
+	.navbar-nav a {
+		padding: 10px;
+	}
+
+	.showAllAppsArea {
+		display: flex;
+		justify-content: center;
+		width: 70%;
+	}
+
+	.navbar-container img {
+		width: 60px;
+		height: 60px;
+	}
+}
+
+@media screen and (max-width: 525px) {
+	.chatBox {
+		margin-left: -70px;
+	}
+	.apps-area {
+		margin-top: 10px;
+	}
+	.search-area {
+		margin-top: -100px;
+	}
+}
+
+@media screen and (max-width: 425px) {
+	.chatBox {
+		margin-left: -80px;
+	}
+}

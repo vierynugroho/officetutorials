@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "planner",
+		"link": "Masuk dan terhubung",
+		"judul": "Masuk dan terhubung ke Microsoft Planner",
+		"tutorial": "- Ketikkan http://office.com/signin atau https://admin.microsoft.com ke dalam Bilah alamat lalu masuk dengan akun yang ingin Anda gunakan.\n Pada halaman Beranda Microsoft 365 , pilih Peluncur Aplikasi di bagian atas jendela browser.\n Pilih ubin Planner di peluncur aplikasi, atau di laman. ",
+		"gambar": "https://support.content.office.net/id-id/media/e5cf5609-7613-4fc8-93eb-00c47af8b984.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "planner",
+		"link": "Membuka rencana yang sudah ada",
+		"judul": "Membuka rencana yang sudah ada",
+		"tutorial": "- Pilih paket yang sudah ada dalam paket favorit, paket terbaru, atau Semua paket .",
+		"gambar": "https://support.content.office.net/id-id/media/8e747027-d5f1-4c53-8a16-b24c12e51a41.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "planner",
+		"link": "Memulai Planner",
+		"judul": "Untuk memulai",
+		"tutorial": "- Pilih rencana di bawah Paket yang disematkan atau Semua paket. ATAU Mulai paket baru dengan memilih Paket baru.",
+		"gambar": "https://support.content.office.net/id-id/media/0d40de74-443c-44ee-af4f-8d45090256b8.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "planner",
+		"link": "Membuat rencana dan grup baru",
+		"judul": "Membuat rencana dan grup baru",
+		"tutorial": "- Beri nama rencana Anda.\n Pilih apakah akan membuat grup baru atau menambahkan rencana Anda ke grup yang sudah ada (lihat kumpulan langkah-langkah berikutnya).\n Pilih siapa yang dapat melihat paket Anda.\n Pilih Opsi untuk menambahkan deskripsi.\n Pilih Buat rencana.",
+		"gambar": "https://support.content.office.net/id-id/media/3a2c13ca-6890-46fb-a7b1-2c979a54dfef.png"
+	},
+	{
+		"kode": "5",
+		"kategori": "planner",
+		"link": "Menambahkan rencana ke grup yang sudah ada",
+		"judul": "Menambahkan rencana ke grup yang sudah ada",
+		"tutorial": "- Beri nama rencana Anda, lalu pilih Tambahkan ke grup Office 365 yang sudah ada.\n Pada halaman Pilih grup , cari atau pilih grup dari daftar.\n Pilih Pilih Grup.\n Pilih Buat rencana.",
+		"gambar": "https://support.content.office.net/id-id/media/75f97050-dd15-499e-8d37-d8a2e34fd0f0.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "planner",
+		"link": "Membuat wadah untuk menyortir tugas",
+		"judul": "Menyiapkan wadah",
+		"tutorial": "- Untuk menyiapkan wadah bagi tugas rencana Anda, pada Papan , pilih Tambahkan wadah baru, masukkan nama untuk wadah.\n Tidak melihat Tambahkan wadah baru? Papan mungkin telah dikelompokkan menurut hal yang lain. Pilih Kelompokkan menurut di dekat bagian kanan atas, lalu pilih Wadah.",
+		"gambar": "https://support.content.office.net/id-id/media/610e7ee9-0eed-4015-b9cd-01eea4030622.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "planner",
+		"link": "Memindahkan tugas ke dalam wadah",
+		"judul": "Memindahkan tugas ke dalam wadah",
+		"tutorial": "- Setelah membuat wadah, Anda dapat menyeret tugas ke dalam wadah untuk mulai tertata.\n Anda juga dapat memilih tanda plus (+) di bawah nama wadah untuk menambahkan tugas baru ke wadah tersebut. Masukkan nama tugas dan pilih Tambahkan tugas.",
+		"gambar": "https://support.content.office.net/id-id/media/8c67dcd6-e67c-4c5e-8b9e-40b54fa07c40.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "planner",
+		"link": "Menambahkan orang ke rencana",
+		"judul": "Menambahkan orang ke rencana Anda",
+		"tutorial": "- Di Planner, pilih Anggota, lalu masukkan nama orang yang ingin Anda tambahkan. Setiap anggota akan menerima pemberitahuan email bahwa mereka telah ditambahkan ke paket Anda.\n Setelah menambahkan orang ke rencana, Anda dapat menetapkan mereka ke tugas.",
+		"gambar": "https://support.content.office.net/id-id/media/d63d10cb-e8e3-47b3-afc0-8217c1345e8c.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "planner",
+		"link": "menghapus seseorang",
+		"judul": "menghapus seseorang",
+		"tutorial": "- Jika tidak lagi memerlukan seseorang di rencana Anda, pilih panah di samping anggota rencana, arahkan ke orang yang dihapus, pilih tiga titik, lalu pilih Hapus.",
+		"gambar": "https://support.content.office.net/id-id/media/464b460f-3a45-44d8-91ff-84f57d6da441.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "planner",
+		"link": "Menandai rencana sebagai favorit",
+		"judul": "Menandai rencana sebagai favorit",
+		"tutorial": "- Untuk menandai rencana sebagai favorit, arahkan ke rencana di hub Planner, pilih tiga titik, lalu pilih Tambahkan ke favorit. Ini akan memindahkan rencana ke daftar Rencana favorit.\n Saat Anda menambahkan rencana sebagai favorit:\n Data akan muncul di bagian atas hub Planner dengan beberapa informasi kemajuan.\n Data ditambahkan ke daftar paket di sebelah kiri, memudahkan Anda beralih dari paket lain.",
+		"gambar": "https://support.content.office.net/id-id/media/50425c70-864b-4d28-a50b-58425cdd35dd.png"
+	},
+	{
+		"kode": "11",
+		"kategori": "planner",
+		"link": "Menghapus rencana sebagai favorit",
+		"judul": "Menghapus rencana sebagai favorit",
+		"tutorial": "- Untuk menghapus rencana sebagai favorit, arahkan ke rencana di hub Planner, pilih tiga titik, kemudian pilih Hapus dari favorit. Langkah ini akan memindahkan kembali rencana ke daftar Semua rencana.",
+		"gambar": "https://support.content.office.net/id-id/media/a1e51edb-7e8a-4231-9f56-0382eac25642.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "planner",
+		"link": "Menghapus tugas",
+		"judul": "Tugas",
+		"tutorial": "- Untuk menghapus tugas di Papan, pilih tiga titik di sisi kanan kartu tugas, lalu pilih Hapus.\n Jika Anda berada dalam detail tugas, pilih tiga titik di bagian kanan atas, lalu pilih Hapus.",
+		"gambar": "https://support.content.office.net/id-id/media/894d9e1e-e5c2-4537-bbf3-4e4b1672bff5.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "planner",
+		"link": "Menandai tugas sebagai Selesai",
+		"judul": "Menandai tugas sebagai Selesai",
+		"tutorial": "- Untuk dengan cepat menandai salah satu tugas Anda sebagai Selesai,arahkan ke tugas tersebut dan pilih tanda centang.\n Jika tidak menggunakan mouse, Anda tidak akan melihat kotak centang untuk menandai sesuatu sebagai selesai.",
+		"gambar": "https://support.content.office.net/id-id/media/9103ac79-2611-4905-a3a7-6a13f750a4ea.png"
+	},
+	{
+		"kode": "14",
+		"kategori": "planner",
+		"link": "Memperbarui kemajuan",
+		"judul": "Memperbarui kemajuan",
+		"tutorial": "- Pada Papan ,pilih Kelompokkan menurut > Kemajuan,lalu seret tugas antar kolom untuk memperbarui rencana Anda dengan cepat dengan cepat.",
+		"gambar": "https://support.content.office.net/id-id/media/c9724adc-20d1-4dc9-839a-278a2a72830f.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "planner",
+		"link": "Cara lain untuk memperbarui kemajuan",
+		"judul": "Cara lain untuk memperbarui kemajuan",
+		"tutorial": "- Untuk tugas yang sudah ditandai sebagai Sedang berlangsung,Anda juga dapat mengubah status dengan memilih simbol Sedang berlangsung Sedang Berlangsung pada tugas tersebut dan memilih status lain.\n Anda juga bisa memperbarui kemajuan tugas dengan memilih tugas itu sendiri dan menggunakan kotak turun bawah Kemajuan.",
+		"gambar": "https://support.content.office.net/id-id/media/ea752941-ca20-47fe-986c-06c0e0637839.png"
+	}
+]

@@ -1,0 +1,75 @@
+[
+    {
+		"kode": 1,
+		"kategori": "yammer",
+		"link": "Sign In",
+		"judul": "Sign in di yammer",
+		"tutorial": "Masuk di yammer.com atau office.com .\nPilih peluncur aplikasi di sudut kiri atas layar anda dan pilih yammer.\nJika anda masuk ke yammer melalui microsoft 365, pilih lihat dan perbarui profil anda di office delve untuk mengubah profil anda.\nDi pengaturan yammer, anda bisa menampilkan jaringan, aktivitas akun, aplikasi, dan mengubah pengaturan pemberitahuan dan prefensi bahasa. Untuk masuk ke pengaturan khusus di yammer , di header rangkaian microsoft 365, pilih pengaturan > edit pengaturan",
+		"gambar": "https://support.content.office.net/en-us/media/45d6cf89-133f-4e55-ac82-f477f8468a4b.png"
+	},
+    {
+		"kode": 2,
+		"kategori": "yammer",
+		"link": "Temukan Komunitas",
+		"judul": "Temukan percakapan",
+		"tutorial": "Pilih yammer di tab beranda rel kiri.\nUmpan beranda menunjukkan kepada anda percakapan yang relevan terkait dengan komunitas ynag terhubung dengan anda, orang yang dekat dengan anda, dan apa yang sedang tren di seluruh perusahaan anda.\nUntuk melihat percakapan komunitas anda, gunakan navigasi kiri dan langsung buka komunitas untuk melihat percakapan baru. Saat anda sudah selesai, pilih tautan di bagian bawah umpan anda untuk membuka percakapan baru komunitas anda berikutnya.",
+		"gambar": "https://support.content.office.net/en-us/media/a53855b4-9d20-40e2-a902-f5e34567ffdf.png"
+	},
+    {
+		"kode": 3,
+		"kategori": "yammer",
+		"link": "Pencarian",
+		"judul": "Cari jawaban",
+		"tutorial": "Di bilah pencarian, ketikkan kata kunci terkait untuk menemukan yang anda butuhkan. Saat anda mengetik, daftar hasil yang dikategorikan ditampilkan dengan saran orang, komunitas, file, topik, dan tautan.\nJika anda tidak menemukan apa yang anda cari, cari lihat semua pencarian. Jelajahi hasil pencarian lengkap, yang dikategorikan berdasarkan tab.\nJika anda perlu mempersempit pencarian, gunakan pencarian lanjutan di halaman hasil pencarian.",
+		"gambar": "https://support.content.office.net/en-us/media/6e7a74cf-c284-47e3-b2fc-9688aa39758d.png"
+	},
+    {
+		"kode": 4,
+		"kategori": "yammer",
+		"link": "Bergabung Komunitas",
+		"judul": "Bergabung dengan komunitas yang ada",
+		"tutorial": "Di navigasi kiri, pilih temukan komunitas.\nTelusuri atau gunakan penelusuran untuk menemukan komunitas. Baca deskripsi, telusuri feed, atau lihat anggota untuk mencari tahu apakah komunitas tersebut relevan bagi anda",
+		"gambar": "https://support.content.office.net/en-us/media/67ad7d9d-7bfd-49e7-8acd-96fe51432ac5.png"
+	},
+    {
+		"kode": 5,
+		"kategori": "yammer",
+		"link": "Buat Komunitas",
+		"judul": "Buat Komunitas baru",
+		"tutorial": "Di Navigasi kiri, gulir ke bagian bawah daftar komunitas dan pilih buat komunitas.\nKetik namam tambahkan deskripsi, dan tambahkan anggota.\nPilih komunitas publik atau pribadi:\nPublik - siapa saja di jaringan anda dapat melihat konten yang diposkan ke komunitas ini dan dapat bergabung dengan komunitas ini.\nAkses pribadi - hanya anggota yang disetujui dari komunitas ini yang dapat melihat konten dan admin komunitas harus menyetujui orang yang meminta untuk bergabung dengan komunitas ini",
+		"gambar": "https://support.content.office.net/en-us/media/56c75b20-304e-4ae2-9c98-8adac43399f4.png"
+	},
+    {
+		"kode": 6,
+		"kategori": "yammer",
+		"link": "Buat Poling",
+		"judul": "Membuat sebuah poling pada yammer",
+		"tutorial": "Pilih Jajak Pendapat .\nKetikkan pertanyaan dan opsi jawaban Anda.\nTambahkan siapa yang ingin Anda tuju pollingnya.\nPilih Posting .",
+		"gambar": "https://supporhttps://support.content.office.net/en-us/media/82c1f954-da1c-48d7-96e7-ea3c9d168e20.pngt.content.office.net/en-us/media/56c75b20-304e-4ae2-9c98-8adac43399f4.png"
+	},
+    {
+		"kode": 7,
+		"kategori": "yammer",
+		"link": "Memuji seseorang",
+		"judul": "Membuat ucapan pujian kepada seseorang",
+		"tutorial": "Pilih Pujian .\nMasukkan siapa yang ingin Anda puji.\nPilih gambar pujian.\nKetik apa yang Anda puji dari mereka.\nTambahkan siapa yang akan diberi tahu, seperti manajer mereka.\nPilih Posting .",
+		"gambar": "https://support.content.office.net/en-us/media/ca6bd566-3dad-4be5-ad88-2f750413f584.png"
+	},
+    {
+		"kode": 8,
+		"kategori": "yammer",
+		"link": "Announcement",
+		"judul": "Membuat sebuah pengumuman",
+		"tutorial": "Ketik informasi yang Anda inginkan untuk pengumuman. Anda juga dapat melampirkan file, Beri tahu orang tertentu , atau Tambahkan topik jika Anda mau. Untuk menambahkan GIF, pilih Tambahkan GIF , lalu cari dan pilih yang Anda inginkan.\nPilih  tombol Pengumuman .\nSetelah selesai, pilih Posting.",
+		"gambar": "https://support.content.office.net/en-us/media/ae2ec9ed-46c0-4775-b655-fe9462235d0e.png"
+	},
+    {
+		"kode": 9,
+		"kategori": "yammer",
+		"link": "Question",
+		"judul": "Tanyakan sesuatu",
+		"tutorial": "Pilih Pertanyaan .\nKetikkan pertanyaan dan opsi jawaban Anda.\nPilih Posting .\nTambahkan siapa yang ingin Anda tuju pollingnya.",
+		"gambar": "https://support.content.office.net/en-us/media/c45d6cb2-ba9d-43fd-b485-54f33b6a20cb.png"
+	}
+
+]

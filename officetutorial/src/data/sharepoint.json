@@ -1,0 +1,82 @@
+[
+    {
+        "kode": 1,
+        "kategori": "Sharepoint",
+        "link": "Mengunggah file",
+        "judul": "Mengunggah file ke pustaka dokumen agar dapat diakses semua orang",
+        "tutorial": "Klik dokumen baru dan telusuri file. Lalu klik unggah file yang ada terlebih dahulu. Opsi ini tergantung pada konfigurasi sharepoint.\nPada Sharepoint 365, klik unggah di bilah perintah. Jika menggunakan Microsoft Edgem, anda dapat mengunggah file atau folder.",
+        "gambar": "https://support.content.office.net/id-id/media/f55cae89-c519-4a70-ba03-433bc3ad7b98.png"
+    },
+    {
+        "kode": 2,
+        "kategori": "Sharepoint",
+        "link": "Membuat dokumen",
+        "judul": "Membuat dokumen dalam pustaka dokumen",
+        "tutorial": "Klik untuk membuka dokumen yang ingin dikerjakan, lalu dokumen akan terbuka di office untuk web. Jika anda telah menginstal aplikasi di komputer dan ingin menggunakannya, klik edit dokumen > edit di <nama aplikasi>",
+        "gambar": "https://support.content.office.net/id-id/media/582372b2-3359-4867-9648-ce534ce55b5a.png"
+    },
+    {
+        "kode": 3,
+        "kategori": "Sharepoint",
+        "link": "Bekerja dengan orang lain",
+        "judul": "Bekerja dengan orang lain di dokumen yang sama, pada waktu bersamaan",
+        "tutorial": "Dalam pustaka dokumen, klik untuk membuka dokumen yang ingin dikerjakan. Dokumen akan terbuka di Office untuk web. Jumlah orang yang mengedit dokumen muncul dibagian atas kanan dokumen.",
+        "gambar": "https://support.content.office.net/id-id/media/d3814e11-e3c1-4564-bea5-c450e4112644.png"
+    },
+    {
+        "kode": 4,
+        "kategori": "Sharepoint",
+        "link": "Berbagi Dokumen",
+        "judul": "Berbagi Dokumen",
+        "tutorial": "Pilih dokumen yang ingin anda bagikan, klik elipsis (....) untuk membuka menu, lalu klik bagikan.",
+        "gambar": "https://support.content.office.net/id-id/media/61ab53a7-d3ea-4f18-bcb7-2b756a634389.png"
+    },
+    {
+        "kode": 5,
+        "kategori": "Sharepoint",
+        "link": "Berbagi situs",
+        "judul": "Berbagi situs",
+        "tutorial": "Jika anda memiliki izin pemilik situs, Klik Sharepoint atau situs, pilih situs yang ingin anda bagikan, lalu klik bagikan.",
+        "gambar": "https://support.content.office.net/id-id/media/105d82a9-bcd1-4782-9ab7-3079579fdcc1.png"
+    },
+    {
+        "kode": 6,
+        "kategori": "Sharepoint",
+        "link": "Membuat situs",
+        "judul": "Membuat situs tim",
+        "tutorial": "Jika menggunakan fitur microsoft 365, anda daoat membuat siotus dari halaman sharepoint mulai, dan secara otomatis membuat microsoft 365 grup. Jika membuat grup microsoft 365 di outlook atau orang, anda secara otomatis akan mendapatkan situ tim di sharepoint di microsoft 365.\nJika memiliki izin pemilik situs dengan sharepoint sever 2016 atau 2013, klik situs, lalu klik + situs baru atau + baru.",
+        "gambar": "https://support.content.office.net/id-id/media/3e16d8ad-57fd-4785-8204-b659a26bded8.png"
+    },
+    {
+        "kode": 7,
+        "kategori": "Sharepoint",
+        "link": "Menambahkan daftar/pustaka",
+        "judul": "Menambahkan daftar atau pustaka ke sharepoin di microsoft 365, klik + baru dari dalam situs, lalu pilih daftar atau pustaka dari daftar",
+        "tutorial": "Jika menggunakan fitur microsoft 365, anda daoat membuat siotus dari halaman sharepoint mulai, dan secara otomatis membuat microsoft 365 grup. Jika membuat grup microsoft 365 di outlook atau orang, anda secara otomatis akan mendapatkan situ tim di sharepoint di microsoft 365.\nJika memiliki izin pemilik situs dengan sharepoint sever 2016 atau 2013, klik situs, lalu klik + situs baru atau + baru.",
+        "gambar": "https://support.content.office.net/id-id/media/c85c1aed-6c33-4e2d-b822-2d8e46595054.png"
+    },
+    {
+        "kode": 8,
+        "kategori": "Sharepoint",
+        "link": "Menyimpan versi dokumen sebelumnya",
+        "judul": "Menyimpan versi dokumen sebelumnya selagi anda mengubah dokumen tersebut",
+        "tutorial": "Di Sharepoint di microsoft 365, klik kanan dokumen dalam pustaka, lalu klik riwayat versi (anda mungkin harus menggulir menu).\nUntuk versi sharepoint server, klik elipsis (....) di samping file, lalu klik elipsis (....) lagi didalam dialog untuk masuk ke menu, atau pilih dokumen dan klik riwayat versi di tab file.\nTab file dan pita sharepoint server.",
+        "gambar": "https://support.content.office.net/id-id/media/50ed5655-15fb-466d-855b-df75861b2f58.png"
+    },
+    {
+        "kode": 9,
+        "kategori": "Sharepoint",
+        "link": "Pencarian",
+        "judul": "Mencari sesuatu",
+        "tutorial": "Ketikkan kata kunci pencarian didalam kotak pencarian, lalu klik ikon pencarian",
+        "gambar": "https://support.content.office.net/id-id/media/c29a6d8d-1d7d-4c56-91d7-fe50a427599b.png"
+    },
+    {
+        "kode": 10,
+        "kategori": "Sharepoint",
+        "link": "Berbagi Informasi",
+        "judul": "Berbagi informasi dengan seluruh organisasi",
+        "tutorial": "Pada microsoft 365, sharepoint di microsoft 365, atau sharepoint server 2016, klik peluncur aplikasi, lalu klik ubin yammer atau umpan berita, ketik pesan anda, lalu klik posting.",
+        "gambar": "https://support.content.office.net/id-id/media/bc2b8435-5b2e-4eb7-850e-16e1b2741495.png"
+    }
+]

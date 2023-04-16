@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "skype",
+		"link": "Masuk ke Skype for Business",
+		"judul": "Masuk ke Skype for Business",
+		"tutorial": "- Masukkan akun kerja atau sekolah Anda.\n Masukkan kata sandi Anda.\n Pilih kotak centang Simpan kata sandi saya jika ingin Skype for Business agar menyimpan kata sandi, jadi Anda tidak perlu memasukkan kata sandi setiap kali masuk.\n Pilih Masuk.",
+		"gambar": "https://support.content.office.net/id-id/media/e2020afb-b2ba-4a94-aea3-e1be5f5fdbdc.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "skype",
+		"link": "Bergabung dalam Rapat",
+		"judul": "Bergabung dalam Rapat Skype for Business",
+		"tutorial": "- Di permintaan Rapat, klik Bergabung dalam Rapat Skype.\n Mikrofon Anda otomatis dimatikan suaranya. Untuk menyalakan suara mikrofon Anda, temukan tombol mikrofon.\n Jika Anda perlu beralih ke perangkat audio berbeda, klik tombol Kontrol Panggilan, lalu klik Perangkat.\n Kotak Beralih Perangkat memperlihatkan perangkat audio yang tersedia, dengan perangkat yang saat ini dipilih. Pilih perangkat lain jika Anda mau.",
+		"gambar": "https://support.content.office.net/id-id/media/965526a0-a1f7-4930-9bc2-f32bc376406e.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "skype",
+		"link": "Menemukan nomor lokal",
+		"judul": "Temukan nomor lokal untuk bergabung dalam Rapat Skype for Business",
+		"tutorial": "- Saat Anda mengklik link temukan nomor lokal di Undangan Rapat Skype for Business , Anda akan masuk ke halaman yang berisi daftar nomor telepon lokal dan/atau internasional yang bisa Anda gunakan untuk memanggil masuk ke dalam Rapat. Nomor ini didaftarkan untuk perusahaan Anda dan dikelola oleh admin organisasi Anda.\n ika Anda tidak melihat link temukan nomor lokal di Undangan Rapat Skype for Business atau nomor telepon, hubungi dukungan teknis organisasi Anda atau admin.\n Selain nomor telepon, Anda mungkin melihat opsi untuk me-reset ID konferensi dan PIN. ID konferensi dan PIN akan mereset tidak tersedia untuk penggunaSkype for Business Online .",
+		"gambar": "https://support.content.office.net/id-id/media/240ca20f-b6ee-4eb7-81eb-c479181e8a98.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "skype",
+		"link": "Perizinan telepon",
+		"judul": "Telpon saya di",
+		"tutorial": "- Dengan fitur panggilan saya di bagian Anda dapat menambahkan nomor cepat atau pilih salah satu yang disimpan. Jika Anda ingin menambahkan beberapa nomor, Anda bisa melakukannya kapan pun melalui halaman Opsi Telepon.\n Sebelum Anda mulai, klik Ikon Gerigi > Rapat Skype, dan klik Sebelum saya bergabung dalam rapat, tanyakan perangkat audio apa yang ingin saya gunakan.",
+		"gambar": "https://support.content.office.net/id-id/media/5b9bb99e-b410-4699-a945-10c4d69c7797.png"
+	},
+	{
+		"kode": "5",
+		"kategori": "skype",
+		"link": "Menambahkan nomor",
+		"judul": "Menambahkan nomor sesaat sebelum rapat",
+		"tutorial": "- Ketika kotak dialog Bergabung dalam Audio Rapat ditampilkan, klik telepon saya di.\n Klik panah > Nomor Baru.\n Ketik nomor telepon Anda dan klik OK.",
+		"gambar": "https://support.content.office.net/id-id/media/cc2b710b-27ff-4266-b25d-b186415cc572.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "skype",
+		"link": "Menambahkan daftar nomor",
+		"judul": "Menambahkan daftar nomor",
+		"tutorial": "- Klik setting> Telepon.\n Klik tombol untuk nomor telepon yang Anda ingin tambahkan atau perbarui. Pilihannya adalah Telepon Seluler, Telepon Rumah, dan Telepon Lainnya. (Anda tidak dapat menghapus nomor telepon kantor karena nomor tersebut ditetapkan untuk Anda oleh admin).\n Klik OK.",
+		"gambar": "https://support.content.office.net/id-id/media/922b9791-7576-494a-9612-28132de82537.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "skype",
+		"link": "Mengatur panggilan",
+		"judul": "Persiapan-mengatur panggilan, nomor telepon keluar ke telepon meja sistem telepon Anda",
+		"tutorial": "- Jika Anda ingin menggunakan telepon meja sistem telepon untuk audio Skype for Business Anda, cukup Atur opsi panggilan keluar untuk menggunakan nomor tersebut.\n Dari Alat > Opsi, klik Penanganan Panggilan. (Jika UI Anda mengatakan pengalihan panggilan, maka Anda tidak dikonfigurasi untuk menggunakan Skype for Business dengan telepon meja sistem telepon Anda.)\n Di bawah panggilan masuk, pilih berdering bersamaan, lalu masukkan nomor telepon meja sistem telepon Anda — tanpa ekstensi, jika Anda memilikinya. (Ini memastikan bahwa jika seseorang dari kantor menghubungi Anda menggunakan klien Skype for Business, maka telepon meja Anda juga akan berdering—memberi Anda opsi untuk menggunakannya sebagai audio dan Skype for Business untuk berbagi dan memperlihatkan.)\n Di bawah panggilan keluar, centang kotak centang gunakan nomor ini untuk melakukan panggilan , lalu masukkan nomor telepon meja sistem telepon Anda — termasuk ekstensi, jika Anda memilikinya.\n Klik OK.",
+		"gambar": "https://support.content.office.net/id-id/media/2365da12-fb29-48e2-a122-b7b06a0fadcd.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "skype",
+		"link": "Skype for Business telepon",
+		"judul": "Melakukan panggilan telepon meja/Skype for Business telepon",
+		"tutorial": "- Di jendela utama Skype for Business, cari atau temukan orang yang ingin Anda hubungi.\n Arahkan mouse ke gambar mereka hingga ikon cepat muncul.\n Klik panah ikon telepon, lalu pilih nomor kantor mereka.\n Jendela percakapan Skype for Business terbuka dan bilah pesan mengatakan “Memanggil….”\n Telepon meja Anda akan berdering. (Tampilan telepon Anda akan menunjukkan panggilan masuk dari nomor telepon global perusahaan Anda.)\n Angkat!\n Anda akan mendengar telepon Anda menghubungi telepon mereka dan bilah pesan rapat Skype akan mengatakan “Memanggil pihak jarak jauh….”\n Ketika mereka mengangkatnya, Anda berdua siap untuk melanjutkan. (Bilah pesan Skype akan mengatakan “Tersambung.”)\n Dari sini, Anda bisa menambahkan IM ke panggilan Anda. Klik gelembung pesan di kiri bawah.\n dan bagikan desktop Anda dengan mengklik ikon sajikan.",
+		"gambar": "https://support.content.office.net/id-id/media/1a0745f0-0cde-40fb-b081-caa22da8c742.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "skype",
+		"link": "Mentransfer panggilan",
+		"judul": "Mentransfer panggilan Skype for Business",
+		"tutorial": "- Klik tombol Kontrol Panggilan di jendela panggilan.\n Klik Transfer, ketik nomor, atau masukkan nomor dalam kotak teks. Jendela Transfer Panggilan akan muncul.\n Klik salah satu nomor Anda, seperti ponsel, (ini adalah nomor yang ditambahkan ke akun Skype for Business).\n Klik Transfer.",
+		"gambar": "https://support.content.office.net/id-id/media/8124506f-48c4-4b1b-812c-d0c94dc465d7.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "skype",
+		"link": "Memulai percakapan IM",
+		"judul": "Memulai percakapan IM dengan satu orang",
+		"tutorial": "- Temukan kotak pencarian di halaman kontak Skype for Business Anda, tepat di bawah tab kontak.\n Klik di kotak pencarian dan masukkan nama grup yang ingin Anda cari.\n Arahkan mouse ke atas gambar mereka di Daftar kontak dan klik tombol untuk pesan instan di Skype for Business di bilah luncurkan cepat.\n Ketik pesan Anda di bagian bawah jendela percakapan.\n Tekan Enter pada keyboard untuk mengirim pesan. Anda akan melihat di samping setiap pesan instan gambar orang yang mengirimkan pesan instan tersebut. Ini berfungsi untuk percakapan pribadi dan konferensi.\n (Opsional) Menambahkan orang lain ke percakapan dengan menyeret daftar kontak mereka dari daftar Kontak Anda ke jendela percakapan.",
+		"gambar": "https://support.content.office.net/id-id/media/b4d4bebd-fc3b-466d-a348-7d47580a02f4.png"
+	},
+	{
+		"kode": "11",
+		"kategori": "skype",
+		"link": "Mencari grup dan mengirim IM",
+		"judul": "Mencari grup dan mengirim IM",
+		"tutorial": "- Temukan kotak pencarian di halaman kontak Skype for Business Anda, tepat di bawah tab kontak.\n Klik di kotak pencarian dan masukkan nama grup yang ingin Anda cari.\n Arahkan mouse ke atas gambar mereka di Daftar kontak dan klik tombol Ikon untuk pesan instan di Skype for Business pada bilah luncurkan cepat.\n Ketik pesan Anda di bagian bawah jendela percakapan.\n Tekan Enter pada keyboard untuk mengirim pesan.",
+		"gambar": "https://support.content.office.net/id-id/media/0c0ceefa-9c47-473a-a3dc-dd560c6f0cdd.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "skype",
+		"link": "Menemukan percakapan",
+		"judul": "Menemukan percakapan sebelumnya dengan orang tertentu",
+		"tutorial": "- Buka Skype for Business, dan di daftar kontak Anda, klik kanan orang yang percakapan sebelumnya yang ingin Anda Tampilkan.\n Klik Temukan Percakapan Sebelumnya.",
+		"gambar": "https://support.content.office.net/id-id/media/016d8af4-4b0e-4b2e-b60f-85511db1d059.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "skype",
+		"link": "Mengirim cerita",
+		"judul": "Mengirim cerita",
+		"tutorial": "- Klik kanan di dalam area input IM, dan klik Posting sebagai Pesan Panjang.\n Anda akan diminta untuk menambahkan judul cerita secara opsional",
+		"gambar": "https://support.content.office.net/id-id/media/37a11771-7c21-4efb-9524-49503aff0df1.png"
+	},
+	{
+		"kode": "14",
+		"kategori": "skype",
+		"link": "Membaca cerita",
+		"judul": "Membaca cerita",
+		"tutorial": "- Cerita akan selalu diterima dalam bentuk tampilan diciutkan. Cukup klik Baca selengkapnya untuk memperluasnya.\n Untuk menciutkannya, klik Baca lebih singkat.",
+		"gambar": "https://support.content.office.net/id-id/media/e4d62d42-09c0-4abd-94fe-e9adc1d5549d.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "skype",
+		"link": "Mengatur opsi IM",
+		"judul": "Mengatur opsi IM di Skype for Business",
+		"tutorial": "- Di jendela utama Skype for Business , klik tombol opsi Tombol opsi setting dan pilih IM, atau klik panah di samping tombol opsi Tombol Opsi setting dengan panah di sebelah kanan. dan pilih alat > opsi.\n Pada halaman opsi , pilih IM.",
+		"gambar": "https://support.content.office.net/id-id/media/20c3e569-73d3-4b4a-8b62-68c5cb4cf384.png"
+	}
+]

@@ -1,0 +1,106 @@
+[
+	{
+		"kode": 1,
+		"kategori": "word",
+		"link": "Dokumen Baru",
+		"judul": "Membuat dokumen di word",
+		"tutorial": "Buat Dokumen Baru: - Pada tab file, klik baru. - Dalam kotak Cari Template Online, masukkan jenis dokumen yang ingin anda buat dan tekan Enter.",
+		"gambar": "https://support.content.office.net/en-us/media/11f5e9c2-9f88-458e-9de6-8095ee6c6a94.png"
+	},
+	{
+		"kode": 2,
+		"kategori": "word",
+		"link": "Format Text",
+		"judul": "Format Text",
+		"tutorial": "- Tempatkan kursor dan ketik beberapa text. - Untuk memformat, pilih teks lalu pilih opsi: Tebal, Miring, Poin, Penomoran, dan lainnya.",
+		"gambar": "https://support.content.office.net/en-us/media/525d65d4-69a2-4f47-ba7a-d83c311d3945.png"
+	},
+	{
+		"kode": 3,
+		"kategori": "word",
+		"link": "Insert Gambar",
+		"judul": "Menambahkan Gambar",
+		"tutorial": "- Pilih tab insert\n pilih gambar, cari gambar dari komputer.\n Kemudian pilih gambar dan klik open",
+		"gambar": "https://support.content.office.net/en-us/media/fc1eb4ad-9f5d-417f-b9ef-a3c39715146c.png"
+	},
+	{
+		"kode": 4,
+		"kategori": "word",
+		"link": "Insert Table",
+		"judul": "Menambahkan Tabel",
+		"tutorial": "- Pilih tab Table\n, arahkan kursor ke ukuran yang\n Anda inginkan, dan pilih.",
+		"gambar": "https://support.content.office.net/en-us/media/fc1eb4ad-9f5d-417f-b9ef-a3c39715146c.png"
+	},
+	{
+		"kode": 5,
+		"kategori": "word",
+		"link": "Insert Shapes",
+		"judul": "Menambahkan Shapes",
+		"tutorial": "- pilih Bentuk, dan pilih bentuk dari drop-down.",
+		"gambar": "https://support.content.office.net/en-us/media/fc1eb4ad-9f5d-417f-b9ef-a3c39715146c.png"
+	},
+	{
+		"kode": 6,
+		"kategori": "word",
+		"link": "Insert Chart",
+		"judul": "Menambahkan Chart",
+		"tutorial": "- pilih Bagan, pilih bagan yang Anda inginkan,\n dan pilih OK",
+		"gambar": "https://support.content.office.net/en-us/media/fc1eb4ad-9f5d-417f-b9ef-a3c39715146c.png"
+	},
+	{
+		"kode": 7,
+		"kategori": "word",
+		"link": "Menggunakan Styles",
+		"judul": "Menggunakan Styles",
+		"tutorial": "Templat menerapkan font, ukuran font, warna font, dan \n spasi yang konsisten ke judul, paragraf, dan\n judul di seluruh dokumen Anda.\n- Pilih kata, paragraf, daftar, \natau tabel yang akan diedit.\n - Pada tab Beranda, pilih gaya.\nJika Anda tidak melihat gaya yang Anda inginkan, \nklik tombol Lainnya tombol Lainnya untuk memperluas galeri.",
+		"gambar": "https://support.content.office.net/en-us/media/0f68b0e1-686d-42f7-b9ac-b6e5a9ef0d59.png"
+	},
+	{
+		"kode": 8,
+		"kategori": "word",
+		"link": "Menerapkan Tema",
+		"judul": "Menerapkan Tema",
+		"tutorial": "Tema menambahkan tampilan profesional ke dokumen Anda.\n- Pilih Desain > Tema. \n- Arahkan ke tema untuk melihat pratinjau tampilannya. \n- Pilih tema yang Anda inginkan.",
+		"gambar": "https://support.content.office.net/en-us/media/acc36b3a-29ec-4c9d-bf82-6ca9b29dc824.png"
+	},
+	{
+		"kode": 9,
+		"kategori": "word",
+		"link": "Mengatur Margin",
+		"judul": "Mengatur Margin",
+		"tutorial": "Ubah margin di dokumen Anda untuk mengubah tata letak\n dan pastikan semuanya pas.\n - Pilih Tata Letak > Margin",
+		"gambar": "https://support.content.office.net/id-id/media/76b663a3-35f0-431c-8c1e-2b9e717f7dc8.png"
+	},
+	{
+		"kode": 10,
+		"kategori": "word",
+		"link": "Nomor Halaman",
+		"judul": "Menambahkan nomor halaman ke header atau footer di Word",
+		"tutorial": "- Klik atau ketuk di header atau footer yang ingin ditambahkan nomor halaman.\n - Masuk ke Sisipkan > Nomor Halaman\n - Pilih Posisi Sekarang.\n - Pilih gaya",
+		"gambar": "https://support.content.office.net/en-us/media/0f68b0e1-686d-42f7-b9ac-b6e5a9ef0d59.png"
+	},
+	{
+		"kode": 11,
+		"kategori": "word",
+		"link": "Daftar Isi",
+		"judul": "Menyisipkan daftar isi",
+		"tutorial": "Daftar isi di Word didasarkan pada judul dalam dokumen Anda.\n - Letakkan kursor di tempat Anda ingin menambahkan daftar isi.\n - Buka Referensi > Daftar Isi. dan pilih gaya otomatis.\n Jika Anda membuat perubahan pada dokumen yang mempengaruhi daftar isi, \nperbarui daftar isi dengan mengklik kanan daftar isi dan memilih Perbarui Bidang.",
+		"gambar": "https://support.content.office.net/id-id/media/d5c5a582-357b-4f13-9e3a-29d6418eb32a.png"
+	},
+	{
+		"kode": 12,
+		"kategori": "word",
+		"link": "Bibliografi otomatis",
+		"judul": "Membuat bibliografi, kutipan, dan referensi",
+		"tutorial": "- Letakkan kursor Anda di akhir teks yang ingin Anda kutip.\n - Masuk ke References > Style, dan pilih gaya kutipan.\n - Pilih Sisipkan Kutipan.\n - Pilih Tambahkan Sumber Baru dan isi informasi tentang sumber Anda.\n Begitu Anda menambahkan sumber ke daftar, Anda bisa mengutipnya lagi:\n - Letakkan kursor Anda di akhir teks yang ingin Anda kutip.\n -  Masuk ke Referensi > Menyisipkan Kutipan, dan pilih sumber yang Anda ciutkan.\n - Untuk menambahkan detail, seperti nomor halaman jika Anda mengutip buku, pilih Opsi Kutipan, lalu Edit Kutipan.\n Membuat bibliografi\nDengan sumber yang dikutip di dokumen Anda, Anda siap untuk membuat bibliografi.\n- Letakkan kursor Anda di tempat Anda menginginkan bibliografi.\n- Masuk ke Referensi > Bibliografi, dan pilih salah satu format.",
+		"gambar": "https://support.content.office.net/id-id/media/712f4518-b611-49b1-811a-e857daa1db26.jpg"
+	},
+	{
+		"kode": 13,
+		"kategori": "word",
+		"link": "Watermark",
+		"judul": "Menyisipkan Watermark",
+		"tutorial": "Pada tab Desain, pilih Watermark. Pilih Watermark yang telah dikonfigurasi sebelumnya, seperti DRAFT, RAHASIA, atau JANGAN SALIN. Untuk menempatkan logo atau gambar, Pilih Watermark > Watermark Khusus > Watermark gambar > Pilih Gambar. Pada menu yang sama Anda dapat membuat Watermark dengan teks khusus.",
+		"gambar": "https://www.nooblasto.com/wp-content/uploads/2020/08/watermark-di-word.png.webp"
+	}
+]

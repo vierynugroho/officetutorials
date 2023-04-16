@@ -1,0 +1,114 @@
+[
+	{
+		"kode": 1,
+		"kategori": "visio",
+		"link": "Memulai Visio",
+		"judul": "Memulai Visio",
+		"tutorial": "Visio membantu Anda mengomunikasikan informasi kompleks secara visual dari beberapa sumber data: \nMembuat bagan alur, garis waktu, peta proses, bagan organisasi, diagram arsitektur TI, denah lantai, dan hal profesional lainnya dengan cepat. Selalu perbarui poin data diagram dengan menyambungkan elemen diagram langsung ke sumber data. Gunakan grafik data untuk menyederhanakan dan menyempurnakan visualisasi dari informasi kompleks. Tampilkan dan bagikan diagram Visio terkini dari mana saja dengan Visio Online. Tampilkan dan berinteraksi dengan diagram kapan saja dengan Visio Viewer untuk iOS.",
+		"gambar": "https://support.content.office.net/id-id/media/7c065e0f-6cf7-4a92-b9b3-d70e7a74bfaf.png"
+	},
+	{
+		"kode": 2,
+		"kategori": "visio",
+		"link": "Memilih Template Visio",
+		"judul": "Memilih Template Visio",
+		"tutorial": "Visio menawarkan lebih dari 75 tipe templat. \nBuka Visio.\n Jika Visio sudah terbuka, pilih File > Baru.\n Pilih atau cari templat:\n Pilih templat UNGGULAN, atau templat dari salah satu kategori lain. Cari templat online Tombol Mulai Pencarian atau pilih salah satu dari Pencarian yang disarankan. \nCatatan: Kategori Perangkat Lunak, Teknik, dan Database hanya tersedia di Visio 2016 Professional dan Visio Pro untuk Office 365.\n Pilih satuan pengukuran, jika diminta. Pilih Buat.",
+		"gambar": "https://support.content.office.net/id-id/media/6d7f9575-4406-48e9-98af-25eb30015d0d.png"
+	},
+	{
+		"kode": 3,
+		"kategori": "visio",
+		"link": "Menambahkan Bentuk",
+		"judul": "Menambahkan Bentuk",
+		"tutorial": "Menambahkan bentuk Pilih kategori di panel Bentuk: \nBentuk Lainnya</ui>, Bentuk Cepat, ... Pilih bentuk lalu seret ke halaman gambar.",
+		"gambar": "https://support.content.office.net/id-id/media/f87afa4a-0007-435b-84da-71de8c00bfff.png"
+	},
+	{
+		"kode": 4,
+		"kategori": "visio",
+		"link": "Menambahkan dan menghubungkan bentuk",
+		"judul": "Menambahkan dan secara otomatis menghubungkan bentuk",
+		"tutorial": "Arahkan ke bentuk hingga panah Sambung Otomatis muncul di sekitar bentuk. Jika tidak melihat panah Sambung Otomatis, pilih Tampilan > Sambung Otomatis. Arahkan ke panah yang mengarah ke arah yang ingin Anda tambahkan bentuk, lalu pilih bentuk dari toolbar mini. Jika menginginkan bentuk yang tidak ada di toolbar mini, seret bentuk dari panel Bentuk untuk panah Sambung Otomatis.",
+		"gambar": "https://support.content.office.net/id-id/media/ce5eadeb-0057-41c9-a707-523be8241803.png"
+	},
+	{
+		"kode": 5,
+		"kategori": "visio",
+		"link": "Menyambungkan Bentuk",
+		"judul": "Menyambungkan Bentuk/Shapes",
+		"tutorial": "Pilih Beranda > Konektor. Seret konektor dari satu bentuk ke lainnya. Setelah selesai, pilih Alat Penunjuk.",
+		"gambar": "https://support.content.office.net/id-id/media/6dc251b0-9ccb-4e03-8306-962e8161639e.gif"
+	},
+	{
+		"kode": 6,
+		"kategori": "visio",
+		"link": "Menambahkan teks ke bentuk",
+		"judul": "Menambahkan teks ke bentuk",
+		"tutorial": "Pilih bentuk. Ketikkan teks. Setelah selesai, klik bagian luar bentuk atau tekan Esc.",
+		"gambar": "https://support.content.office.net/id-id/media/995ac24c-2442-46af-9f1d-05e2f39b1ff4.png"
+	},
+	{
+		"kode": 7,
+		"kategori": "visio",
+		"link": "Memformat Bentuk di Visio",
+		"judul": "Memformat Bentuk di Visio",
+		"tutorial": "Pilih bentuk yang ingin Anda format. Di tab Beranda, pilih opsi:\n Bentuk Gaya - Pilih gaya. Isi - Pilih warna, Tanpa Isian, atau Warna Lainnya. Pilih Opsi Isian untuk melihat semua opsi. Garis - Pilih warna, ketebalan, atau tipe garis. Pilih Opsi Baris untuk melihat semua opsi. Efek - Pilih efek: Bayangan, Pantulan, Bersinar, Tepi Halus, Bevel, Rotasi 3-D.",
+		"gambar": "https://support.content.office.net/id-id/media/d2c7fdd7-6c6a-4a10-bfa6-3acd7c9a19e8.png"
+	},
+	{
+		"kode": 8,
+		"kategori": "visio",
+		"link": "Menambahkan teks ke halaman gambar",
+		"judul": "Menambahkan teks ke halaman gambar",
+		"tutorial": "Pilih Beranda > Tombol alat teksTeks atau tekan Ctrl+2. Seret untuk menggambar kotak teks. Ketikkan teks. Klik di luar kotak teks atau tekan Esc. Pilih Beranda > Tombol PenunjukAlat Penunjuk atau tekan Ctrl+1 setelah selesai menambahkan teks.",
+		"gambar": "https://support.content.office.net/id-id/media/7df91fd7-09ad-4444-b9f8-861171d068db.png"
+	},
+	{
+		"kode": 9,
+		"kategori": "visio",
+		"link": "Menerapkan Tema dan Varian",
+		"judul": "Menerapkan Tema dan Varian",
+		"tutorial": "Berikan tampilan profesional pada gambar Visio. Di tab Desain, pilih salah satu Tema. Arahkan mouse ke setiap tema untuk melakukan pratinjau tema tersebut. Pilih salah satu Varian.",
+		"gambar": "https://support.content.office.net/id-id/media/246384ce-7a45-4ba5-a5c2-146f121f33ca.png"
+	},
+	{
+		"kode": 10,
+		"kategori": "visio",
+		"link": "Pilih latar belakang",
+		"judul": "Menambahkan latar belakang",
+		"tutorial": "Pilih Desain > Latar belakang.Pilih latar belakang: \nSolid.\n Vertikal, Horizontal, Sudut, dan Gradien Pusat, Dunia, Vitalitas, Fluida, Teknik, Mata Uang, Warna latar belakang berubah dengan Tema dan Varian.",
+		"gambar": "https://support.content.office.net/id-id/media/290ffee5-3f8b-490e-9956-3547b7a30d9b.png"
+	},
+	{
+		"kode": 11,
+		"kategori": "visio",
+		"link": "Pelajari selengkapnya tentang Visio",
+		"judul": "Pelajari selengkapnya tentang Visio",
+		"tutorial": "Mendapatkan bantuan dengan Visio\n Pilih Beri tahu yang ingin Anda lakukan.\n Ketikkan bantuan yang Anda perlukan.\n Pilih salah satu hasil pencarian, atau pilih Dapatkan Bantuan tentang kemudian topik bantuan.",
+		"gambar": "https://support.content.office.net/id-id/media/ac4fdccc-6683-4a58-a006-d4cb4ff82b1a.png"
+	},
+	{
+		"kode": 12,
+		"kategori": "visio",
+		"link": "Membuat Diagram Alur Dasar",
+		"judul": "Membuat Diagram Alur Dasar",
+		"tutorial": "Diagram alur adalah diagram yang memperlihatkan langkah-langkah dalam suatu proses. Diagram alur dasar mudah untuk dibuat dan, karena bentuknya sederhana dan visual, jadi mudah untuk dimengerti.\n Mulai Visio. Klik kategori Diagram Alur. Klik dua kali Diagram Alur Dasar. Untuk setiap langkah dalam proses yang Anda dokumentasikan, seret bentuk diagram alur ke gambar. Sambungkan bentuk diagram alur dengan menahan penunjuk mouse pada bentuk pertama, lalu klik panah kecil yang muncul yang mengarah ke bentuk yang ingin Anda sambungkan. Jika bentuk kedua tidak secara langsung melintas dari bentuk pertama, klik dan tahan panah kecil, seret ke bentuk kedua, lalu jatuhkan konektor di tengah bentuk kedua. Untuk menambahkan teks ke bentuk atau konektor, pilih, lalu ketikkan. Setelah selesai mengetik, klik area kosong di halaman. Untuk mengubah arah panah konektor, pilih konektor, lalu di tab Bentuk, dalam grup Gaya Bentuk, klik Garis, arahkan ke Panah, lalu pilih arah panah dan gaya yang Anda inginkan.",
+		"gambar": "https://support.content.office.net/id-id/media/f5d9cb75-dbfb-4885-b6cd-0e717e64ae30.gif"
+	},
+	{
+		"kode": 13,
+		"kategori": "visio",
+		"link": "Memperbaiki perataan dan spasi",
+		"judul": "Memperbaiki perataan dan spasi",
+		"tutorial": "Tekan CTRL+A untuk memilih semua di halaman gambar. Di tab Rumah, dalam grup Atur, klik Posisi, lalu klik Ratakan & Spasi Otomatis.\n Jika cara di atas tidak sesuai dengan yang Anda inginkan, tekan CTRL+Z untuk membatalkannya, lalu coba beberapa opsi lain di bawah tombol Ratakan dan Posisi.",
+		"gambar": "https://support.content.office.net/id-id/media/f5d9cb75-dbfb-4885-b6cd-0e717e64ae30.gif"
+	},
+	{
+		"kode": 14,
+		"kategori": "visio",
+		"link": "Buat tabel dengan bentuk Visio",
+		"judul": "Buat tabel dengan bentuk Visio",
+		"tutorial": "Bentuk Visio yang paling umum untuk membuat tabel ada di stensil Bentuk Bagan. Di jendela Bentuk, klik Bentuk Lainnya, lalu arahkan ke Bisnis > Bagan dan Grafik dan klik Bentuk Bagan. Stensil muncul di jendela Shapes Anda.\n\nBentuk Grid adalah cara termudah untuk memulai tabel yang paling umum.\n Seret bentuk Grid dari jendela Shapes ke halaman gambar.\n Dalam kotak Data Bentuk yang muncul saat Anda melepaskan bentuk, masukkan berapa banyak baris dan kolom yang Anda inginkan di tabel Anda. Klik OK, dan kisi muncul pada gambar.\n Tips: Untuk memindahkan tabel, seret tabel tanpa mengkliknya terlebih dahulu. Jika Anda mengklik tabel, Anda mungkin akan memilih satu sel di grid, dan kemudian tabel tidak akan bergerak. Jika itu terjadi, klik menjauh dari tabel, lalu coba seret lagi. \nUntuk membuat tabel lebih besar atau lebih kecil, seret gagang pengatur ukuran di sisi bentuk. \nKlik dua kali di sel mana pun untuk mulai mengetik. Untuk berhenti mengetik di sel itu, tekan Esc atau klik bagian lain dari gambar. \n Catatan: Ukuran sel tidak secara otomatis menyesuaikan jika teks tidak muat di dalam sel. Jika ini penting, mungkin akan lebih mudah bagi Anda untuk menyusun tabel di Excel atau Word. Lihat di bawah untuk lebih lanjut tentang itu. \nJika Anda menginginkan tajuk khusus untuk baris atau kolom Anda, seret bentuk Tajuk Baris atau Tajuk Kolom ke halaman gambar dan letakkan di tempat yang Anda inginkan. Klik dua kali untuk mengetiknya.",
+		"gambar": "https://support.content.office.net/en-us/media/37b51d94-4c68-4535-97a5-40958df4e2f4.png"
+	}
+]

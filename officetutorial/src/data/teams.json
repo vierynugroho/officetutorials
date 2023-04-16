@@ -1,0 +1,106 @@
+[
+	{
+		"kode": 1,
+		"kategori": "teams",
+		"link": "Quick Start",
+		"judul": "Memulai Teams",
+		"tutorial": "Dengan Microsoft Teams di PC, Mac, atau perangkat seluler, Anda dapat:\n Satukan tim. \nGunakan obrolan alih-alih email. \nEdit file dengan aman secara bersamaan. \nLihat suka, @sebutan, dan balasan hanya dengan satu ketukan. \nSesuaikan dengan menambahkan catatan, situs web, dan aplikasi.",
+		"gambar": "https://sm.pcmag.com/t/pcmag_au/gallery/h/how-to-use/how-to-use-microsoft-teams-for-free_4cze.1920.jpg"
+	},
+	{
+		"kode": 2,
+		"kategori": "teams",
+		"link": "Mulai Teams",
+		"judul": "Masuk dan memulai dengan teams",
+		"tutorial": "Mulai Teams. \nDi Windows, klik Mulai Tombol Mulai > Microsoft Teams. \nDi Mac, pergi ke folder Aplikasi dan klik Microsoft Teams. \nDi seluler, ketuk ikon Teams . \nMasuk dengan nama pengguna Microsoft 365 pengguna dan kata sandi Anda.",
+		"gambar": "https://sm.pcmag.com/t/pcmag_au/gallery/h/how-to-use/how-to-use-microsoft-teams-for-free_4cze.1920.jpg"
+	},
+	{
+		"kode": 3,
+		"kategori": "teams",
+		"link": "Tim dan Saluran",
+		"judul": "Pilih tim dan saluran",
+		"tutorial": "Tim adalah kumpulan orang, percakapan, file, dan alat — semua dalam satu tempat. Saluran adalah diskusi dalam tim, yang dikhususkan untuk departemen, proyek, atau topik.\n Cara terbaik untuk mengenal tim dan saluran adalah dengan memilih tim dan saluran dan mulai menjelajah!.\nPilih Teams Tombol tim di sisi kiri aplikasi, lalu pilih tim.\nJika Anda tidak ada dalam tim dan ingin membuatnya, lihat Luncurkan tim Anda.\nPilih saluran dan jelajahi Percakapan, File, dan tab lainnya.",
+		"gambar": "https://sm.pcmag.com/t/pcmag_au/gallery/h/how-to-use/how-to-use-microsoft-teams-for-free_4cze.1920.jpg"
+	},
+	{
+		"kode": 4,
+		"kategori": "teams",
+		"link": "Chat dan berbagi",
+		"judul": "Mengobrol dan berbagi file di Teams dengan semua tim",
+		"tutorial": "Mulai percakapan baru dengan semua tim\n Pilih Teams Tombol tim, lalu pilih tim dan saluran.\n Pilih Percakapan baru.\n Dalam kotak tempat Anda mengetik pesan, katakan apa yang ada dalam benak Anda dan pilih Kirim Tombol kirim.",
+		"gambar": "https://support.content.office.net/id-id/media/18cf3d8c-116a-40a4-8f6c-bb4115dd32b9.png"
+	},
+	{
+		"kode": 5,
+		"kategori": "teams",
+		"link": "Chat dan berbagi 2",
+		"judul": "Mengobrol dan berbagi file di Teams dengan seseorang atau grup",
+		"tutorial": "Pilih Obrolan> Obrolan baru.\n Dalam bidang Kepada, ketik nama orang yang ingin Anda ajak mengobrol.\n Dalam kotak tempat Anda mengetik pesan, katakan apa yang ada dalam benak Anda dan pilih Kirim Tombol kirim.",
+		"gambar": "https://support.content.office.net/id-id/media/18cf3d8c-116a-40a4-8f6c-bb4115dd32b9.png"
+	},
+	{
+		"kode": 6,
+		"kategori": "teams",
+		"link": "Membalas percakapan",
+		"judul": "Membalas Percakapan",
+		"tutorial": "Percakapan saluran diatur berdasarkan tanggal dan kemudian dibuat utas. Balasan dalam utas diatur di bawah pos awal sehingga lebih mudah untuk mengikuti beberapa percakapan.\n Temukan utas percakapan yang Anda ingin balas.\n Pilih Balas, tambahkan pesan Anda, dan pilih Kirim Tombol kirim.",
+		"gambar": "https://support.content.office.net/id-id/media/dcfbac68-bde9-4394-bcd8-b998ddf38f28.png"
+	},
+	{
+		"kode": 7,
+		"kategori": "teams",
+		"link": "Emoji, Meme, GIF",
+		"judul": "Bersenang-senang dengan emoji, meme, dan GIF",
+		"tutorial": "Ekspresikan diri Anda dan buat rekan kerja Anda terkesan!.\n Pilih Stiker Tombol Stiker di bawah kotak tempat Anda mengetik pesan, lalu pilih meme atau stiker dari salah satu kategori.\n Katalog Tombol Stiker Stiker berisi berbagai macam stiker dan meme yang dapat disesuaikan — Anda bahkan dapat mengunggah milik Anda sendiri! Lihat Bentuk emoji Tombol Emoji wajah tersenyum dan Giphy Tombol GIF untuk GIF animasi.",
+		"gambar": "https://support.content.office.net/id-id/media/acba3b9b-cc45-4e22-8f69-d75d32b589b3.png"
+	},
+	{
+		"kode": 8,
+		"kategori": "teams",
+		"link": "Berbagi File",
+		"judul": "Berbagi File",
+		"tutorial": "Terkadang kata-kata tidak cukup, dan Anda perlu memposting file ke percakapan saluran.\n Tips: Teams bekerja sangat baik dengan dokumen Microsoft Office.\n Dalam percakapan saluran, pilih Lampirkan Tombol Pilih file di bawah kotak tempat Anda mengetik pesan.\n Pilih dari opsi berikut:\n Baru-baru ini. \nTelusuri Teams dan Saluran OneDrive.\n Upload dari komputer saya.\n Pilih file yang > Bagikan tautan.\n Jika Anda mengunggah file dari komputer, pilih file, pilih Buka ,lalu pilih Kirim Tombol kirim.\n Anda selalu dapat melihat semua file yang Anda kirim ke saluran dengan membuka tab File.",
+		"gambar": "https://support.content.office.net/id-id/media/21363d44-b07d-41b5-9d55-6f92323fef5a.png"
+	},
+	{
+		"kode": 9,
+		"kategori": "teams",
+		"link": "Menyebut seseorang",
+		"judul": "@menyebut seseorang",
+		"tutorial": "Sebuah @sebutan seperti tepukan pada pundak—cara untuk mendapatkan perhatian seseorang dalam saluran percakapan atau obrolan.\n Dalam kotak tempat Anda mengetikkan pesan, ketik @, lalu ketik beberapa huruf pertama dari nama orang tersebut. Anda juga dapat @menyebut seluruh tim dan saluran.\n Pilih orangnya. Ulangi untuk sebanyak mungkin orang yang ingin Anda @sebutkan.\n Setiap orang yang @mention menerima pemberitahuan dalam umpan Aktivitas mereka. Periksa lingkaran merah di samping Aktivitas Tombol Aktivitas sekarang untuk melihat apakah seseorang telah @menyebut Anda!",
+		"gambar": "https://support.content.office.net/id-id/media/5bd0eed7-3f22-43d5-8d4d-bf622ab22c4a.png"
+	},
+	{
+		"kode": 10,
+		"kategori": "teams",
+		"link": "Ketahui semuanya",
+		"judul": "Ketahui semuanya",
+		"tutorial": "Aktivitas memberi tahu jika seseorang @menyebut Anda, menyukai sesuatu yang Anda kirim, atau membalas utas yang Anda mulai. Umpan Aktivitas membantu Anda memantau semua pemberitahuan Anda.\n  Pilih Opsi Tombol Aktivitas.\n Umpan memperlihatkan kepada Anda rangkuman semua hal yang terjadi di saluran yang Anda ikuti.\n Pilih Filter Tombol Filter untuk menampilkan tipe pemberitahuan tertentu saja seperti @mentions atau reaksi.\n Pilih Umpan > Aktivitas Saya untuk melihat semua yang Anda lakukan akhir-akhir ini di Teams.",
+		"gambar": "https://support.content.office.net/id-id/media/c546bad5-f806-4f11-8439-7e6e7c4d1a2c.png"
+	},
+	{
+		"kode": 11,
+		"kategori": "teams",
+		"link": "Cari pesan, orang, file",
+		"judul": "Cari pesan, orang, atau file",
+		"tutorial": "Pencarian mencakup seluruh organisasi Anda — semua tim dan saluran yang Anda menjadi bagian di sini.\n Ketik frasa dalam kotak perintah di bagian atas aplikasi dan tekan Enter.\n Pilih tab Pesan, Orang, atau File.\n Pilih sebuah item dalam hasil pencarian untuk memperluas dan mempelajari selengkapnya tentang item tersebut.",
+		"gambar": "https://support.content.office.net/id-id/media/37c0f725-e62f-49f6-9804-ef0821f7b9bd.png"
+	},
+	{
+		"kode": 12,
+		"kategori": "teams",
+		"link": "Menyiapkan Aplikasi Seluler",
+		"judul": "Atur aplikasi seluler Teams Anda",
+		"tutorial": "Akses file dari mana saja, di kantor, rumah, atau saat dalam perjalanan.\n Konfigurasikan aplikasi Office di perangkat seluler Anda.\n Wanita sedang menggunakan laptop, telepon, dan tablet.\n Pilih perangkat seluler Anda",
+		"gambar": "https://support.content.office.net/id-id/media/81a36616-97ea-4cda-8de7-e13b6c102c35.png"
+	},
+	{
+		"kode": 13,
+		"kategori": "teams",
+		"link": "Mendapatkan bantuan",
+		"judul": "Pelajari lebih lanjut tentang Teams",
+		"tutorial": "Memiliki pertanyaan tentang Microsoft Teams? Kami punya Anda tertutup!.\n Klik bantuan Tombol bantuan di sisi kiri aplikasi, lalu pilih salah satu hal berikut:\n Topik untuk melihat apa yang sudah ada.\n Yang baru untuk melihat yang terbaru dan terhebat.",
+		"gambar": "https://support.content.office.net/id-id/media/b1b4189a-b5ea-4683-abee-8fb1f4ecf167.png"
+	}
+]

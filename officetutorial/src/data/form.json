@@ -1,0 +1,59 @@
+[
+    {
+		"kode": 1,
+		"kategori": "forms",
+		"link": "Start forms",
+		"judul": "Start forms",
+		"tutorial": "Dengan Microsoft Forms, Anda dapat membuat survei, kuis dan poling, serta melihat hasil saat masuk dengan mudah.",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	},
+    {
+		"kode": 2,
+		"kategori": "forms",
+		"link": "Memulai formulir",
+		"judul": "Memulai formulir baru",
+		"tutorial": "Buka Microsoft Forms dengan kredensial sekolah microsoft 365, atau akun microsoft.\n-Pilih icon plus formulir baru.\n-Beri judul formulir anda dan, jika anda mau, deskripsinya.",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	},
+    {
+		"kode": 3,
+		"kategori": "forms",
+		"link": "Menambahkan pertanyaan",
+		"judul": "Menambahkan pertanyaan",
+		"tutorial": "Pilih Tambahkan baru dengan logo(+) untuk menambahkan pertanyaan baru ke formulir anda.\n-pilih jenis pertanyyan yang ingin anda tambahkan, seperti tipe pertanyaan pilihan, teks, peringkat, atau tanggal. pilih tipe pertanyaan lainnya untuk mencari type lain yang diinginkan.\n-untuk menata bagian pertanyaab and, pilih bagian",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	},
+    {
+		"kode": 4,
+		"kategori": "forms",
+		"link": "Mempratinjau formulir",
+		"judul": "Mempratinjau formulir anda",
+		"tutorial": "Di komputer, pilih pratinjau(icon mata) untuk melihat tampilan formulir anda. Di perangkat seluler pilih (icon mata) untuk melihat tampilan formulir anda.\n-untuk menguji formulir anda, jawab pertanyyan dalam mode pratinjau, lalu kirim.\n-untuk terus mengedit formulir anda, pilih kembali",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	},
+    {
+		"kode": 5,
+		"kategori": "forms",
+		"link": "Membuat kuis",
+		"judul": "Membuat kuis baru dengan microsoft form",
+		"tutorial": "Pilih  +  Tambahkan baru untuk menambahkan pertanyaan baru ke kuis Anda.\nPilih pertanyaan seperti apa yang ingin Anda tambahkan, seperti pertanyaan Pilihan , Teks , Peringkat , atau Tanggal . Pilih  Jenis pertanyaan lainnya untuk  jenis pertanyaan Pemeringkatan , Likert , Unggah file , atau Net Promoter Score® .\nMenggunakan  jenis pertanyaan Pilihan  sebagai contoh, tambahkan pertanyaan dan jawaban Anda. Pilih  + Tambahkan opsi  untuk menambahkan lebih banyak opsi jawaban.\nUntuk menghapus jawaban, pilih tombol tempat sampah di sebelahnya. Anda juga dapat memilih untuk membuat pertanyaan wajib atau mengizinkan pilihan ganda untuk sebuah pertanyaan dengan mengubah pengaturan di bagian bawah pertanyaan.",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	},
+    {
+		"kode": 6,
+		"kategori": "forms",
+		"link": "Pratinjau kuis",
+		"judul": "Pratinjau kuis anda",
+		"tutorial": "Di komputer, pilih  Ikon pratinjauPratinjau  untuk melihat tampilan kuis Anda. Pada perangkat seluler, pilih Ikon pratinjauuntuk melihat tampilan kuis Anda.\nUntuk menguji kuis Anda, jawab pertanyaan dalam mode Pratinjau , lalu pilih Kirim .\nUntuk tetap mengedit kuis Anda, pilih Kembali .",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	},    
+    {
+		"kode": 7,
+		"kategori": "forms",
+		"link": "Buat formulir",
+		"judul": "Buat formulir grup atau kuis",
+		"tutorial": "Masuk ke Microsoft Forms  dan masuk dengan akun kerja atau sekolah Microsoft 365 atau akun pribadi Microsoft (Hotmail, Live, atau Outlook.com.\nGulir ke bawah ke bagian bawah laman Anda untuk melihat grup Anda di bawah Grup saya .\nPilih grup yang ingin Anda buatkan formulir atau kuis baru.\nPilih Tambahkan tombolFormulir Grup Baru  , lalu ikuti langkah-langkah cara membuat formulir .Jika Anda ingin membuat kuis, pilih panah drop-down di sebelah  Tambahkan tombolFormulir Grup Baru  dan pilih Kuis Grup Baru . Kemudian, ikuti langkah-langkah cara membuat kuis .",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Forms-Hero?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1350&qlt=100&fmt=png-alpha&fit=constrain"
+	}
+        
+]

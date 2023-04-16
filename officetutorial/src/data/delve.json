@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "delve",
+		"link": "Masuk ke Delve",
+		"judul": "Masuk ke Delve",
+		"tutorial": "- Ketikkan http://office.com/signin atau https://admin.microsoft.com ke dalam Bilah alamat lalu masuk dengan akun yang ingin Anda gunakan.\n Pada halaman BerandaMicrosoft 365 , pilih peluncur aplikasi di bagian atas jendela browser.\n Pilih ubin Delve di peluncur aplikasi, atau di laman.",
+		"gambar": "https://support.content.office.net/id-id/media/2befdf58-149c-480f-8ab0-b6b96f30b2b2.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "delve",
+		"link": "Memperbarui profil",
+		"judul": "Memperbarui profil pada Microsoft Delve",
+		"tutorial": "- Halaman profil adalah tempat untuk memperbarui informasi kontak dan menambahkan informasi tentang diri Anda yang ingin ditunjukkan pada orang lain. Untuk memberikan sentuhan pribadi di halaman profil, unggah gambar Anda sendiri dan pilih latar belakang.\n Klik Perbarui profil untuk mengubah atau menambahkan informasi yang Anda inginkan untuk diketahui orang lain.",
+		"gambar": "https://support.content.office.net/id-id/media/558ef796-3cab-4453-b2ab-44ece8a2749c.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "delve",
+		"link": "Menemukan informasi tentang orang lain",
+		"judul": "Menemukan informasi tentang orang lain",
+		"tutorial": "- Klik nama orang atau gambar di mana saja dalam Delve untuk masuk ke halaman profil mereka.\n Anda juga dapat menggunakan pencarian di sudut kiri atas untuk menemukan seseorang.\n Kini Anda dapat mencari orang berdasarkan kemampuan, proyek, pendidikan, atau informasi lain yang telah mereka tambahkan ke profil.",
+		"gambar": "https://support.content.office.net/id-id/media/558ef796-3cab-4453-b2ab-44ece8a2749c.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "delve",
+		"link": "Menampilkan dan memperbarui profil",
+		"judul": "Menampilkan dan memperbarui profil Anda",
+		"tutorial": "- Pilih foto Anda di header Microsoft 365 , lalu pilih profil Office saya.\n Jika Anda telah berada di Delve, pilih Saya dari menu di sebelah kiri.",
+		"gambar": "https://support.content.office.net/id-id/media/47c0a5c9-0f96-4dc3-9ff3-2b61a5580d25.png"
+	},
+	{
+		"kode": "5",
+		"kategori": "delve",
+		"link": "Memperbarui informasi",
+		"judul": "Memperbarui informasi Anda",
+		"tutorial": "- Di halaman Anda di Delve, di bagian profil, pilih Edit profil.\n Perbarui informasi sesuai keinginan. Misalnya, tulis beberapa kata tentang diri Anda dalam kotak Tentang saya, tambahkan proyek yang telah dikerjakan, serta tambahkan keterampilan dan keahlian.\n Informasi kontak yang dapat diubah di Delve memiliki tanda pensil kecil Klik simbol pensil untuk mengubah informasi di sampingnya. Klik pensil tersebut untuk mengedit.\n Kecuali untuk teks Tentang saya, perubahan disimpan secara otomatis.\n Setelah selesai memperbarui, klik nama Anda di bagian atas atau bawah halaman edit.",
+		"gambar": "https://support.content.office.net/id-id/media/47c0a5c9-0f96-4dc3-9ff3-2b61a5580d25.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "delve",
+		"link": "Mengubah foto profil",
+		"judul": "Mengubah foto profil Anda",
+		"tutorial": "- Di halaman Anda di Delve, klik ikon kamera di samping foto.\n Klik ikon kamera untuk mengubah foto Anda.\n Klik Unggah foto baru.\n Pilih file yang ingin Anda gunakan, lalu klik Buka untuk mengunggah.\n Jika ingin mengubah posisi foto, klik di dalam lingkaran lalu seret penunjuk. Untuk memperbesar atau memperkecil, gunakan slider di bawah foto.\n Klik dan seret dalam lingkaran untuk memosisikan ulang, atau gunakan penggeser di bawah foto untuk memperbesar.\n Untuk menyimpan, klik Atur sebagai foto profil kemudian Tutup.",
+		"gambar": "https://support.content.office.net/id-id/media/6d7161fc-7fdc-4b6f-8e8c-076b54c163bb.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "delve",
+		"link": "Mengubah foto sampul",
+		"judul": "Mengubah foto sampul",
+		"tutorial": "- Foto sampul adalah gambar besar di bagian atas profil Anda. Pilih salah satu yang Anda sukai dari foto yang disediakan, atau cukup pilih warna. Untuk saat ini, Anda tidak dapat mengunggah foto milik sendiri di sini.\n Di halaman Anda, klik Ubah foto sampul di sudut kanan atas dan pilih foto dari daftar.",
+		"gambar": "https://support.content.office.net/id-id/media/7cdf55ac-ed85-4a5c-a8dd-700f7ab8609e.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "delve",
+		"link": "Privasi Dokumen Pribadi",
+		"judul": "Siapa yang dapat melihat dokumen saya?",
+		"tutorial": "- Kontrol selalu di tangan Anda. Hanya Anda yang dapat melihat dokumen pribadi di Delve, kecuali jika memutuskan untuk berbagi. Dokumen pribadi ditandai dengan gembok dan teks Dokumen pribadi.\n Kunci gembok memperlihatkan hanya Anda yang dapat melihat dokumen\n Anda bisa melihat siapa yang memiliki akses ke dokumen tertentu dari dalam Delve, dan Anda juga bisa berbagi dokumen dengan orang lain.\n Klik tiga titik di sudut kanan bawah, kemudian Siapa yang dapat melihat ini?\n Periksa siapa yang bisa melihat dokumen.\n Anda juga dapat berhenti berbagi dokumen untuk mencegah orang melihatnya.",
+		"gambar": "https://support.content.office.net/id-id/media/e6f49b46-d44f-4ce4-9e5c-5db799607b6b.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "delve",
+		"link": "Menghapus Dokumen Delve",
+		"judul": "Dapatkah saya menghapus dokumen dari Delve?",
+		"tutorial": "- Dokumen tidak disimpan di Delve, sehingga Anda tidak dapat menghapus dokumen dari Delve secara langsung. Dokumen disimpan di tempat lain di Microsoft 365, misalnya di OneDrive untuk kerja atau sekolah atau di SharePoint. Hanya orang yang telah memiliki akses ke dokumen yang dapat melihatnya di Delve.\n Untuk menghapus dokumen, atau mencegahnya muncul dalam Delve, gunakan tautan di bagian kiri bawah kartu konten untuk masuk ke lokasi tempat dokumen disimpan.\n Menggunakan tautan di sudut kiri bawah kartu untuk masuk ke lokasi.\n Dari sana:\n Hapus dokumen. Atau:\n Untuk mencegah orang lain melihat dokumen di Delve, ubah perizinan sehingga hanya Anda yang memiliki akses ke dokumen.\n Untuk mencegah dokumen agar tidak muncul secara Delve , pindahkan dokumen ke luar Microsoft 365, misalnya ke folder Dokumen di PC Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/7b6de633-eedc-49a3-aa16-b7b9f75dedd1.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "delve",
+		"link": "menonaktifkan Delve",
+		"judul": "menonaktifkan Delve",
+		"tutorial": "- Di Delve, buka Pengaturan.\n Masuk ke Pengaturan fitur dan pilih Nonaktifkan untuk Dokumen.\n Klik OK untuk menyimpan perubahan.",
+		"gambar": "https://support.content.office.net/id-id/media/d5f68ada-0293-417a-87c5-0eb56e312564.png"
+	},
+	{
+		"kode": "11",
+		"kategori": "delve",
+		"link": "Kembali ke dokumen sendiri",
+		"judul": "Kembali ke dokumen Anda sendiri di halaman profil",
+		"tutorial": "- Klik Saya untuk masuk ke halaman profil Anda.\n Pilih Saya untuk masuk ke halaman profil Anda.\n Bagian Kembali ke dokumen terbaru Anda memperlihatkan dokumen yang baru saja dibuat atau diubah, dan yang disimpan di OneDrive for Business atau di Situs.\n Klik dokumen untuk membukanya, atau klik Lihat semua untuk melihat dokumen selengkapnya.",
+		"gambar": "https://support.content.office.net/id-id/media/85b2a0f9-a1ec-4647-a685-d3dd48d9ebdd.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "delve",
+		"link": "Melacak papan dan dokumen favorit",
+		"judul": "Melacak papan dan dokumen favorit Anda",
+		"tutorial": "- Setiap kali Anda melihat dokumen di Delve yang ingin disimpan untuk nanti, klik ikon bookmark untuk menambahkan dokumen ke favorit.\n Anda juga dapat mengumpulkan dokumen yang terkait dengan menambahkannya ke papan. Lihat Mengelompokkan dan berbagi dokumen di Delve untuk informasi selengkapnya.\n Klik Favorit di panel kiri untuk kembali ke papan dan dokumen favorit Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/b1b68ed7-3405-4e0e-ae66-52892c5fa548.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "delve",
+		"link": "Menemukan orang dan informasi",
+		"judul": "Menemukan orang dan informasi menggunakan pencarian",
+		"tutorial": "- Mulai mengetik di kotak pencarian untuk menemukan orang, dokumen, atau papan.\n Pencarian di Delve dipersonalisasi. Bahkan sebelum mulai mengetik dalam kotak pencarian, Anda mungkin melihat daftar saran berdasarkan aktivitas sebelumnya. Ketika Anda mulai mengetik, daftar saran akan berubah.\n Jika menekan Enter atau memilih Perlihatkan hasil selengkapnya, Anda akan melihat hasil pencarian lainnya berdasarkan pada hasil yang kemungkinan besar relevan bagi Anda.\n Hasil pencarian yang dilihat tergantung pada hal-hal seperti apa yang telah Anda kerjakan baru-baru ini, siapa yang telah bekerja dengan Anda, dan dokumen apa yang telah mereka kerjakan. Misalnya, jika salah satu kolega dekat Anda telah menulis dokumen tentang subjek tertentu, dokumen tersebut mungkin akan muncul lebih atas di dalam daftar hasil daripada dokumen yang ditulis oleh seseorang yang tidak dikenal.\n Anda juga dapat menemukan orang-orang berdasarkan keterampilan, proyek, pendidikan, atau informasi lain yang telah mereka tambahkan ke profil.",
+		"gambar": "https://support.content.office.net/id-id/media/2eb70424-e9ad-424f-9a31-72b91ed4cbab.png"
+	},
+	{
+		"kode": "14",
+		"kategori": "delve",
+		"link": "Membuat papan dan menambahkan dokumen",
+		"judul": "Membuat papan dan menambahkan dokumen",
+		"tutorial": "- Di kartu yang ingin Anda tambahkan ke papan, klik ikon papan di sudut kiri bawah.\n Dalam kotak dialog yang terbuka, di dalam kotak Tambahkan ke papan, masukkan nama papan. Saat mulai mengetik, Anda akan melihat nama papan yang sudah ada.\n Untuk membuat papan baru dan menambahkan kartu, ketik nama papan yang belum ada.\n Untuk menambahkan kartu ke papan yang sudah ada, ketik atau pilih nama papan tersebut.\n Saat Anda menambahkan dokumen ke papan, dokumen akan dilihat orang lain dalam beberapa menit. Dan tentu saja, dokumen hanya akan muncul untuk orang-orang yang memiliki akses ke dokumen.",
+		"gambar": "https://support.content.office.net/id-id/media/f90bb03a-4ad5-4f4c-9bda-5278acc9abe5.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "delve",
+		"link": "Hak Akses Dokumen",
+		"judul": "Beri orang lain akses ke dokumen Anda",
+		"tutorial": "- Untuk berbagi dokumen dengan orang lain dari Delve, klik tiga titik di sudut kanan bawah kartu konten, kemudian Siapa yang dapat melihat ini?, lalu pilih Bagikan atau Izinkan akses.",
+		"gambar": "https://support.content.office.net/id-id/media/73cc22c1-4a7f-45e3-b4e6-9218b344b6c3.png"
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "todo",
+		"link": "My Day dan saran",
+		"judul": "- Hari saya dan saran",
+		"tutorial": "Gunakan My Day untuk membantu memfokuskan pada tugas harian.\n Anda dapat menambahkan tugas baru secara langsung ke hari saya, atau menambahkan tugas dari daftar lainnya, dengan memilih tugas untuk melihat detailnya lalu memilih Tambahkan ke hari saya.\n Anda juga dapat menggunakan saran untuk memilih tugas untuk ditambahkan ke hari saya. Untuk melihat tugas yang disarankan, pilih ikon saran Ikon bola lampu di bagian atas daftar hari saya.",
+		"gambar": "https://support.content.office.net/id-id/media/fd9c5dbd-dfd3-474b-ae44-9f1202d8d4e5.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "todo",
+		"link": "Tugas dalam daftar bersama",
+		"judul": "Menetapkan tugas dalam daftar bersama",
+		"tutorial": "- Untuk menetapkan tugas dalam daftar bersama, buka tampilan bersama, buka tampilan detail tugas dan pilih tetapkan ke. Lalu pilih anggota dari daftar bersama bersama yang ingin anda tetapkan tugas. \n Untuk dilakukan di windows, anda dapat menetapkan tugas saat membuatnya. ketikkan @ di bidang entri tugas, lalu ketikkan nama anggota daftar untuk menetapkan tugas yang anda tambahkan.",
+		"gambar": "https://support.content.office.net/id-id/media/2986d4c8-fc6b-4aa7-9c72-3c0c428af000.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "todo",
+		"link": "Tugas ke daftar pintar",
+		"judul": "Menetapkan tugas ke daftar pintar",
+		"tutorial": "- Untuk menampilkan semua tugas anda, pilih daftar ditetapkan ke anda. Setiap tugas yang telah ditetapkan untuk anda akan muncul secara otobatis di sini bersama dengan tugas dari aplikasi lain, seperti Planer.\n Daftar ditetapkan ke anda muncul secara otomatis. Jika anda ingin mematikannya, buka pengaturan To Do > Daftar pintar dan alihkan tombol ditugaskan ke anda.",
+		"gambar": "https://support.content.office.net/id-id/media/222a9c80-3d7a-4159-9997-75db59dbb975.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "todo",
+		"link": "Menonaktifkan pemberitahuan daftar bersama",
+		"judul": "Menonaktifkan pemberitahuan di daftar bersama",
+		"tutorial": "- Buka untuk melakukan pengaturan > pemberitahuan > Alihkan aktifitas daftar bersama nonaktif",
+		"gambar": "data:image/png;base64,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"
+	},
+	{
+		"kode": "5",
+		"kategori": "todo",
+		"link": "Membuat grup daftar",
+		"judul": "Membuat grup daftar",
+		"tutorial": "- Untuk membuat grup daftar, ketuk atau klik ikon grup daftar di sebelah kanan + Daftar baru. Ini akan membuat grup dengan nama, ketuk atau klik untuk mrmilih grup tanpa judul dan mulailah mengetik nama grup.\n Untuk menambahkan daftar ke grup, klik atau ketik dan tahan daftar untuk menyeret dan menjatuhkannya ke grup. Di ponsel, anda juga bisa mengetuk tiga titik di sebelah kanan nama grup, lalu pilih opsi untuk menambahkan/menghapus daftar.",
+		"gambar": "https://support.content.office.net/id-id/media/7f928519-4235-43e8-9c02-48e18b7a2fa8.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "todo",
+		"link": "Mengganti nama dan menghapus grup daftar",
+		"judul": "Mengganti nama atau menghapus grup daftar",
+		"tutorial": "- Di desktop klik kanan grup daftar. Di ponsel, ketuk tiga titik di sebelah kanan nama grup. anda kemudian dapat memilih untuk mengganti nama grup atau memisahkan daftar. Memilih opsi untuk memisahkan daftar akan menghapus grup daftar. Daftar dari grup akan tetap ada dan anda akan bisa mengaksesnya di bilah sisi.",
+		"gambar": "https://support.content.office.net/id-id/media/aa041131-1034-4a2c-bcf0-4a43ae2bc7b1.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "todo",
+		"link": "Mengurutkan daftar",
+		"judul": "Mengurutkan daftar pada Microsoft To Do",
+		"tutorial": "- Klik atau ketuk titik tiga di bagian kanan atas daftar anda untuk membuka menu lainnya.\n Lalu, pilih Unrutkan menurut anda dan akan memiliki opsi untuk menata daftar anda berdasarkan kepentingan, tanggal jatuh tempo, ditambahkan ke haru saya, menurut abjad atau tanggal pembuatan.",
+		"gambar": "https://support.content.office.net/id-id/media/755df9fe-1e5d-4e20-853d-b1143cb4607b.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "todo",
+		"link": "Mencari daftar",
+		"judul": "Mencari daftar pada Microsoft To Do",
+		"tutorial": "- Pilih ikon kaca pembesar di sebelah kanan nama pengguna anda untuk membuka bidang pencarian.\n KEtika kata atau frasa yang anda cari dan kami akan memeriksa istilah pencarian tersebut dalam semua tugas, langkah, tag, dan catatan anda.\n Kami akan mengembalikan daftar setiap contoh yang dapat ditemukan kata atau frasa tersebut. Anda dapat memilih hasil pencarian yang diinginkan untuk membuka tugas, langkah atau catatan tertentu.",
+		"gambar": "https://support.content.office.net/id-id/media/986b9351-7e0a-43c9-9c62-504ec6f32e3c.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "todo",
+		"link": "Mengustomisasi daftar",
+		"judul": "Mengustomisasi daftar anda",
+		"tutorial": "- Mengustomisasi setiap daftar dengan memilih latar belakang yang berbeda. Cukup pilih titik tiga di kanan atas, lalu pilih warna atau gambar sebagai latar belakang daftar anda.\n Anda juga dapat menambahkan EMOJI ke aeal nama daftar anda dan EMOJI akan ditampilkan sebagai ikon daftar bilah sisi.",
+		"gambar": "https://support.content.office.net/id-id/media/6f87f384-8f2f-4a49-b7fc-ef9064323e5b.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "todo",
+		"link": "Menghapus daftar",
+		"judul": "Menghapus daftar Microsoft To Do",
+		"tutorial": "- Untuk menghapus daftar, cukup ketuk atau klik tiga titik di sudut kanan atas daftar anda untuk mengakses menu lainnya, kemudian, pilih hapus daftar.",
+		"gambar": "https://support.content.office.net/id-id/media/82548a17-bd6c-48d7-aa83-00cae81483f3.png"
+	},
+	{
+		"kode": "11",
+		"kategori": "todo",
+		"link": "Memulihkan daftar",
+		"judul": "Memulihkan daftar Microsoft To Do",
+		"tutorial": "- Masuk ke aplikasi desktop Outlook windows dengan akun Microsoft yang digunakan dengan Microsoft To Do.\n Alihkan ke tampilan daftar folder dengan memilih CTRL+6, lalu perluas folder item dihapus. sekarang, anda juka akan melihat folder tugas yang dihapus.\n klik kanan folder yang dihapus.\n Pindahkan Folder ke Tugas.",
+		"gambar": "https://www.labana.id/wp-content/uploads/2017/05/img_590f77c799810.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "todo",
+		"link": "Membuat tugas",
+		"judul": "Membuat tugas pada Microsoft To Do",
+		"tutorial": "- Anda dapat membuat tugas dari bidang input + Tambahkan tugas dalam daftar aoa pun. Pilih bidang, ketikkan judul tugas, dan tekan return atau enter. Tugas baru anda kemudian akan ditambahkan ke nagian bawah daftar.",
+		"gambar": "https://9to5mac.com/wp-content/uploads/sites/6/2019/06/microsoft-to-do-mac.jpeg?quality=82&strip=all"
+	},
+	{
+		"kode": "13",
+		"kategori": "todo",
+		"link": "Mengedit tugas",
+		"judul": "Mengedit tugas Microsoft To Do",
+		"tutorial": "- Untuk mengganti nama tugas, pilih tugas untuk membuka tamoilan rinciannya. Setelah dalam tampilan detail, anda dapat mengklik atau mengetuk judul tugas. Kursor akan muncul di bidang judul tugas dan anda akan dapat mengganti nama atau mengedit judul.",
+		"gambar": "https://9to5mac.com/wp-content/uploads/sites/6/2019/06/microsoft-to-do-mac.jpeg?quality=82&strip=all"
+	},
+	{
+		"kode": "14",
+		"kategori": "todo",
+		"link": " Menghapus beberapa tugas",
+		"judul": "Menghapus beberapa tugas Microsoft To Do",
+		"tutorial": "- aat ini, cara termudah untuk menghapus tugas secara massal adalah dari desktop di aplikasi web, Windows, atau Mac kami.\n Jika Anda menggunakan Windows, Anda harus terlebih dahulu memastikan bahwa menu konteks diaktifkan di pengaturan Anda. Shift-klik untuk memilih tugas yang diinginkan, lalu klik kanan untuk mengakses menu konteks dan klik Hapus tugas.",
+		"gambar": "https://support.content.office.net/id-id/media/59080baa-c967-4627-b15f-c7a650b9d8ca.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "todo",
+		"link": "Memulihkan tugas yang dihapus",
+		"judul": "Memulihkan tugas yang dihapus Microsoft To Do",
+		"tutorial": "Masuk ke Outlook di desktop dengan akun Microsoft yang sama yang anda gunakan dengan Microsoft To Do.\n Navigasikan ke daftar folder email anda, lalu pilih item terhapus. Temukan tugas yang dihapus, klik kanan, lalu pindahkan > folder lain > tugas.\n Tugas yang dihapus akan muncul dalam daftar yang benar",
+		"gambar": "https://support.content.office.net/id-id/media/994d38a7-b689-486b-b748-6b8f0a6e2603.png"
+	}
+]

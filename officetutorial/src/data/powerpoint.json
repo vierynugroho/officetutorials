@@ -1,0 +1,114 @@
+[
+	{
+		"kategori": "powerpoint",
+		"link": "Membuat Presentasi Baru",
+		"judul": "Membuat Presentasi Baru",
+		"tutorial": "- Buka PowerPoint\n Di panel kiri, pilih baru.\n Pilih presentasi kosong",
+		"gambar": "https://support.content.office.net/id-id/media/f523b06c-22c6-446a-bf6c-b3c3691b4c60.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan Slide",
+		"judul": "Menambahkan Slide",
+		"tutorial": "- Di gambar mini di panel kiri, pilih slide yang anda inginkan untuk diikuti slide baru.\n Di tab Beranda, di bagian Slide, pilih Slide Baru.\n Di bagian Slide, pilih Tata Letak, lalu pilih tata letak yang anda inginkan dari menu.",
+		"gambar": "https://support.content.office.net/id-id/media/e518ef5c-ab01-427e-9d55-e80712065809.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan dan Memformat Teks",
+		"judul": "Menambahkan dan Memformat Teks",
+		"tutorial": "- Letakkan kursor di dalam kotaks teks, lalu ketikkan sesuatu.\n Pilih teks, lalu pilih satu atau beberapa opsi dari bagian Font tab Beranda, seperti Font, Perbesar Ukuran Font, Perkecil ukuran font, Tebal, Miring, Garis Bawah, dll.\n Untuk membuat daftar berpoin atau bernomor, pilih teks, lalu pilih Point atau Penomoran.",
+		"gambar": "https://support.content.office.net/id-id/media/818f1d00-621c-4004-a2b0-72c907a6d878.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan gambar, Bentuk, dan Lainnya",
+		"judul": "Menambahkan Gambar, Bentuk, dan Lainnya",
+		"tutorial": "- Buka tab Sisipkan.\n Untuk menambahkan gambar: \n Dibagian Gambar, pilih Gambar. \n Dalam menu Sisipkan Gambar Dari, pilih sumber yang anda inginkan.\n Telusuri gambar yang anda inginkan, pilih gambar, lalu pilih Sisipkan.\n Untuk menambahkan ilustrasi:\n Dibagian Iludtrasi, pilih Bentuk, Ikon, Model 3D, SmartArt, atau Bagan.\n Dalam kotak dialog yang terbuka saat anda mengklik salah satu tipe ilustrasi, pilih item yang anda inginkan dan ikuti perintah untuk menyisipkannya.",
+		"gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9VWXt15qJOahVNA6K3ev3e0x2W-3qRy0P_25FbQbOzvRvxeVik1Z1s2xI_nC-Xrd7No&usqp=CAU"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menyimpan Presentasi sebagai File PDF",
+		"judul": "Menyimpan Presentasi PowerPoint sebagai File PDF",
+		"tutorial": "- Pilih File > Ekspor. \n Klik Buat dokumen PDF/XPS, lalu klik Buat PDF/XPS.\n Dalam kotak dialog Terbitkan sebagai Pdf atau XPS, pilih lokasi untuk menyimpan file. Jika ingin memberi nama lain, masukkan nama yang baru dalam kotak Nama File.\n Klik Opsi untuk mengatur tampilan presentasi sebagai PDF.",
+		"gambar": "https://support.content.office.net/id-id/media/9558b20d-7545-4cbc-9d80-31afa88b96d4.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menerapkan template ke Presentasi",
+		"judul": "Menerapkan template ke Presentasi",
+		"tutorial": "- Buka File > Baru.\n Pilih template atau ketikkan kata kunci atau frasa ke dalam bidang cari templat dan tem aonline, lalu tekan enter.\n Jika sudah menemukan templat yang diinginkan, pilih templat tersebut untuk melihat detailnya, lalu pilih buat.",
+		"gambar": "https://support.content.office.net/id-id/media/f523b06c-22c6-446a-bf6c-b3c3691b4c60.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan Animasi Dalam Presentasi",
+		"judul": "Menambahkan Animasi ke Teks Gambar, Bentuk, dan lainnya dalam presentasi",
+		"tutorial": "- Pilih objek atau teks yang ingin anda animasikan.\n Pilih animasi, lalu pilih salah satu animasi.\n Pilih Opsi efek, kemudian pilih salah satu efek.",
+		"gambar": "https://media.hitekno.com/thumbs/2021/03/31/32735-cara-membuat-animasi-di-power-point-hitekno/o-img-32735-cara-membuat-animasi-di-power-point-hitekno.jpg"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan animasi",
+		"judul": "Menambahkan animasi ke teks, gambar, bentuk, dan lainnya",
+		"tutorial": "- Pilih objek atau teks dengan animasi.\n Pilih Tambahkan Animasi, lalu pilih salah satu efek.\n",
+		"gambar": "https://support.content.office.net/id-id/media/26c34489-53fd-42b3-8949-9dc9aa2bdc9f.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan efek lain ke animasi",
+		"judul": "Menambahkan efek lain ke animasi",
+		"tutorial": "- Pilih objek atau teks dengan animasi.\n Pilih Tambahkan Animasi, lalu pilih salah satu.",
+		"gambar": "https://media.hitekno.com/thumbs/2021/03/31/32735-cara-membuat-animasi-di-power-point-hitekno/o-img-32735-cara-membuat-animasi-di-power-point-hitekno.jpg"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Mengubah urutan animasi",
+		"judul": "Mengubah urutan animasi",
+		"tutorial": "- Pilih salah satu penanda animasi,\n Pilih opsi yang diinginkan: Pindahkan Lebih Awal membuat animasi muncul dalam urutan lebih awal, Pindahkan Kemudian Membuat animasi muncul dalam urutan berikutnya.",
+		"gambar": "data:image/jpeg;base64,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"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menambahkan animasi objek berkelompok",
+		"judul": "Menambahkan animasi ke objek yang dikelompokkan",
+		"tutorial": "- Tekan Ctrl, lalu pilih objek yang diinginkan.\n Pilih Format > Kelompokkan > Grupkan untuk mengelompokkan objek menjadi satu.\n Pilih Animasi, lalu pilih salah satu animasi.",
+		"gambar": "https://media.hitekno.com/thumbs/2021/03/31/32735-cara-membuat-animasi-di-power-point-hitekno/o-img-32735-cara-membuat-animasi-di-power-point-hitekno.jpg"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Membuka panel animasi",
+		"judul": "Membuka panel animasi",
+		"tutorial": "- Pilih objek pada slide yang ingin anda animasikan.\n Pada tab Animasi, kik Panel Animasi.\n Klik Tambahkan Animasi, dan pilih salah satu efek animasi.\n untuk menerapkan efek animasi tambahan pada objek yang sama, pilih efek animasi tersebut, klik Tambahkan Animasi dan pilih efek animasi lainnya.",
+		"gambar": "https://support.content.office.net/id-id/media/88224fa4-8086-4ea6-bee1-c15c6e73892d.jpg"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Mengatur durasi animasi",
+		"judul": "Mengatur waktu mulai dan lamanya efek animasi",
+		"tutorial": "- Di Panel Animasi, Klik panah bawah di samping efek animasi lalu klik Pengaturan Waktu.\n Pada tab Pengaturan Waktu, klik panah bawah Mulai, dan pilih dari waktu mulai berikut ini:\n untuk diputar saat anda mengklik mouse, pilih Saat Diklik.\n Agar diputar secara bersamaan dengan efek animasi sebelumnya, pilih Mulai dengan Sebelumnya.\n Untuk menunda dimulainya efek animasi, klik panah atas Tunda ke jumlah detik yang anda inginkan.\n untuk melihat bagaimana efek animasi berfungsi secara bersamaan, klik Pratinjau pada tab Animasi.",
+		"gambar": "https://support.content.office.net/id-id/media/ac75dc66-0ed4-4584-aec7-ee1b6e86f76a.jpg"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Mengubah Efek Animasi",
+		"judul": "Mengubah Efek Animasi",
+		"tutorial": "- Pilih objek dengan efek animasi yang ingin diubah.\n Di tab Animasi, pilih animasi baru yang anda inginkan.",
+		"gambar": "https://support.content.office.net/id-id/media/26c34489-53fd-42b3-8949-9dc9aa2bdc9f.png"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menghapus satu efek animasi",
+		"judul": "Menghapus satu efek animasi",
+		"tutorial": "- Di tab Animasi, klik Panel Animasi.\n Pada slide, klik objek animasi yang ingin anda hapus efeknya.\n Dalam Panel Animasi, klik efek yang akan dihapus, klik panah bawah, lalu klik hapus.",
+		"gambar": "https://support.content.office.net/id-id/media/8179a2d0-d8e2-4483-af31-d3b95a0bca38.jpg"
+	},
+	{
+		"kategori": "powerpoint",
+		"link": "Menghapus efek animasi",
+		"judul": "Menghapus lebih dari satu atau semua efek animasi",
+		"tutorial": "- Untuk menghapus lebih dari satu efek animasi dari teks atau objek, di Panel Animasi, tekan Ctrl, klik setiap efek animasi yang ingin Anda hapus, lalu tekan Delete.\n Untuk menghapus semua efek animasi dari teks atau objek, klik objek yang ingin Anda hentikan animasinya. Lalu, di tab Animasi, di galeri efek animasi, klik Tidak Ada.",
+		"gambar": "https://support.content.office.net/id-id/media/2e9337cf-6de3-4d02-8afa-8fedfb83258e.jpg"
+	}
+]

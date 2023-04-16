@@ -1,0 +1,90 @@
+[
+    {
+        "kode": 1,
+		"kategori": "Project",
+		"link": "Membuat proyek",
+		"judul": "Membuat proyek dar templat",
+		"tutorial": "Buka project pilih file > baru jika anda sedang mengerjakan rencanan proyek.\n pilih templat atau ketik di kotak cari templat online kemudian tekan enter. Atau, pilih proyek kosong untuk membuat proyek dari awal.\nPilih templat untuk menampilkan informasi tentang elemen yang disertakan dalam templat dan opsi apa pun.\nPilih opsi yang diinginkan, kemudian pilih buat.",
+		"gambar": "https://support.content.office.net/id-id/media/bef714d3-b904-4bd3-8d1a-ead91b6eeb7b.png"
+    },
+    {
+        "kode": 2,
+		"kategori": "Project",
+		"link": "Menambah Tugas",
+		"judul": "Menambahkan tugas ke project",
+		"tutorial": "Pilih tampilan > tampilan tugas > bagan gantt.\nKetikkan nama tugas dalam bidang pertamn Nama Tugas yang kosong.\nTekan enter.\nUlangi langkah 2 dan 3 untuk memasukkan tugas yang anda inginkan.",
+		"gambar": "https://support.content.office.net/id-id/media/751d6d73-2765-4d13-86c5-37b1705711dd.png"
+    },
+    {
+        "kode": 3,
+		"kategori": "Project",
+		"link": "Membuat Kerangka",
+		"judul": "Membuat kerangka tugas dalam project",
+		"tutorial": "Inden dan perluas tugas untuk memperlihatkan hierarki. Tugas berinden menjadi subtugas dari tugas di atasnya, yang kemudian menjadi tugas ringkasan.\nPilih tampilan > tampilan tugas > bagan gantt.\nPilih satu atau beberapa tugas dalam kolom nama tugas yang ingin anda inden atau perluas.\nLakukan salah satu hal berikut ini:\nPilih tugas > jadwal > inden tugas atau tekan Alt+Shift+Kiri, untuk membuat subtugas dari tugas.\nPilih tugas > jadwal > perluas tugas atau tekan Alt+Shift+Kanan, Untuk memindahkan tugas ke tingkat tugas diatasnya.",
+		"gambar": "https://support.content.office.net/id-id/media/05642b18-321e-464c-bd10-c1381fbd9c67.png"
+    },
+    {
+        "kode": 4,
+		"kategori": "Project",
+		"link": "Menautkan Tugas",
+		"judul": "Menautkan tugas dalam project",
+		"tutorial": "Anda dapat menautkan setiap dua tugas di proyek untuk memperlihatkan hubungan tugas tersebut, yang disebut sebagai dependensi tugas. Setelah menautkan tugas, setiap perubahan yang anda buat disatu tugas akan mempengaruhi tugas lainnya.\nPilihi tampilan > tampilan tugas > bagan gantt.\nTahan Ctrl lalu pilih dua tugas yang ingin anda tautkan (dalam kolom nama tugas).\nPilih tugas > tautkan tugas yang dipilih atau tekan Ctrl+F2.",
+		"gambar": "https://support.content.office.net/id-id/media/dc6d6eb4-4f6e-4357-8f89-e5c38d98b353.png"
+    },
+    {
+        "kode": 5,
+		"kategori": "Project",
+		"link": "Mengubah Tampilan",
+		"judul": "Mengubah tampilan anda",
+		"tutorial": "Pilih tab tampilan.\nLakukan salah satu hal berikut ini:\nPilih tampilan yang ingin anda gunakan dalam grup tampilan tugas atau grup tampilan sumber daya.\nPilih bagan Gantt > tampilan lainnya untuk melihat semua tampilan yang tersedia, kemudian pilih dari opsi di kotak dialog tampilan lainnya.",
+		"gambar": "https://support.content.office.net/id-id/media/a0a4b3a1-426f-4eac-baa7-28507312b34d.png"
+    },
+    {
+        "kode": 6,
+		"kategori": "Project",
+		"link": "Edit Project",
+		"judul": "Menguraikantugas tugas dalam sebuah project",
+		"tutorial": "Pilih lihat > tampilan tugas > bagan gantt.\nPilih tugas atau tugas di kolom nama tugas yang ingin anda inden atau keluarkan.\nLakukan salah satu hal berikut:\nPilih tugas > jadwal > indentasi tugas atau tekan alt+shift+kiri untuk menjadikan tugas sebagai subtugas.\nPilih Tugas > jadwal > tugas outdent atau tekan alt+shift+kanan, untuk memindahkan tugas ke tingkat tugas di atasnya",
+		"gambar": "https://support.content.office.net/en-us/media/05642b18-321e-464c-bd10-c1381fbd9c67.png"
+    },
+    {
+        "kode": 7,
+		"kategori": "Project",
+		"link": "Mengubah View",
+		"judul": "Mengubah tampilan view",
+		"tutorial": "Pilih tab tampilan\nLakukan salah satu hal berikut:\nPilih tampilan yang ingin anda gunakan dalam grup tampilan tugas atau grup tampilan sunmber daya\nPilih gantt > tampilan lainnya untuk melihat semua tampilan yang tersedia, lalu pilih opsi di kotak diaglog tampilan lainnya",
+		"gambar": "https://support.content.office.net/en-us/media/a0a4b3a1-426f-4eac-baa7-28507312b34d.png"
+    },
+    {
+        "kode": 8,
+		"kategori": "Project",
+		"link": "Mengelola project",
+		"judul": "Menambahkan sebuah tonggak sejarah",
+		"tutorial": "Pilih lihat > tampilan tugas > bagan gantt.\nKetikkan nama pencapaian dibaris kosong pertama atau pilih tugas yang ingin anda ubah menjadi pencapaian.\nKetik 0 di bidang durasi.\nTekan enter. Simbol tonggak sekarang menjadi bagan gantt anda",
+		"gambar": "https://support.content.office.net/en-us/media/b390a0f9-f5cd-4960-8cd5-b8e3d56c382c.jpg"
+    },
+    {
+        "kode": 9,
+		"kategori": "Project",
+		"link": "Assign people",
+		"judul": "Tetapkan seseorang untuk tugas",
+		"tutorial": "Pilih lihat > tampilan tugas > bagan gantt.\nPilih panah dikolom nama sumber daya untuk tugas yang ingin anda tetapkan.\nLakukan salah satu hal berikut:\nPilih orang dari daftar untuk mengerjakan tugas\nKetikkan nama baru, jika anda tidak melihat nama orang yang ingin anda tetapkan.",
+		"gambar": "https://support.content.office.net/en-us/media/05cef60a-633c-4b0c-8953-785304799ea6.png"
+    },
+    {
+        "kode": 10,
+		"kategori": "Project",
+		"link": "Mengatur Garis",
+		"judul": "Mengatut sebuah baseline atau garis dasar",
+		"tutorial": "Pilih project > jadwal > tetapkan baseline > tetapkan baseline.\nPilih garis dasar yang ingin anda atur dari daftar atur garis dasar.\nPilih seluruh project.\nPilih oke",
+		"gambar": "https://support.content.office.net/en-us/media/5111c8d8-78dd-403b-8e9b-40c855f53ca4.png"
+    },
+    {
+        "kode": 11,
+		"kategori": "Project",
+		"link": "Membuat Laporan",
+		"judul": "Membuat laporan project",
+		"tutorial": "Pilih tab laporan.\nPlih jenis laporan yang anda inginkan dalam grup lihat laporan, lalu pilih laporan tertentu.",
+		"gambar": "https://support.content.office.net/en-us/media/b673941e-d298-479c-a8c7-3c713b6e3981.jpg"
+    }
+]

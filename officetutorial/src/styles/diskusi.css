@@ -1,0 +1,144 @@
+* {
+	scroll-behavior: smooth;
+}
+
+.navbar {
+	position: fixed;
+	z-index: 2;
+	width: 100vw;
+	top: 0;
+}
+
+.navbar-container {
+	background-color: rgb(206, 205, 205);
+	margin-top: -10px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
+
+.navbar-nav a {
+	font-size: 1.2em;
+	margin-right: 8px;
+	color: #5e17eb;
+	font-weight: bold;
+}
+
+.navbar-nav a:hover {
+	cursor: pointer;
+	color: #310884;
+}
+
+main {
+	width: 100%;
+	height: auto;
+	margin-top: 110px;
+}
+
+#title-diskusi {
+	color: #5e17eb;
+	font-weight: bold;
+}
+
+.btn-submit {
+	background-color: #ffffff !important;
+	color: #5e17eb !important;
+	font-weight: bold !important;
+}
+
+button .btn-submit:hover {
+	box-shadow: 2px 2px 2px 2px rgb(184, 184, 184);
+}
+
+#nama-pengirim {
+	color: #5e17eb;
+}
+
+#pertanyaan {
+	background-color: #5e17eb;
+	border-radius: 10px;
+	height: max-content;
+	width: 30%;
+}
+
+#form_komen {
+	padding: 10px 6px;
+	color: white;
+}
+
+#wrapper-diskusi {
+	max-height: 80vh;
+	overflow: auto;
+	overflow-x: scroll;
+	overflow-y: scroll;
+}
+
+.btn-balas {
+	background-color: #5e17eb !important;
+	color: white !important;
+}
+
+/*css3 design scrollbar*/
+::-webkit-scrollbar {
+	padding: 3px;
+	width: 6px;
+}
+
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: #5e17eb;
+}
+
+::-webkit-scrollbar-corner {
+	border-radius: 30%;
+}
+
+@media screen and (max-width: 1200px) {
+	#pertanyaan {
+		width: 30vw;
+	}
+}
+
+@media screen and (max-width: 968px) {
+	.navbar-nav a {
+		padding: 10px;
+		margin-left: 8px;
+	}
+
+	.navbar-toggler {
+		margin-right: 8px;
+	}
+
+	#pertanyaan {
+		margin-bottom: 10px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	#pertanyaan {
+		width: 90%;
+		margin: 0 auto;
+	}
+	#wrapper-diskusi {
+		width: 100%;
+	}
+	.navbar-nav a {
+		padding: 10px;
+		margin-left: 8px;
+	}
+
+	.navbar-toggler {
+		margin-right: 8px;
+	}
+
+	#pertanyaan {
+		margin-bottom: 10px;
+	}
+}
+.navbar-container img {
+	width: 60px;
+	height: 60px;
+}

@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "sway",
+		"link": "Masuk ke Sway",
+		"judul": "Masuk ke Sway",
+		"tutorial": "- Masuk ke sway.office.com.\n Pilih masuk di bilah menu atas dengan akun Microsoft atau akun kerja atau sekolah anda untuk Microsoft 365.",
+		"gambar": "https://support.content.office.net/id-id/media/f08ea66c-0645-4b56-809d-5c2433f357c6.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "sway",
+		"link": "Menyambungkan Microsoft 365",
+		"judul": "Menyambungkan dari Microsoft 365 untuk bisnis",
+		"tutorial": "- Pilih peluncur aplikasi Ikon Peluncur aplikasi di Office 365 di bagian kiri atas jendela browser.\n Pilih Sway dari daftar Aplikasi. Jika tidak melihat Sway, pilih Semua aplikasi.\n Tidak dapat menemukan aplikasi yang Anda cari? Dari peluncur aplikasi, pilih Semua aplikasi untuk melihat daftar aplikasi Microsoft 365 yang tersedia menurut alfabet. Dari sana, Anda dapat mencari aplikasi tertentu.",
+		"gambar": "https://support.content.office.net/id-id/media/7acc06cc-ac7a-4c6e-8ea7-81570a5bdbab.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "sway",
+		"link": "Memberikan judul",
+		"judul": "memberikan judul pada Sway",
+		"tutorial": "- Klik teks placeholder Beri judul Sway yang ditampilkan di kartu pertama pada Alur Cerita, lalu ketikkan deskripsi singkat yang bermakna mengenai Sway Anda. Saat Sway dibagikan nanti, judul ini akan menjadi hal pertama yang dilihat orang lain.",
+		"gambar": "https://support.content.office.net/id-id/media/444d2846-1729-4952-b3ca-aee9d6c46dc5.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "sway",
+		"link": "Menambahkan gambar dan teks",
+		"judul": "Menambahkan gambar dan teks ke Sway",
+		"tutorial": "- Untuk menambahkan konten ke Sway, seperti teks, gambar, atau video, klik atau ketuk ikon + di bagian bawah kartu yang ada. Anda juga dapat menyeret dan menjatuhkan teks dan gambar langsung ke Alur Cerita. (Jangan ragu untuk bereksperimen, Anda dapat mengubah urutan konten kapan saja dan mengustomisasi setiap kartu sesuai keinginan.)",
+		"gambar": "https://support.content.office.net/id-id/media/f4b1ffc6-cb82-4891-805e-31a512b74a0c.png"
+	},
+	{
+		"kode": "5",
+		"kategori": "sway",
+		"link": "Menambahkan konten",
+		"judul": "Menambahkan konten ke Sway",
+		"tutorial": "- Anda dapat mencari dan menambahkan konten tambahan ke Sway dengan mudah, seperti gambar yang disimpan di komputer atau perangkat seluler. Sway juga dapat mencari konten yang paling relevan di Web, seperti video, lalu menambahkannya ke Sway Anda. Pada bilah menu, klik Sisipkan, pilih sumber konten yang diinginkan dari menu, lalu masukkan kata kunci atau frasa pencarian apa pun ke dalam kotak Cari sumber.",
+		"gambar": "https://support.content.office.net/id-id/media/c231d3f3-78d5-4e55-a07d-e17ab1555f9a.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "sway",
+		"link": "Melihat pratinjau",
+		"judul": "Melihat pratinjau Sway",
+		"tutorial": "- Anda dapat melihat pratinjau pekerjaan yang sedang berlangsung kapan saja dengan mengklik tab Desain. Dengan melihat pratinjau, Anda dapat melihat tampilan Sway bagi orang lain saat dibagikan nanti. Untuk menikmati pengalaman Sway sepenuhnya, klik tombol Putar pada bilah menu atas.",
+		"gambar": "https://support.content.office.net/id-id/media/c7c5d18e-f66a-4e08-8e71-9356d3942922.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "sway",
+		"link": "Mengubah gaya",
+		"judul": "Mengubah gaya Sway",
+		"tutorial": "- Untuk memilih gaya Sway, klik Desain pada bilah menu, lalu pilih Gaya. Untuk memilih tampilan dan nuansa Sway secara acak, klik tombol Remix! hingga menemukan desain dan tata letak yang disukai. Anda juga dapat menyesuaikan bagian gaya tertentu yang saat ini diterapkan, seperti warna, font, dan tekstur dengan mengklik tombol Sesuaikan di panel Gaya.\n Jika ingin mengontrol bagaimana orang lain melihat dan menavigasikan Sway Anda setelah dibagikan, pilih apakah konten perlu digulir secara vertikal, horizontal, atau ditampilkan seperti presentasi.",
+		"gambar": "https://support.content.office.net/id-id/media/0afd96b3-67ab-4bfe-94d7-0522ce1a1d90.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "sway",
+		"link": "Berbagi",
+		"judul": "Membagikan Sway",
+		"tutorial": "- Klik tombol Bagikan pada bilah menu atas, kemudian pilih cara yang diinginkan untuk berbagi Sway. Pilihan Anda pada menu ini bergantung pada tipe akun yang digunakan untuk masuk ke Sway.",
+		"gambar": "https://support.content.office.net/id-id/media/e2c75477-a9c2-4b6d-a9c8-b45fe12cd875.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "sway",
+		"link": "Menambahkan file video dan audio",
+		"judul": "Menambahkan file video dan audio ke Sway",
+		"tutorial": "- Dari File Explorer, seret dan letakkan file video atau audio langsung ke Alur Cerita Anda.\n Pada bilah menu, klik Sisipkan, lalu klik menu menurun Disarankan. Pilih sumber konten yang diinginkan, seperti OneDrive, YouTube, atau Perangkat saya. Pilih file video atau audio yang diinginkan, lalu seret ke Alur Cerita.\n Dalam Alur Cerita, klik ikon + di bagian bawah kartu yang ada, pilih Media, lalu pilih Video, Audio, atau Unggah.",
+		"gambar": "https://support.content.office.net/id-id/media/c231d3f3-78d5-4e55-a07d-e17ab1555f9a.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "sway",
+		"link": "Merekam audio",
+		"judul": "Merekam audio di Sway",
+		"tutorial": "- Pada bilah menu atas, klik kartu, dan tambahkan kartu audio ke SwayAnda.\n Klik Rekam pada kartu audio.\n Setelah hitungan mundur tiga detik, tombol berkedip akan menunjukkan bahwa Anda sedang merekam.\n Klik tombol berkedip saat Anda selesai merekam.\n Klik tombol putar untuk mempratinjau rekaman Anda. Jika Anda puas dengan rekaman Anda, pilih Tambahkan ke Sway; Jika tidak, klik Rekam ulang. Anda juga dapat menghapus perekaman dengan mengklik ikon keranjang sampah .",
+		"gambar": "https://support.content.office.net/id-id/media/2d5a714f-c0fa-4a2c-a6da-500d1a20a602.png"
+	},
+	{
+		"kode": "11",
+		"kategori": "sway",
+		"link": "Menyematkan dokumen Office",
+		"judul": "Menyematkan dokumen Office di Sway",
+		"tutorial": "- Dari OneDrive, OneDrive untuk kerja atau sekolah, atau SharePoint, buka fileWord di web, Excel untuk web, atauPowerPoint untuk webyang ingin Anda sematkan di Sway.\n Klik File > Bagikan.\n Klik Sematkan.\n Klik CTRL + C untuk menyalin kode semat.\n Masuk ke Sway dan buka Sway tempat Anda ingin menambahkan dokumen Office.\n Klik ikon + di bagian bawah kartu yang ada.\n Klik Media, lalu pilih Sematkan.\n Klik Ctrl + V untuk menempelkan kode semat yang Anda salin di langkah 4.\n Klik putaruntuk melihat tampilan dokumen Office anda diSway.",
+		"gambar": "https://support.content.office.net/id-id/media/a4b3aefe-fccf-4217-80e0-24ead919f4c5.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "sway",
+		"link": "Menyematkan formulir",
+		"judul": "Menyematkan formulir di Sway",
+		"tutorial": "- Di Microsoft Forms, buka formulir yang ingin disematkan di Sway.\n Pilih Bagikan, lalu pilih tombol Sematkan.\n Pilih Salin di samping kotak teks yang menampilkan kode semat.\n Buka Sway yang ingin ditambahkan formulir.\n Dari menu navigasi atas, pilih Kartu.\n Dalam panel Kartu, pilih Sematkan.\n Tempelkan kode semat yang telah disalin dalam langkah 4.\n Pilih Pratinjau untuk melihat tampilan formulir di Sway Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/c30ffbef-03ae-4b62-8a51-2475fd0482bd.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "sway",
+		"link": "Menyalin dan menempelkan kartu",
+		"judul": "Menyalin dan menempelkan kartu di Sway",
+		"tutorial": "- Masuk ke sway.office.com dan buka Sway yang ingin Anda edit.\n Di sudut kanan bawah kartu apa pun yang ingin disalin, klik untuk memilih kotak centangnya.\n Untuk menyalin kartu (atau beberapa kartu) yang telah dipilih, lakukan salah satu hal berikut:\n Jika menggunakan PC, tekan Ctrl+C pada keyboard.\n Jika menggunakan Mac, tekan Command+C pada keyboard.\n Untuk menyelesaikan proses, pindahkan fokus ke lokasi yang diinginkan untuk menampilkan kartu dalam Alur Cerita, kemudian lakukan salah satu hal berikut:\n Jika menggunakan PC, tekan Ctrl+V untuk menempelkan konten. Jika menggunakan Mac, tekan Command+V untuk menempelkan konten.",
+		"gambar": "https://support.content.office.net/id-id/media/f96a472c-81fd-4ccf-b9f3-21a72950e177.jpg"
+	},
+	{
+		"kode": "14",
+		"kategori": "sway",
+		"link": "Berbagi Sway menggunakan tautan",
+		"judul": "Berbagi Sway menggunakan tautan",
+		"tutorial": "- Buka Sway yang ingin dibagikan, lalu klik Bagikan pada bilah navigasi atas.\n Pilih apakah Anda ingin mengundang orang lain untuk menampilkan atau mengedit. Jika mengirimkan tautan tampilkan kepada seseorang, mereka hanya akan dapat menampilkan Sway Anda. Jika mengirimkan tautan edit kepada seseorang, mereka akan dapat menampilkan dan mengedit Sway Anda. Opsi Bagikan akan berubah tergantung pada apakah Anda mengirim tautan tampilkan atau edit.\n Pada menu yang muncul, lakukan salah satu hal berikut ini:\n Untuk berbagi tautan dengan seseorang, klik tombol Salin tautan di samping URL dalam kotak di bawah tombol radio Undang orang lain untuk menampilkan atau mengedit.\n Untuk berbagi Sway dengan menyematkannya pada halaman web di intranet perusahaan atau sekolah, klik </> Dapatkan kode semat. Di jendela Sematkan Sway ini yang muncul, klik Salin ke clipboard atau tekan CTRL+C untuk menyalin kode semat yang sudah disorot, lalu tekan CTRL+V untuk menempelkannya ke kode situs web Anda. Klik Tutup untuk kembali ke Sway.",
+		"gambar": "https://support.content.office.net/id-id/media/a554bc61-0712-4e51-b135-e3227173f354.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "sway",
+		"link": "Menambahkan kata sandi ke Sway",
+		"judul": "",
+		"tutorial": "- Klik ikon Bagikan pada bilah navigasi atas Sway.\n Pada menu yang muncul, klik Opsi lainnya, lalu klik Wajibkan kata sandi untuk menampilkan atau mengedit Sway ini.\n Dalam kotak dialog Buat kata sandi, pilih kata sandi untuk Sway. Pastikan bahwa kata sandi memiliki setidaknya 8 karakter, termasuk angka, huruf besar dan huruf kecil.\n Alihkan antara dua opsi berikut: Kata sandi dibutuhkan untuk menampilkan atau mengedit atau Kata sandi dibutuhkan untuk mengedit.",
+		"gambar": "https://support.content.office.net/id-id/media/8fa165c2-cd17-418a-982f-8cf9b47fd479.png"
+	}
+]

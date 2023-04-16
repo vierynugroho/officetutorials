@@ -1,0 +1,122 @@
+[
+	{
+		"kode": "1",
+		"kategori": "whiteboard",
+		"link": "Membuat Whiteboard baru",
+		"judul": "Membuat Whiteboard baru",
+		"tutorial": "- Setelah mengunduh Whiteboard ke perangkat atau membuka versi web di browser, masuk dengan akun Microsoft Anda.\n Saat meluncurkan pengalaman web Whiteboard atau aplikasi Whiteboard mandiri apa pun, Anda akan mulai dengan pemilih papan:\n Di sini, Anda dapat menemukan semua papan tulis yang telah dibuat atau diakses sebelumnya. Untuk membuat papan baru, pilih petak Buat Papan Tulis baru. ",
+		"gambar": "https://support.content.office.net/id-id/media/8222a1f0-ca79-42bb-b3f1-bc78e1cb0a7a.png"
+	},
+	{
+		"kode": "2",
+		"kategori": "whiteboard",
+		"link": "Menambahkan teks ke papan tulis",
+		"judul": "Menambahkan teks ke papan tulis",
+		"tutorial": "- Pilih tombol Buat di toolbar, lalu pilih Tambahkan teks.\n Klik di kanvas untuk menambahkan kotak teks.\n Anda juga dapat memilih area kanvas tertentu, menekan dan menahan (di perangkat sentuh) atau klik kanan untuk membuka menu Konteks , lalu pilih Teks.",
+		"gambar": "https://support.content.office.net/id-id/media/eeec0b25-13b3-4558-a303-b7738c30673f.png"
+	},
+	{
+		"kode": "3",
+		"kategori": "whiteboard",
+		"link": "Edit, salin, hapus teks",
+		"judul": "Mengedit, menyalin, atau menghapus teks yang sudah ada",
+		"tutorial": "- Pilih kotak teks lalu pilih tombol Edit teks (pensil).\n Pilih tombol Pemilih warna teks (lingkaran) untuk memilih warna teks baru. Font tidak dapat diubah.\n Pilih tombol Delete(del) (tempat sampah) untuk menghapus kotak teks.\n Pilih tombol Salin (persegi ganda) untuk menyalin teks. Tekan dan tahan (di perangkat sentuh) atau klik kanan pada kanvas untuk membuka menu Konteks , lalu pilih Salin.",
+		"gambar": "https://support.content.office.net/id-id/media/373bc4dc-ba7c-4138-8787-e7dd053fe135.png"
+	},
+	{
+		"kode": "4",
+		"kategori": "whiteboard",
+		"link": "Menggambar dan Tinta",
+		"judul": "Menggambar dan Tinta di Whiteboard",
+		"tutorial": "- Pilih Penintaan (ikon pena) dari menu sebelah kiri atau tekan Alt + W.\n Pilih pena dari toolbar tinta untuk mulai menggambar. Pilih pena dua kali untuk memilih warna atau ketebalan baru dari menu menurun.\n Pilih Mode panah tunggal di menu menurun atau tekan Alt + A untuk mengubah goresan tinta Anda menjadi panah tunggal.\n Pilih Mode panah ganda di menu menurun atau tekan Alt +Shift + A untuk mengubah goresan tinta menjadi panah ganda.\nPilih alat Penyorot atau tekan Alt + H untuk membuat kerangka objek, garis, atau teks.\n Pilih alat Penunjuk Laser untuk menyoroti area papan untuk sementara. ",
+		"gambar": "https://support.content.office.net/id-id/media/f0bed265-c53c-4815-9ba0-a5050a55d059.png"
+	},
+	{
+		"kode": "5",
+		"kategori": "whiteboard",
+		"link": "Menggambar atau menghapus",
+		"judul": "Menggambar atau menghapus",
+		"tutorial": "- Gambar garis lurus dengan menahan tombol Shift saat Anda tinta.\n Pilih alat Penghapus atau tekan Alt + X untuk menghapus tinta. Atau, jika memiliki pena aktif, Anda dapat menggunakan penghapus pada pena untuk menghapus.\n Pilih Tingkatkan bentuk bertinta dari menu Pengaturan untuk mengonversi gambar yang digambar menjadi bentuk secara otomatis.",
+		"gambar": "https://support.content.office.net/id-id/media/afb68fd4-3068-4b06-8fca-dae745f906b1.png"
+	},
+	{
+		"kode": "6",
+		"kategori": "whiteboard",
+		"link": "Menambahkan kisi catatan",
+		"judul": "Menambahkan catatan tempel atau kisi catatan",
+		"tutorial": "- Pilih tombol Buat di toolbar, lalu klik Tambahkan catatan atau kisi catatan.\n Pilih warna catatan lalu seretikon catatan ke kanvas untuk menambahkan catatan.\n Pilih kisi catatan jika Anda ingin menambahkan beberapa catatan sekaligus. Untuk menambahkan lebih banyak catatan tempel ke kisi catatan, pilih Tambahkan Catatan di bagian kanan atas.\n Anda juga dapat memilih area tertentu dari kanvas, menekan dan menahan (di perangkat sentuh) atau mengklik kanan untuk membuka menu Konteks , lalu pilih tombol Catatan untuk menyisipkan catatan tempel.",
+		"gambar": "https://support.content.office.net/id-id/media/3559b320-71fd-4cd0-a710-a90a700d3607.png"
+	},
+	{
+		"kode": "7",
+		"kategori": "whiteboard",
+		"link": "Mengedit catatan",
+		"judul": "Mengedit catatan",
+		"tutorial": "- Untuk menambahkan teks ke catatan, klik catatan dan masukkan pesan Anda saat kursor muncul. Anda juga dapat memilih tombol Edit teks (pensil).\n Untuk membuat anotasi catatan tempel dengan tinta, tulis di atas catatan tempel. Tinta kemudian akan ditambatkan ke catatan tempel.\n Klik kanan pada catatan dan pilih tombol Pemilih warna latar belakang untuk mengubah warna catatan.",
+		"gambar": "https://support.content.office.net/id-id/media/3559b320-71fd-4cd0-a710-a90a700d3607.png"
+	},
+	{
+		"kode": "8",
+		"kategori": "whiteboard",
+		"link": "Menyalin atau menghapus catatan",
+		"judul": "Menyalin atau menghapus catatan atau kisi catatan",
+		"tutorial": "- Pilih catatan dan pilih tombol Salin untuk menyalinnya. Tekan dan tahan (di perangkat sentuh) atau klik kanan pada kanvas untuk membuka menu Konteks , lalu pilih Salin.\n Klik tombol Delete(del) untuk menghapus catatan. Anda bisa menghapus catatan individual dalam kisi atau seluruh kisi.",
+		"gambar": "https://support.content.office.net/id-id/media/3559b320-71fd-4cd0-a710-a90a700d3607.png"
+	},
+	{
+		"kode": "9",
+		"kategori": "whiteboard",
+		"link": "Menyisipkan gambar",
+		"judul": "Menyisipkan gambar pada Microsoft Whiteboard",
+		"tutorial": "- Buka menu Buat dengan memilih Buat (ikon plus) dari menu sebelah kiri.\n Pilih Gambar.\n Pilih Perangkat Saya untuk membuka File Explorer lalu pilih gambar yang ingin Anda unggah. Pilih Buka.\n Atau pilih Gambar Bing untuk menyisipkan gambar saham yang disetujui. Anda dapat menggunakan bilah pencarian untuk menemukan gambar atau memilih gambar dari salah satu kategori.  Pilih Sisipkan.\n Gambar akan muncul di kanvas. Klik dan seret di sudut gambar untuk mengubah ukurannya.",
+		"gambar": "https://support.content.office.net/id-id/media/2c88cff6-0a32-4eb2-8bcc-24c931a2f817.png"
+	},
+	{
+		"kode": "10",
+		"kategori": "whiteboard",
+		"link": "Menyisipkan dokumen",
+		"judul": "Menyisipkan dokumen pada Microsoft Whiteboard",
+		"tutorial": "- Buka menu Buat dengan memilih Buat (ikon plus) dari menu sebelah kiri.\n Pilih Dokumen.\n Pilih File Saya untuk membuka File Explorer. Anda dapat menambahkan PDF dari PC lokal, serta PDF dan file PowerPoint melalui OneDrive.\n Pilih file PDF atau PowerPoint yang ingin Anda unggah. Anda juga bisa memilih dokumen yang baru saja dibuka.\n Pilih halaman yang ingin Anda unggah atau centang tombol Pilih Semua untuk mengunggah seluruh dokumen.\n Dokumen akan muncul di kanvas. Klik dan seret di sudut dokumen untuk mengubah ukurannya.",
+		"gambar": "data:image/jpeg;base64,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"
+	},
+	{
+		"kode": "11",
+		"kategori": "whiteboard",
+		"link": "Mengunci konten",
+		"judul": "Mengunci konten di Whiteboard",
+		"tutorial": "- Buka menu Konteks dengan mengklik atau mengetuk objek.\n Anda dapat mengunci beberapa objek dengan memilih Ctrl lalu mengklik atau mengetuk setiap objek.\n Pilih Lainnya (... ikon) lalu Kunci.\n Untuk membuka kunci objek:\n Klik kanan objek yang terkunci.\n Pilih Buka kunci.\n Anda juga dapat memilih Buka kunci semua untuk membuka kunci semua item di kanvas.",
+		"gambar": "https://support.content.office.net/id-id/media/a9fb2ad0-0d0b-4869-9441-a35b7d525e3d.png"
+	},
+	{
+		"kode": "12",
+		"kategori": "whiteboard",
+		"link": "Menyisipkan templat",
+		"judul": "Menyisipkan templat di Whiteboard",
+		"tutorial": "- Pilih tombol Buat (plus) di toolbar.\n Pilih tombol Templat di panel Buat.\n Gulir kategori templat yang tersedia. Arahkan mouse ke atas templat untuk melihat deskripsi.\n Klik dan seret templat untuk menambahkannya ke papan tulis Anda.",
+		"gambar": "https://support.content.office.net/id-id/media/b1f7afef-39d5-4709-9986-39f865b2cebd.png"
+	},
+	{
+		"kode": "13",
+		"kategori": "whiteboard",
+		"link": "Mengaktifkan anotasi",
+		"judul": "Mengaktifkan dan menggunakan anotasi",
+		"tutorial": "- Saat Anda berbagi layar penuh dalam rapat, pilih Mulai anotasi ikon anotasi Microsoft Teamsdalam kontrol rapat di area tengah atas layar Anda.\n Kerangka merah di sekitar layar bersama akan berubah menjadi biru dan semua peserta akan melihat Microsoft Whiteboard toolset di bagian atas layar bersama. Setiap orang dalam rapat bisa langsung mulai membuat anotasi, dan alat pena merah dipilih secara default.\n Untuk mulai membuat anotasi, pilih salah satu alat di toolset Whiteboard—seperti catatan Tempel—dan mulailah mengetik atau menggambar di layar. ",
+		"gambar": "https://support.content.office.net/id-id/media/0be059b5-3ee0-4efe-a695-f7e26974340a.png"
+	},
+	{
+		"kode": "14",
+		"kategori": "whiteboard",
+		"link": "Pengaturan anotasi",
+		"judul": "Pengaturan anotasi",
+		"tutorial": "- Pilih Pengaturan  ikon geriga Pengaturan.\n Nonaktifkan tombol alih di samping Kursor Kolaboratif.",
+		"gambar": "https://support.content.office.net/id-id/media/d44297c1-df73-4bc3-9882-6583d7bf85c1.png"
+	},
+	{
+		"kode": "15",
+		"kategori": "whiteboard",
+		"link": "Menonaktifkan anotasi",
+		"judul": "Menonaktifkan anotasi",
+		"tutorial": "- Sebagai penyaji, Anda bisa menonaktifkan anotasi untuk semua peserta dengan memilih Hentikan anotasi dalam kontrol rapat di area tengah atas layar Anda. ",
+		"gambar": "https://support.content.office.net/id-id/media/bf08d4f6-9199-421a-90d2-797aebb7f26d.png"
+	}
+]

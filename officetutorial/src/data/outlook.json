@@ -1,0 +1,107 @@
+[
+	{
+		"kategori": "outlook",
+		"link": "Menambahkan akun email",
+		"judul": "Menambahkan akun email",
+		"tutorial": "- Buka Outlook, lalu pilih File > Tambahkan akun. Jika belum pernah meluncurkan Outlook, anda akan melihat layar selamat datang.\n Masukkan alamat email, lalu pilih Sambungkan. Jika layar tampak berbeda, masukkan nama, alamat email, dan kata sandi, lalu pilih berikutnya.\n Jika diminta masukkan kata sandi, lalu pilih OK.\n Pilih selesai.",
+		"gambar": "https://support.content.office.net/id-id/media/535a2903-4605-46b9-9fe0-8fc60424adce.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Format Font (Daftar Pesan)",
+		"judul": "Mengubah font atau ukuran font (Daftar Pesan)",
+		"tutorial": "- Pilih Tampilkan > Pengaturan Tampilan.\n Pilih pengaturan lain dalam kotak pengaturan Yampilan Tingkat lanjut.\n Pilih Font kolom atau Font Baris.\n Pilih font, gaya font, dan ukuran yang anda inginkan, lalu klik OK tiga kali untuk menyimpan pengaturan anda dan menerapkan perubahan.",
+		"gambar": "https://support.content.office.net/id-id/media/d9b0954c-87f1-429c-b43c-547423eb4ab1.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Format Font (Panel Baca)",
+		"judul": "Mengubah font atau ukuran font (Panel Baca)",
+		"tutorial": "- Di sudut kanan bawah Panel Baca, klik presentase (biasanya 100%) untuk menampilkan kotak dialog Zoom Saat Membaca.\n Pilih salah satu presentase default atau masukkan presentase anda sendiri. pilih kotak centang Ingat preferensi saya untuk mempertahankan tingkat zoom anda tetap sama di semua pesan yang anda terima.",
+		"gambar": "https://support.content.office.net/id-id/media/11964258-6dc7-4f1d-8405-ce1dd51b77e1.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Mengubah ukuran font untuk pesan",
+		"judul": "Mengubah ukuran font untuk pesan saat menulis, membalas, atau meneruskan.",
+		"tutorial": "- Pilih Opsi > File > Alat Tulis dan Font > Email.\n Pilih tombol Font untuk pesan email baru atau Membalas atau Meneruskan pesan untuk mengubah font, ukuran font, dan warna font default saat menulis atau membalas pesan.\n klik OK dua kali untuk menyimpan perubahan anda.",
+		"gambar": "https://support.content.office.net/id-id/media/c7588acd-7d3a-464f-8945-26a16ee8b2a4.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Membuat tampilan baru",
+		"judul": "Membuat tampilan baru",
+		"tutorial": "- Klik Tampilkan > Tampilan Saat ini > Ubah Tampilan > Kelola Tampilan > Baru.\n Masukkan nama untuk tampilan baru anda, lalu pilih tipe tampilan.\n Di bawah Dapat digunakan di , setujuipengaturan default dari Folder Semua Email dan Kiriman atau pilih opsi lain, lalu pilih OK.\n untuk langsung menggunakan tampilan tersebut, pilih Terapkan Tampilan.",
+		"gambar": "https://support.content.office.net/id-id/media/fe8c612f-21c0-4333-913d-87649e6b89ef.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Menghapus Tampilan kustom",
+		"judul": "Menghapus Tampilan kustom",
+		"tutorial": "- Di tab Tampilan, dalam grup Tampilan Saat ini, pilih Ubah Tampilan > Kelola Tampilan.\n Di bawah Tampilan untuk folder, pilih tampilan kustom yang ingin anda hapus.\n Pilih Hapus, konfirmasipenghapusan, kemudian pilih OK.",
+		"gambar": "https://support.content.office.net/id-id/media/fe8c612f-21c0-4333-913d-87649e6b89ef.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Membuat item kalender yang akan datang",
+		"judul": "Membuat item kalender yang akan datang",
+		"tutorial": "- Klik kanan Kalender pada bilah navigasi, lalu klik Dok intip.",
+		"gambar": "https://support.content.office.net/id-id/media/71832a2a-f1f7-4a19-8294-9763c3760340.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Mengubah ke tampilan bulan",
+		"judul": "Mengubah ke tampilan bulan dengan tanggal mulai senin dan memperliatkan hari libur",
+		"tutorial": "- Klik Kalender.\n Klik Beranda > Susun > Bulan.\n Klik tab File.\n Klik Opsi,lalu Klik Kalender.\n Di bawah Waktu kerja, untuk hari pertama dalam seminggu, pilih Senin.\n Di bawah Opsi kalender, untuk tambahkan hari libur ke Kalender, klik tambahkan Hari Libur.\n Klik Amerika serikat, lalu klik OK.",
+		"gambar": "https://support.content.office.net/id-id/media/dc4fb207-0bd7-4238-95dd-1ea330668fe2.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Mengubah tampilan jadwal",
+		"judul": "Mengubah tampilan minggu kerja sunday-tuesday dengan waktu 12 jam",
+		"tutorial": "- Klik Kalender.\n Klik Pengaturan > Nebyusun > Ninggu Kerja.\n Klik tab File.\n Klik Opsi, lalu klik Kalender.\n Di bawah Waktu kerja, untuk Waktu mulai, pilih 06.00.\n Di bawah Waktu kerja, untuk Waktu akhir,pilih 18.00.\n Untuk Minggu kerja, pilih Min,Sen, dan Sel, lalu kosongkan kotak centang lainnya yang dipilih.\n Untuk Hari Pertama Dalam Seminggu,pilih minggu.\n Klk OK.",
+		"gambar": "https://support.content.office.net/id-id/media/c08b6776-7813-458b-aa6f-4c2861c98944.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Menampilkan dua Zona waktu dalam tampilan Minggu",
+		"judul": "Menampilkan dua Zona waktu dalam tampilan Minggu",
+		"tutorial": "- KLik Kalender.\n Klik Beranda > Susun > Minggu.\n Klik kanan ruangkosong di baian atas bilah waktu, lalu klik ubah Zona Waktu pada menu pintasan.\n Di bawah Zona Waktu, ketikkan Zona Waktu Timur dalam kotak label.\n Dalam daftar Zona waktu, klik (UTC-05:00) Waktu Timur (AS & Kanada).\n Pilih Perlihatkan zona waktu kedua.\nketik Brisbane dalam kotak label.\n Dalam daftar Zona waktu, klik (UTC+ 10:00) Brisbane.\n Klik OK.",
+		"gambar": "https://support.content.office.net/id-id/media/af01c0f3-3342-4bea-8d76-b1bc0d6afbe0.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Mengaktifkan kotak masuk prioritas",
+		"judul": "Mengaktifkan kotak masuk prioritas",
+		"tutorial": "- Di Outlook, pilih tab Tampilan.\n Pilih Perlihatkan kotak masuk prioritas. Tab Prioritas dan Lainnya akan muncul di bagian atas kotak surat Anda. Anda akan diberi tahu tentang email yang mengalir ke Lainnya, dan dapat beralih antar tab kapan saja untuk melihat sekilas.\n Dari kotak masuk, pilih tab Prioritas atau Lainnya, kemudian klik kanan pesan yang ingin Anda pindahkan.\n Jika Anda berpindah dari Prioritas ke Lainnya, pilih Pindahkan ke Lainnya jika Hanya ingin memindahkan pesan yang dipilih. Pilih Selalu Pindahkan ke Lainnya jika Anda ingin semua pesan mendatang dari pengirim dikirimkan ke tab Lainnya.\n ika Anda berpindah dari Lainnya ke Prioritas, pilih Pindahkan ke Prioritas jika Hanya ingin memindahkan pesan yang dipilih. Pilih Selalu Pindahkan ke Prioritas jika Anda ingin semua pesan mendatang dari pengirim dikirimkan ke tab Prioritas.",
+		"gambar": "https://support.content.office.net/id-id/media/87800bda-e922-4a86-82f3-188bef6869ef.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Mengaktifkan pesan Bcc",
+		"judul": "Mengaktifkan pesan Bcc",
+		"tutorial": "- Buka pesan baru, balas, atau teruskan pesan yang sudah ada.\n Jika pesan yang sedang ditulis terbuka dijendela baru, pilih Opsi > Bcc. Jika pesan yang sedang ditulis terbuka di panel Baca, pilih Bcc dari pita.\n Dalam kotak Bcc, tambahkan penerima, tulis pesan, lalu pilih kirim.",
+		"gambar": "https://support.content.office.net/id-id/media/a1fbfc02-72b7-43fc-98cb-d1676cfa3b1e.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Menonaktifkan Bcc",
+		"judul": "Menonaktifkan Bcc",
+		"tutorial": "- Buka pesan baru, balas, atau teruskan pesan yang sudah ada.\n Jika pesan yang sedang ditulis terbuka dijendela baru, pilih Opsi > Bcc. Jika pesan yang sedang ditulis terbuka di panel Baca, pilih Bcc dari pita.",
+		"gambar": "https://support.content.office.net/id-id/media/a1fbfc02-72b7-43fc-98cb-d1676cfa3b1e.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Menampilkan penerima Bcc",
+		"judul": "Menampilkan penerima Bcc",
+		"tutorial": "- Dalam folderItem Terkirim, buka pesan yang telah anda kirimkan.\n Di Panel Baca, lihat bagian header pesan.",
+		"gambar": "https://support.content.office.net/id-id/media/1b3edfe0-bfb0-46d4-bc14-7f422e239b99.png"
+	},
+	{
+		"kategori": "outlook",
+		"link": "Menggunakan tampilan percakapan",
+		"judul": "Menggunakan tampilan percakapan",
+		"tutorial": "- Dari folder email apapun, seperti kotak masuk anda, pilih Tampilkan > Perlihatkan sebagai percakapan untuk mengaktifkan atau menonaktifkan tamplan percakapan.\n Pilih semua kotak surat atau folder ini.",
+		"gambar": "https://support.content.office.net/id-id/media/acc88836-e4d7-4cda-9e27-b16bfab63ee9.png"
+	}
+]

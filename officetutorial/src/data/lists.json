@@ -1,0 +1,90 @@
+[
+    {
+        "kode":"1",
+        "kategori":"lists",
+        "link":"Membuat daftar baru",
+        "judul":"Membuat daftar baru",
+        "tutorial":"- Pilih Peluncur aplikasi > Semua aplikasi > Daftar.\n Pilih Daftar baru.\n Pilih cara yang Anda inginkan untuk membuat daftar:\n Daftar kosong: Mulai dari awal\n Dari Excel: - Menghadirkan data tabel dari Excel\n Dari daftar yang sudahada : Mulai dengan pemformatan dari daftar lain\n Templat\n Pilih opsi untuk daftar Anda, lalu Buat.\n Untuk menambahkan item, pilih Baru, isi formulir, dan pilih Simpan. ",
+        "gambar":"https://support.content.office.net/id-id/media/2e573089-d913-4fc2-8473-d3c5e64311fa.png"
+    },
+    {
+        "kode":"2",
+        "kategori":"lists",
+        "link":"Menambahkan daftar",
+        "judul":"Menambahkan daftar ke saluran Teams",
+        "tutorial":"- Masuk ke saluran Teams tempat Anda ingin menambahkan daftar.\n Pilih ikon Tambahkan tab, pilih Daftar, lalu Simpan.",
+        "gambar":"https://support.content.office.net/id-id/media/11cff27a-d258-4718-80c7-6dc5b666daa7.png"
+    },
+    {
+        "kode":"3",
+        "kategori":"lists",
+        "link":"Menambahkan atau mengedit item daftar",
+        "judul":"Menambahkan atau mengedit item daftar",
+        "tutorial":"- Pilih daftar yang ingin Anda edit.\n Untuk menambahkan item, pilih Baru.\n Tambahkan detail di setiap kolom untuk item tersebut.\n Pilih Simpan.",
+        "gambar":"data:image/png;base64,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"
+    },
+    {
+        "kode":"4",
+        "kategori":"lists",
+        "link":"Menambahkan atau mengedit beberapa item",
+        "judul":"Menambahkan atau mengedit beberapa item dengan menggunakan tampilan kisi",
+        "tutorial":"- Pilih Edit dalam tampilan kisi.\n Klik ganda sel untuk membuat perubahan.\n Untuk mengedit beberapa nilai dalam kolom sekaligus dengan cepat, pilih sel yang memiliki nilai yang tepat, lalu seret sudut sel untuk memperluas pilihan ke baris yang berada di sebelahnya.\n Untuk membatalkan tindakan, gunakan Batalkanatau Kembalikan.\n Anda dapat menambahkan item baru dengan menyalin item yang sudah ada, lalu merevisi salinan:\n Pilih item, lalu tekan Ctrl+C.\n Di bagian bawah daftar, pilih Tambahkan Item Baru.\n Tekan Ctrl+V untuk menempelkannya.\n Perbarui item baru sesuai kebutuhan.\n Pilih Keluar dari Tampilan Kisi untuk menyimpan perubahan Anda.",
+        "gambar":"https://support.content.office.net/id-id/media/51ef8fbf-f3d9-4c17-97d1-dab32a8cc0eb.png"
+    },
+    {
+        "kode":"5",
+        "kategori":"lists",
+        "link":"Mengedit satu atau beberapa item dalam daftar",
+        "judul":"Mengedit satu atau beberapa item dalam daftar",
+        "tutorial":"- Sama seperti menambahkan item, ada dua cara untuk mengedit item dalam daftar. Anda bisa mengedit item dalam tampilan daftar, yang merupakan metode default, atau Anda bisa mengedit beberapa item dalam tampilan Edit dalam kisi.",
+        "gambar":"https://support.content.office.net/id-id/media/3911e310-dc85-40a8-a603-e52949fc95bd.png"
+    },
+    {
+        "kode":"6",
+        "kategori":"lists",
+        "link":"Menambahkan lampiran",
+        "judul":"Menambahkan lampiran ke item yang sudah ada",
+        "tutorial":"- Navigasi ke situs yang berisi daftar tempat Anda ingin mengedit item.\n Pilih nama atau judul daftar tersebut.\n Pilih lingkaran di samping item yang ingin diedit, lalu dalam menu menurun, pilih Edit.Jika berada dalam tampilan Edit cepat, pilih lingkaran di samping item.\n Pilih Tambahkan lampiran, lalu pilih file. Tahan tombol CTRL ketika memilih file untuk dilampirkan lebih dari satu file.\n Pilih Buka, lalu pilih OK. Jika perintah Tambahkan lampiran tidak tersedia, daftar Anda tidak mendukung lampiran.\n Untuk menghapus lampiran dari item daftar, pilih Edit Item. Di bagian Lampiran pada formulir di samping lampiran yang ingin Anda hapus, pilih Hapus.\n Pilih Simpan.",
+        "gambar":"https://support.content.office.net/id-id/media/e7d93859-ac7c-436a-9049-7dbf98eb4738.png"
+    },
+    {
+        "kode":"7",
+        "kategori":"lists",
+        "link":"Menghapus satu atau beberapa item daftar",
+        "judul":"Menghapus satu atau beberapa item daftar",
+        "tutorial":"- Navigasi ke situs yang berisi daftar tempat Anda ingin menghapus item.\n Pilih judul daftar yang ingin Anda gunakan.\n Anda bisa memilih satu atau beberapa item untuk dihapus dalam satu waktu. Pilih tanda centang di sebelah kiri item yang ingin Anda hapus, dan dari bagian Kelola pada tab Item, pilih Hapus Item.",
+        "gambar":"https://support.content.office.net/id-id/media/8dbc7634-d348-4aac-b3db-1098cba39553.png"
+    },
+    {
+        "kode":"8",
+        "kategori":"lists",
+        "link":"Memilih tampilan lain",
+        "judul":"memilih tampilan lain ",
+        "tutorial":"- Di bilah perintah daftar Anda, pilih Tampilkan opsi Ikon Opsi Tampilan Daftar.\n Pilih nama tampilan yang ingin Anda alihkan.\n Pilih dari opsi tampilan Daftar, Daftar Ringkas, atau Galeri.\n Saat Anda berada dalam mode tampilan kisi , Anda akan melihat opsi untuk Tinggi tetap dan tinggi Paskan Otomatis:\n Saat Anda tidak berada dalam mode tampilan kisi, Anda melihat tipe tampilan yang berbeda: Daftar, Daftar ringkas, dan Galeri. Di bawah opsi Semua item, Anda bisa memilih tampilan lain yang tersedia.",
+        "gambar":"https://support.content.office.net/id-id/media/97c43a64-694f-4298-8d26-83cdd34973d2.png"
+    },
+    {
+        "kode":"9",
+        "kategori":"lists",
+        "link":"Membuat tampilan",
+        "judul":"Membuat tampilan di Microsoft acces",
+        "tutorial":"- Di bilah perintah daftar Anda, pilih Tampilkan opsi Ikon Opsi Tampilan Daftar.\n Pilih Buat tampilan baru.\n Di bawah Nama tampilan, masukkan nama untuk tampilan Anda.\n Di bawah Perlihatkan sebagai, pilih Daftar atau Kalender untuk tipe tampilan yang ingin Anda buat.\n Jika Anda memilih tampilan kalender , masukkan tanggal mulai dan tanggal berakhir di kalender.\n Untuk mengubah tampilan judul item di kalender, pilih Opsi lainnya lalu pilih dari daftar Judul item di kalender .\n Setelah selesai, pilih Buat.",
+        "gambar":"https://support.content.office.net/id-id/media/a0f28f93-cf68-4ab9-8f7f-9058da91c350.png"
+    },
+    {
+        "kode":"10",
+        "kategori":"lists",
+        "link":"Mengkustomisasi daftar",
+        "judul":"Mengkustomisasi daftar",
+        "tutorial":"- Untuk mengkustomisasi daftar, pilih Buka tindakan, lalu Kustomisasi.\n Anda bisa mengubah nama, warna, atau ikon untuk daftar tersebut.\n Setelah selesai, pilih Simpan.",
+        "gambar":"https://support.content.office.net/id-id/media/27493476-49be-4707-8da4-adbafdaded44.png"
+    },
+    {
+        "kode":"11",
+        "kategori":"lists",
+        "link":"Berbagi item daftar atau daftar",
+        "judul":"Berbagi item daftar atau daftar menggunakan Salin tautan",
+        "tutorial":"- Masuk ke daftar atau arahkan mouse ke atas item daftar yang ingin Anda bagikan, lalu pilih Bagikan.\n Gunakan izin default atau pilih Orang di <organisasi> dengan tautan dapat mengedit untuk mengubah izin tautan.\n Jika sudah selesai, pilih Terapkan.",
+        "gambar":"https://support.content.office.net/id-id/media/30a63c37-40e2-4d2e-b898-08f5a3e72714.png"
+    }
+]

@@ -1,0 +1,106 @@
+[
+	{
+		"kode": 1,
+		"kategori": "publisher",
+		"link": "Publisher Quick Start",
+		"judul": "Buat publikasi dengan templat",
+		"tutorial": "Buka penerbit. Jika anda sudah berada di publisher, pilih file > baru. Pilih atau cari template : \nPilih template unggulan.\nPilih built in dan pilih template.\nCari template menggunakan:\nCari template online atau salah satu pencarian yang di sarankan.\nPilih buat",
+		"gambar": "https://support.content.office.net/en-us/media/66b4e0f6-f21e-4417-b9e3-4f0f992ba364.png"
+	},
+	{
+		"kode": 2,
+		"kategori": "publisher",
+		"link": "Tambahkan kotak",
+		"judul": "Tambahkan kotak teks",
+		"tutorial": "Pilih beranda > gambar kotak teks.\nSeret Kursor berbentuk plus untuk menggambar kotak tempat anda ingin menambahkan teks.\nKetik teks di kotak teks. Jika teks tidak dimuat di kotak teks, perbesar kotak teks, atau tautkan ke kotak teks lainnya.",
+		"gambar": "https://support.content.office.net/en-us/media/6dc0f004-1d9a-45ce-909c-39ccceb124a4.png"
+	},
+	{
+		"kode": 3,
+		"kategori": "publisher",
+		"link": "Sisipkan",
+		"judul": "Sisipkan gambar",
+		"tutorial": "Pilih sisipkan > gambar atau sisipkan > gambar daring.\nTemukan gambar yang anda inginkan dan pilih.\nPilih sisipkan",
+		"gambar": "https://support.content.office.net/en-us/media/10ec3217-3f20-4a29-87b5-83a32a7a474e.png"
+	},
+	{
+		"kode": 4,
+		"kategori": "publisher",
+		"link": "Menyimpan",
+		"judul": "Simpan informasi bisnis anda untuk digunakan kembali",
+		"tutorial": "pilih sisipkan > informasi bisnis > edit informasi bisnis.",
+		"gambar": "https://support.content.office.net/en-us/media/ed106269-c38b-4b1f-86fa-c611382d0a15.png"
+	},
+	{
+		"kode": 5,
+		"kategori": "publisher",
+		"link": "Rancangan",
+		"judul": "Tautkan kotak teks",
+		"tutorial": "Pilih tombol luapan, lalu kursor akan berubah menjadi gambar kendi.\nPilih kotak teks tempat anda ingin teks mengalir, atau klik di mana saja pada halaman untuk membuat kotak teks baru untuk teks luapan.",
+		"gambar": "https://support.content.office.net/en-us/media/385f3e4a-ff26-473d-b195-00a961806cf1.png"
+	},
+	{
+		"kode": 6,
+		"kategori": "publisher",
+		"link": "Tukar gambar",
+		"judul": "Tukar gambar",
+		"tutorial": "Pilih gambar, seret gambar dengan ikon gunung ke tempat yang anda ingingkan.\nSaat sorotan merah muda muncul disekitar gambar, lepaskan tombol mouse.",
+		"gambar": "https://support.content.office.net/en-us/media/6a1bd174-da54-45d9-a89e-ca8f1c912c1a.jpg"
+	},
+	{
+		"kode": 7,
+		"kategori": "publisher",
+		"link": "Pangkas gambar",
+		"judul": "Pangkas gambar",
+		"tutorial": "Pilih gambar.\nPiih format alat gambar > pangkas.\nGunakan gagang pemotong untuk mengubah ukuran gambar:\nSeret pegangan tengah untuk memotong sisi itu.\nTahan Ctrl dan seret gagang tengah untuk memotong secara merata di dua sisi.\nTahan Ctrl+Shift dan seret gagang sudut untuk memangkas keempat sisi secara merata.\nKlik diluar gambar untuk memotong",
+		"gambar": "https://support.content.office.net/en-us/media/449388da-7ee5-4f30-948e-2c4005971213.png"
+	},
+	{
+		"kode": 7,
+		"kategori": "publisher",
+		"link": "Tambahkan efek",
+		"judul": "Tambahkan efek ke gambar",
+		"tutorial": "Pilih gambar.\nPilih format alat gambar > efek gambar.\nPilih efek: shadow, reflection, glow, soft edges, bevel, atau 3D rotation.\nPilih efek yang anda inginkan",
+		"gambar": "https://support.content.office.net/en-us/media/e1352691-4888-41e5-b85c-ced37433f8d4.jpg"
+	},
+	{
+		"kode": 8,
+		"kategori": "publisher",
+		"link": "Tambahkan efek ke teks",
+		"judul": "Tambahkan efek ke teks",
+		"tutorial": "Pilih teks yang ingin anda format.\nPilih format alat kotak teks > efek teks.\nPiih jenis efek: shadow, reflection, glow, atau bevel.\nPilih efek spesifik yang anda inginkan.",
+		"gambar": "https://support.content.office.net/en-us/media/1b1a920a-21bf-4b47-a110-1d358f9f5a30.jpg"
+	},
+	{
+		"kode": 9,
+		"kategori": "publisher",
+		"link": "Tambahkan Blok",
+		"judul": "Tambahkan Building Blok",
+		"tutorial": "Pilih tab sisipkan.\nPilih blok penyusun:\nBagian halaman\nKalender\nPerbatasan dan aksen\nIklan",
+		"gambar": "https://support.content.office.net/en-us/media/4e77c6b7-2383-41e5-819f-7c02601ffba3.png"
+	},
+	{
+		"kode": 10,
+		"kategori": "publisher",
+		"link": "Membuat brosur",
+		"judul": "Membuat brosur baru menggunakan publisher",
+		"tutorial": "Untuk segala sesuatu, mulai dari brosur lipat tiga atau 3 panel hingga selebaran, templat adalah cara tercepta untuk memulai publikasi baru. Berikut ini cara menutup dan mengkustomisasi templat brosur.\nPada halaman mulai yang muncul saat anda membuka publisher, klik brosur (anda dapat masuk kehalaman mulai kapan saja dengan mengklik file > baru}.\nKlik sebush brosur di galeri tempat brosue dan klik buat",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Publisher_960x615?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=95&fmt=png-alpha"
+	},
+	{
+		"kode": 11,
+		"kategori": "publisher",
+		"link": "Mengubah templat",
+		"judul": "Mengubah templat anda",
+		"tutorial": "Tidak meyukai templat brosur yang anda pilih? anda bisa mengubahnya.\nKlik Desain halaman > ubah templat.\nGanti teks atau grafik templat dengan mengklik kanan kotak teks atau grafik dan mengklik hapus teks atau ubah gambar.",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Publisher_960x615?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=95&fmt=png-alpha"
+	},
+	{
+		"kode": 12,
+		"kategori": "publisher",
+		"link": "Mengkustomisasi templat",
+		"judul": "Menkustomisasi templat anda",
+		"tutorial": "Setelah menemukan templat yang anda sukau, anda bisa mengkustomimasinya.\nKlik tab desain halaman dan bereksperimenlah dengan warna tema, font, dan latar belakang.\nBila anda puas dengan hasilnya, klik file > cetak dan pilih sebuah opsi: \nKlik ekspor untuk menemukan opsi simpan sebagai PDF atau kemas dan proses lainnya untuk pencetakan foto atau komersial.\nKlik cetak untuk membuat salinan di printer pribadi anda.",
+		"gambar": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Publisher_960x615?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=95&fmt=png-alpha"
+	}
+]
